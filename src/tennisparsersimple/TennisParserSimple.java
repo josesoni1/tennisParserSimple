@@ -32,8 +32,8 @@ public class TennisParserSimple {
     public static void main(String[] args) throws IOException {
         String res = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
         // TODO code application logic here
-        LocalDate sta= LocalDate.of(2016, 1, 1);
-        LocalDate fin= LocalDate.of(2017, 1, 1);
+        LocalDate sta= LocalDate.of(2018, 1, 1);
+        LocalDate fin= LocalDate.of(2019, 1, 1);
         String datRange= sta +"_to_"+fin.minusDays(1);
         //LocalDate fin = LocalDate.now();
         println(sta +" "+fin);
@@ -67,8 +67,16 @@ public class TennisParserSimple {
             
             Iterator< String> lis = item.lines().iterator();
             String page="";
-            while(lis.hasNext()){
-            page = page +"\n" +lis.next();
+            try{
+                while(lis.hasNext()){
+                page = page +"\n" +lis.next();
+                }
+            }catch(Exception ex){
+                println(ex.getMessage());
+                println(page.length());
+                if(page.contains("<td rowspan=\"2\" class=\"beg\">"))
+                    println(page.substring(page.indexOf("<td rowspan=\"2\" class=\"beg\">")+28,
+                            page.indexOf("<td rowspan=\"2\" class=\"beg\">")+36));
             }
             page = page.substring(page.indexOf("<table"));
             page = page.substring(0, page.lastIndexOf("</table>")+8);
