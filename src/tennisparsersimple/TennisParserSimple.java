@@ -16,8 +16,10 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.function.Predicate;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Pattern;
 
 
 /**
@@ -149,13 +151,18 @@ public class TennisParserSimple {
                     aS5=aPar[7].charAt(aPar[7].indexOf("\">")+2)+"";
                 if(bPar[6].length()>bPar[6].indexOf("\">")+2)
                     bS5=bPar[6].charAt(bPar[6].indexOf("\">")+2)+"";
-                int y,m,d;
+                int y=0,m=0,d=0;
                 //println(date + " | "+date.substring(0,2)+ " | "+date.substring(3,5));
                 //println(date);
                 //println(date.length());
-                y = 2000 + Integer.parseInt(date.substring(6));
-                m = Integer.parseInt(date.substring(3,5));
-                d = Integer.parseInt(date.substring(0,2));
+                Pattern regex = Pattern.compile("[0-3][0-9].[0-1][0-9].[0-9][0-9]");
+                Predicate<String> matcher = regex.asPredicate();
+                if( matcher.test(date) ){
+                    y = 2000 + Integer.parseInt(date.substring(6));
+                    m = Integer.parseInt(date.substring(3,5));
+                    d = Integer.parseInt(date.substring(0,2));
+                } else {
+                }
                 LocalDate dat = LocalDate.of(y,m,d);
                 res = res + (tournament +" ,"+dat+" ,"+aName+" ,"+bName+" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+"\n");
                 }
