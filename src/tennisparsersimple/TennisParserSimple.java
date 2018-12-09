@@ -39,7 +39,7 @@ public class TennisParserSimple {
         String res = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
         // TODO code application logic here
         LocalDate sta= LocalDate.of(2009, 1, 1);
-        LocalDate fin= LocalDate.of(20010, 1, 1);
+        LocalDate fin= LocalDate.of(2010, 1, 1);
         //LocalDate fin = LocalDate.now();
         println(sta +" "+fin);
         String direc;
