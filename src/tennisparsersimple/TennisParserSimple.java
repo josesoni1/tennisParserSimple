@@ -32,8 +32,9 @@ public class TennisParserSimple {
     public static void main(String[] args) throws IOException {
         String res = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
         // TODO code application logic here
-        LocalDate sta= LocalDate.of(2010, 1, 1);
-        LocalDate fin= LocalDate.of(2011, 1, 1);
+        LocalDate sta= LocalDate.of(2016, 1, 1);
+        LocalDate fin= LocalDate.of(2017, 1, 1);
+        String datRange= sta +"_to_"+fin.minusDays(1);
         //LocalDate fin = LocalDate.now();
         println(sta +" "+fin);
         String direc;
@@ -155,7 +156,7 @@ public class TennisParserSimple {
             
             
         }
-        BufferedWriter writer = new BufferedWriter(new FileWriter("data_"+(fin.getYear()-1)+".csv"));
+        BufferedWriter writer = new BufferedWriter(new FileWriter("Data/data_"+datRange+".csv"));
         writer.write(res);
         writer.close();
     }
