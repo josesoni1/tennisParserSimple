@@ -13,9 +13,11 @@ import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Scanner;
 import java.util.function.Predicate;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -23,50 +25,115 @@ import java.util.regex.Pattern;
 
 
 /**
- *
- * @author precision
+ *Simple Parser for tennis Data from www.tennislive.net
+ * 
+ * @author SONIJOS
  */
 public class TennisParserSimple {
+    final static String ATP = "atp-men/";
+    final static String WTA = "wta-women/";
+    final static String ALL = "";
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws IOException {
-        String res = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
+    public static void main(String[] args) throws IOException{
+        String reSingles = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
+        String reDobles = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
+        String cat = "", fCat="";
         // TODO code application logic here
         LocalDate sta= LocalDate.of(2018, 1, 1);
-        LocalDate fin= LocalDate.of(2019, 1, 1);
+        LocalDate fin= LocalDate.of(2018, 2, 1);
+        Scanner sc = new Scanner(System.in);
+        char op;
+        boolean hi = true;
+        while(hi){
+            println("Select the Matches you want to parse: \n\tFor men:\tEnter 1\n\tFor women:\tEnter 2\n\tFor All:\tEnter 3");
+            op = sc.next().charAt(0);
+            hi = false;
+            switch(op){
+                case '1':
+                    cat = ATP;
+                    fCat="ATP";
+                    break;
+                case '2':
+                    cat = WTA;
+                    fCat = "WTA";
+                    break;
+                case '3':
+                    cat = ALL;
+                    fCat = "ALL";
+                    break;
+                default:
+                    hi=true;
+            }
+        }
+        String date1, date2;
+        hi = true;
+        while(hi){
+            println("Date of start should be after 31/12/2002 \nPlease insert a date in format dd/mm/yyyy");
+            date1 = sc.next();
+            Pattern regex = Pattern.compile("[0-3][0-9]/[0-1][0-9]/[0-9][0-9][0-9][0-9]");
+            Predicate<String> matcher = regex.asPredicate();
+            if(matcher.test(date1)){
+                //load the date1 to sta
+                try{
+                    sta = LocalDate.parse(date1, DateTimeFormatter.ofPattern("dd/MM/yyyy"));
+                    if(sta.isAfter(LocalDate.of(2002,12,31)))
+                        hi = false;
+                }catch(Exception e){
+                    hi = true;
+                }
+            }
+        }
+        println("Start date is: "+sta);
+        hi=true;
+        while(hi){
+            println("Date of end should be after initial \nPlease insert a date in format dd/mm/yyyy");
+            date2 = sc.next();
+            Pattern regex = Pattern.compile("[0-3][0-9]/[0-1][0-9]/[0-9][0-9][0-9][0-9]");
+            Predicate<String> matcher = regex.asPredicate();
+            if(matcher.test(date2)){
+                //load the date2 to fin
+                try{
+                    fin = LocalDate.parse(date2, DateTimeFormatter.ofPattern("dd/MM/yyyy"));
+                    //println(sta+" : "+fin);
+                    if(fin.isAfter(sta))
+                        hi = false;
+                }catch(Exception e){
+                    hi = true;
+                }
+            }
+        }
+        
         String datRange= sta +"_to_"+fin.minusDays(1);
-        //LocalDate fin = LocalDate.now();
-        println(sta +" "+fin);
+        println("Date range is: "+sta +" : "+fin);
         String direc;
         URL url;
-        List< BufferedReader> lista = new ArrayList<>();
+        List< BufferedReader> listA = new ArrayList<>();
         while(sta.isBefore(fin)){
-            System.out.println(sta);
-            direc = "http://www.tennislive.net/atp-men/"+sta+"/";
+            println(sta);
+            direc = "http://www.tennislive.net/"+cat+sta+"/";
                  
         try {
             sta = sta.plusDays(1);
             url = new URL(direc);
-            System.out.println(url);
+            println(url);
             BufferedReader reader= new BufferedReader(new InputStreamReader(url.openStream(), "UTF-8"));
-            lista.add(reader);
+            listA.add(reader);
                 
         } catch (MalformedURLException ex) {
             Logger.getLogger(LocalDate.class.getName()).log(Level.SEVERE, null, ex);
-            println("pelation");
+            println("WRONG URL "+direc);
         }   catch (IOException ex) {
                 Logger.getLogger(TennisParserSimple.class.getName()).log(Level.SEVERE, null, ex);
-                println("pelation");
+                println("IO Error");
             }
         }
         
-        //lista.forEach(item ->
-        for(BufferedReader item : lista)
+        for(BufferedReader item : listA)
         {
             //println(item.getClass());
-            
             Iterator< String> lis = item.lines().iterator();
             String page="";
             try{
@@ -162,20 +229,42 @@ public class TennisParserSimple {
                     m = Integer.parseInt(date.substring(3,5));
                     d = Integer.parseInt(date.substring(0,2));
                 } else {
+                    continue;
                 }
-                LocalDate dat = LocalDate.of(y,m,d);
-                res = res + (tournament +" ,"+dat+" ,"+aName+" ,"+bName+" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+"\n");
+                LocalDate dat;
+                try{
+                    dat = LocalDate.of(y,m,d);
+                }catch( Exception e){
+                    println("WRONG DATE:" +date);
+                    println(aName+" : "+bName);
+                    continue;
+                    
+                }
+                
+                if(aName.contains("/")&&bName.contains("/")){
+                    reDobles = reDobles + ("\""+tournament +"\" ,"+dat+" ,\""+aName.replace("-"," ")+"\" ,\""+bName.replace("-"," ")+"\" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+"\n");
+                }else{
+                    reSingles = reSingles + ("\""+tournament +"\" ,"+dat+" ,\""+aName.replace("-"," ")+"\" ,\""+bName.replace("-"," ")+"\" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+"\n");
+                }
+                
                 }
             } 
             //println(matches.length);
             
             
         }
-        BufferedWriter writer = new BufferedWriter(new FileWriter("Data/data_"+datRange+".csv"));
-        writer.write(res);
-        writer.close();
+        
+            BufferedWriter writer = new BufferedWriter(new FileWriter("Data/Singles_"+fCat+"_"+datRange+".csv")); 
+            writer.write(reSingles);
+            writer.close();
+            
+            writer = new BufferedWriter(new FileWriter("Data/Doubles_"+fCat+"_"+datRange+".csv"));
+            writer.write(reDobles);
+            writer.close();
+       
     }
-    public static void println(Object x){
+    
+    private static void println(Object x){
         System.out.println(x.toString());
     }
     
