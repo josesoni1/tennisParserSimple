@@ -12,6 +12,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.time.Instant;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -133,12 +134,19 @@ public class TennisParserSimple {
         
         for(BufferedReader item : listA)
         {
-            //println(item.getClass());
+            //println(item.);
             Iterator< String> lis = item.lines().iterator();
             String page="";
             try{
+                Instant ins = Instant.now();
+                Instant intIns;
                 while(lis.hasNext()){
                 page = page +"\n" +lis.next();
+                intIns = Instant.now();
+                if((intIns.getEpochSecond() - ins.getEpochSecond())>6){//timeout at 6 seconds
+                    println("timeout");
+                    println("intIns: "+intIns.getEpochSecond());
+                }
                 }
             }catch(Exception ex){
                 println(ex.getMessage());
@@ -152,7 +160,14 @@ public class TennisParserSimple {
             //println(page);
             String[] matches = page.split("<tbody");
             String tournament="";
+            boolean first = true;
+            Instant instant = Instant.now();
             for(int i =1; i< matches.length; i++){
+                Instant internalInstant = Instant.now();
+                if((internalInstant.getEpochSecond()-instant.getEpochSecond())/1000000 >3){
+                    println("timeout");
+                    continue;
+                }
                 if(matches[i].contains("class=\"header\"")){
                 //get tournamet
                 String tor = matches[i].substring(matches[i].indexOf("/\" title=\"")+10);
@@ -172,6 +187,10 @@ public class TennisParserSimple {
                 //println(b);
                 date = a.substring(a.indexOf("\"beg\">")+6);
                 date= date.substring(0,8);
+                if(first){
+                println(date);
+                first= false;
+                }
                 //println(date);
                 String[] aPar = a.split("</td>");
                 String[] bPar = b.split("</td>");
@@ -250,8 +269,6 @@ public class TennisParserSimple {
                 }
             } 
             //println(matches.length);
-            
-            
         }
         
             BufferedWriter writer = new BufferedWriter(new FileWriter("Data/Singles_"+fCat+"_"+datRange+".csv")); 
