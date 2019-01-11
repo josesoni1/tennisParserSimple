@@ -1,0 +1,304 @@
+tournament,date,aName,bName,aSets,bSets,aS1,aS2,aS3,aS4,aS5,bS1,bS2,bS3,bS4,bS5,level,surface,federation
+"Brisbane International - Brisbane" ,2019-01-01 00:00:00 ,"Denis Kudla" ,"Taylor Harry Fritz" ,2 ,1 ,7 ,6 ,6 , , ,6 ,7 ,4 , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-01 00:00:00 ,"Jeremy Chardy" ,"Jan Lennard Struff" ,2 ,1 ,4 ,6 ,6 , , ,6 ,3 ,4 , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-01 00:00:00 ,"Andy Murray" ,"James Duckworth" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-01 00:00:00 ,"Nick Kyrgios" ,"Ryan Harrison" ,2 ,1 ,7 ,5 ,7 , , ,6 ,7 ,6 , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-01 00:00:00 ,"Jo Wilfried Tsonga" ,"Thanasi Kokkinakis" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-01 00:00:00 ,"Alex De Minaur" ,"Alexei Popyrin" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-01 00:00:00 ,"Jordan Thompson" ,"Alex Bolt" ,2 ,0 ,6 ,6 , , , ,3 ,0 , , ,,Hard,atp,ATP
+"M15 Anning" ,2019-01-01 00:00:00 ,"Cheong Eui Kim" ,"Ray Ho" ,2 ,1 ,6 ,3 ,6 , , ,3 ,6 ,3 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-01 00:00:00 ,"Nitin Kumar Sinha" ,"Soichiro Moritani" ,2 ,1 ,6 ,6 ,6 , , ,1 ,7 ,3 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-01 00:00:00 ,"Eric Vanshelboim" ,"Ya Hui Nie" ,2 ,0 ,6 ,6 , , , ,0 ,1 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-01 00:00:00 ,"Tao Mu" ,"Issei Okamura" ,2 ,1 ,3 ,6 ,7 , , ,6 ,2 ,5 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-01 00:00:00 ,"Jie Cui" ,"Liran Chen" ,2 ,0 ,7 ,6 , , , ,6 ,2 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-01 00:00:00 ,"Cing Yang Meng" ,"Naifu Zhang" ,2 ,0 ,6 ,6 , , , ,0 ,0 , , ,,Clay,futures,ITF
+"M25 Los Angeles" ,2019-01-01 00:00:00 ,"Patrick Kypson" ,"Felix Corwin" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-01 00:00:00 ,"Daniel Nguyen" ,"Alexis Gautier" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-01 00:00:00 ,"Keenan Mayo" ,"Tristan Boyer" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-01 00:00:00 ,"Govind Nanda" ,"Michail Pervolarakis" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , ,,Hard,futures,ITF
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Tak Khunn Wang" ,"Andre Goransson" ,2 ,1 ,3 ,6 ,6 , , ,6 ,4 ,3 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Mikael Ymer" ,"Tristan Lamasine" ,2 ,1 ,6 ,4 ,6 , , ,4 ,6 ,4 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Sem Verbeek" ,"Tobias Simon" ,2 ,1 ,7 ,5 ,6 , , ,5 ,7 ,4 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Hugo Nys" ,"Duckhee Lee" ,2 ,1 ,4 ,6 ,6 , , ,6 ,4 ,2 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Jose Statham" ,"Geoffrey Blancaneaux" ,2 ,1 ,3 ,7 ,7 , , ,6 ,6 ,5 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Yuichi Sugita" ,"Daniel Masur" ,2 ,1 ,6 ,1 ,6 , , ,4 ,6 ,2 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Marcelo Tomas Barrios Vera" ,"Filippo Baldi" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Thai Kwiatkowski" ,"Maxime Janvier" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-01 00:00:00 ,"Jurij Rodionov" ,"Yunseong Chung" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Michael Redlicki" ,"Vaclav Safranek" ,2 ,0 ,7 ,6 , , , ,6 ,2 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Marcos Giron" ,"Uladzimir Ignatik" ,2 ,0 ,6 ,7 , , , ,1 ,5 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Dennis Novikov" ,"Joao Souza" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Tom Jomby" ,"Carlos Taberner" ,2 ,0 ,7 ,6 , , , ,6 ,2 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Sam Riffice" ,"Filip Peliwo" ,2 ,1 ,1 ,6 ,6 , , ,6 ,2 ,0 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Enzo Couacaud" ,"Joao Menezes" ,2 ,0 ,6 ,6 , , , ,1 ,1 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Gijs Brouwer" ,"Ricardo Ojeda Lara" ,2 ,1 ,5 ,6 ,6 , , ,7 ,0 ,2 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Darian King" ,"Evan King" ,2 ,0 ,6 ,6 , , , ,0 ,2 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Lucas Miedler" ,"Jeff Wolf" ,2 ,1 ,5 ,6 ,6 , , ,7 ,3 ,4 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Norbert Gombos" ,"Liam Broady" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Evan Song" ,"Benjamin Bonzi" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-01 00:00:00 ,"Johan Sebastien Tatlot" ,"Alexander Sarkissian" ,2 ,0 ,7 ,6 , , , ,5 ,0 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Zhe Li" ,"Andrew Harris" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Tommy Paul" ,"Alexander Bublik" ,2 ,1 ,1 ,6 ,7 , , ,6 ,4 ,5 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Lloyd Harris" ,"Mohamed Safwat" ,2 ,1 ,6 ,6 ,7 , , ,4 ,7 ,6 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Enrique Lopez Perez" ,"Rinky Hijikata" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Aleksandar Vukic" ,"Chun Hsin Tseng" ,2 ,0 ,6 ,6 , , , ,4 ,0 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Aleksandr Nedovesov" ,"Tatsuma Ito" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Ernesto Escobedo" ,"Matteo Donati" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Hiroki Moriya" ,"Corentin Moutet" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Rogerio Dutra Da Silva" ,"Sadio Doumbia" ,2 ,0 ,6 ,7 , , , ,1 ,6 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Henri Laaksonen" ,"Calvin Hemery" ,2 ,1 ,2 ,6 ,6 , , ,6 ,4 ,4 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-01 00:00:00 ,"Tobias Kamke" ,"Pedja Krstin" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , ,,Hard,challeger,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Guido Pella" ,"Cem Ilkel" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Richard Berankis" ,"David Goffin" ,2 ,1 ,3 ,6 ,7 , , ,6 ,4 ,6 , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Marco Cecchinato" ,"Sergiy Stakhovsky" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Dusan Lajovic" ,"Adrian Mannarino" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Guillermo Garcia Lopez" ,"Mubarak Shannan Zayid" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Stan Wawrinka" ,"Karen Khachanov" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Marton Fucsovics" ,"Marius Copil" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Novak Djokovic" ,"Damir Dzumhur" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-01 00:00:00 ,"Pierre Hugues Herbert" ,"Dominic Thiem" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-01 00:00:00 ,"Ivo Karlovic" ,"Felix Auger Aliassime" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-01 00:00:00 ,"Simone Bolelli" ,"Denis Istomin" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-01 00:00:00 ,"Ilya Ivashka" ,"Hubert Hurkacz" ,2 ,1 ,6 ,6 ,6 , , ,7 ,2 ,3 , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-01 00:00:00 ,"Jiri Vesely" ,"Antoine Hoang" ,2 ,1 ,4 ,6 ,6 , , ,6 ,4 ,4 , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-01 00:00:00 ,"Benoit Paire" ,"Thiago Moura Monteiro" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-01 00:00:00 ,"Ramkumar Ramanathan" ,"Marcel Granollers" ,2 ,1 ,4 ,6 ,6 , , ,6 ,4 ,3 , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-01 00:00:00 ,"Laslo Djere" ,"Arjun Kadhe" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-02 00:00:00 ,"Grigor Dimitrov" ,"John Millman" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-02 00:00:00 ,"Yasutaka Uchiyama" ,"Kyle Edmund" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-02 00:00:00 ,"Kei Nishikori" ,"Denis Kudla" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-02 00:00:00 ,"Milos Raonic" ,"Miomir Kecmanovic" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-02 00:00:00 ,"Jeremy Chardy" ,"Nick Kyrgios" ,2 ,1 ,6 ,6 ,6 , , ,7 ,2 ,3 , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-02 00:00:00 ,"Daniil Medvedev" ,"Andy Murray" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-02 00:00:00 ,"Alex De Minaur" ,"Jordan Thompson" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , ,,Hard,atp,ATP
+"M15 Anning" ,2019-01-02 00:00:00 ,"Jung Woong Na" ,"Ruikai Wang" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Hao Wu" ,"Wei Qiang Zheng" ,2 ,1 ,4 ,7 ,6 , , ,6 ,5 ,3 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Zhe Zhou" ,"Li Wie Tan" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Ti Chen" ,"Anirudh Chandrasekar" ,2 ,1 ,4 ,6 ,6 , , ,6 ,1 ,4 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Luca Castelnuovo" ,"Kazuma Kawachi" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"N. Vijay Sundar Prashanth" ,"Wei De Lin" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Taisei Ichikawa" ,"Ye Cong Mo" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Kazuki Nishiwaki" ,"Rui Xuan Wang" ,2 ,1 ,1 ,6 ,6 , , ,6 ,2 ,4 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Yuichiro Inui" ,"Shi Hong Zeng" ,2 ,1 ,6 ,6 ,6 , , ,3 ,7 ,1 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-02 00:00:00 ,"Haitong Xia" ,"Sora Fukuda" ,2 ,1 ,6 ,3 ,6 , , ,4 ,6 ,3 , ,,Clay,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Takashi Saito" ,"Benjamin Hassan" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Carlos Boluda Purkiss" ,"Shuichi Sekiguchi" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Julian Lenz" ,"Pak Long Yeung" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Yan Bai" ,"Ching Lam" ,2 ,0 ,6 ,6 , , , ,2 ,0 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Jeremy Jahn" ,"Xin Gao" ,2 ,0 ,6 ,6 , , , ,0 ,3 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Yuki Mochizuki" ,"Hong Kit Wong" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Wishaya Trongcharoenchaikul" ,"Anthony Jackie Tang" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Kuan Yi Lee" ,"Zihao Xia" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Alen Avidzba" ,"Chien Hsun Lo" ,2 ,0 ,6 ,6 , , , ,0 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Evan Furness" ,"Riccardo Bonadio" ,2 ,1 ,1 ,7 ,6 , , ,6 ,6 ,2 , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Shintaro Imai" ,"Yecong He" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Jumpei Yamasaki" ,"Zsombor Piros" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Alexandre Muller" ,"Yu Hsiou Hsu" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Denis Yevseyev" ,"Jordi Samper Montana" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Arthur Rinderknech" ,"Corentin Denolly" ,2 ,1 ,6 ,4 ,6 , , ,4 ,6 ,3 , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-02 00:00:00 ,"Agustin Velotti" ,"Seong Chan Hong" ,2 ,1 ,3 ,6 ,6 , , ,6 ,0 ,3 , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Martin Redlicki" ,"Alexios Halebian" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Brandon Nakashima" ,"Maxime Cressy" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Logan Smith" ,"Tyler Lu" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Alexander Lebedev" ,"Pavel Krainik" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"George Goldhoff" ,"Aziz Dougaz" ,2 ,1 ,7 ,4 ,7 , , ,6 ,6 ,6 , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Luis Patino" ,"Henry Craig" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Emilio Gomez" ,"Alexander Cozbinov" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Alec Adamson" ,"Manuel Guinard" ,2 ,1 ,6 ,3 ,7 , , ,2 ,6 ,6 , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Jenson Brooksby" ,"Evan Hoyt" ,2 ,1 ,5 ,6 ,6 , , ,7 ,1 ,4 , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-02 00:00:00 ,"Brandon Holt" ,"Lloyd Glasspool" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , ,,Hard,futures,ITF
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Colin Sinclair" ,"Blaz Rola" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Donald Young" ,"Kimmer Coppejans" ,2 ,1 ,3 ,6 ,7 , , ,6 ,1 ,6 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Noah Rubin" ,"Marc Andrea Huesler" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Gregoire Barrere" ,"Viktor Galovic" ,2 ,1 ,3 ,6 ,6 , , ,6 ,2 ,3 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Dustin Brown" ,"Stephane Robert" ,2 ,1 ,6 ,3 ,6 , , ,3 ,6 ,0 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Salvatore Caruso" ,"Tak Khunn Wang" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Gleb Sakharov" ,"Kenny de Schepper" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Jose Statham" ,"Quentin Halys" ,2 ,1 ,6 ,6 ,7 , , ,7 ,4 ,6 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Elliot Benchetrit" ,"Tommy Robredo" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-02 00:00:00 ,"Mikael Ymer" ,"Nikola Milojevic" ,2 ,1 ,4 ,7 ,6 , , ,6 ,5 ,4 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Gastao Elias" ,"Enzo Couacaud" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Roberto Cid" ,"Goncalo Oliveira" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Michael Redlicki" ,"Jc Aragone" ,2 ,1 ,1 ,6 ,6 , , ,6 ,4 ,3 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Kevin King" ,"Tom Jomby" ,2 ,0 ,6 ,6 , , , ,3 ,0 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Gijs Brouwer" ,"Bernabe Zapata Miralles" ,2 ,1 ,1 ,6 ,6 , , ,6 ,1 ,2 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Ulises Blanch" ,"Thiemo de Bakker" ,2 ,1 ,7 ,4 ,6 , , ,5 ,6 ,3 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Mathias Bourgue" ,"Lucas Miedler" ,2 ,1 ,6 ,2 ,6 , , ,4 ,6 ,3 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Stefan Kozlov" ,"Mitchell Krueger" ,2 ,1 ,6 ,5 ,6 , , ,2 ,7 ,3 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-02 00:00:00 ,"Nino Serdarusic" ,"Scott Griekspoor" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Zhe Li" ,"Adrian Menendez Maceiras" ,2 ,1 ,6 ,6 ,6 , , ,7 ,3 ,3 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Dominik Koepfer" ,"Go Soeda" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Casper Ruud" ,"Arthur De Greef" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Luca Vanni" ,"Kamil Majchrzak" ,2 ,1 ,7 ,4 ,6 , , ,6 ,6 ,4 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Constant Lestienne" ,"Aleksandar Vukic" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Enrique Lopez Perez" ,"Stefano Travaglia" ,2 ,1 ,4 ,6 ,7 , , ,6 ,3 ,5 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Lorenzo Sonego" ,"Zdenek Kolar" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Mats Moraing" ,"Ernesto Escobedo" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-02 00:00:00 ,"Oscar Otte" ,"Viktor Troicki" ,2 ,1 ,4 ,6 ,7 , , ,6 ,1 ,5 , ,,Hard,challeger,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Stan Wawrinka" ,"Nicolas Jarry" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Roberto Bautista Agut" ,"Guillermo Garcia Lopez" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Dusan Lajovic" ,"Richard Berankis" ,2 ,1 ,7 ,0 ,7 , , ,6 ,6 ,5 , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Novak Djokovic" ,"Marton Fucsovics" ,2 ,1 ,4 ,6 ,6 , , ,6 ,4 ,1 , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Marco Cecchinato" ,"Guido Pella" ,1 ,0 ,w , , , , , , , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Pierre Hugues Herbert" ,"Maximilian Marterer" ,2 ,1 ,6 ,6 ,7 , , ,3 ,7 ,6 , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Nikoloz Basilashvili" ,"Andrey Rublev" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-02 00:00:00 ,"Tomas Berdych" ,"Fernando Verdasco" ,2 ,1 ,4 ,6 ,7 , , ,6 ,3 ,5 , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Ivo Karlovic" ,"Evgeny Donskoy" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Ernests Gulbis" ,"Hyeon Chung" ,2 ,0 ,7 ,6 , , , ,6 ,2 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Benoit Paire" ,"Jiri Vesely" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Kevin Anderson" ,"Laslo Djere" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Jaume Antoni Munar Clar" ,"Simone Bolelli" ,2 ,0 ,7 ,6 , , , ,5 ,0 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Steve Darcis" ,"Michael Mmoh" ,2 ,1 ,4 ,7 ,6 , , ,6 ,6 ,2 , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Gilles Simon" ,"Ilya Ivashka" ,2 ,1 ,6 ,6 ,6 , , ,7 ,2 ,1 , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-02 00:00:00 ,"Malek Jaziri" ,"Ramkumar Ramanathan" ,2 ,1 ,6 ,7 ,6 , , ,7 ,6 ,3 , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-03 00:00:00 ,"Jo Wilfried Tsonga" ,"Taro Daniel" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-03 00:00:00 ,"Jeremy Chardy" ,"Yasutaka Uchiyama" ,2 ,1 ,6 ,3 ,7 , , ,4 ,6 ,6 , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-03 00:00:00 ,"Kei Nishikori" ,"Grigor Dimitrov" ,2 ,0 ,7 ,7 , , , ,5 ,5 , , ,,Hard,atp,ATP
+"M15 Anning" ,2019-01-03 00:00:00 ,"Ti Chen" ,"Taisei Ichikawa" ,2 ,1 ,6 ,3 ,6 , , ,2 ,6 ,3 , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-03 00:00:00 ,"Jie Cui" ,"Yuichiro Inui" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-03 00:00:00 ,"Hao Wu" ,"N. Vijay Sundar Prashanth" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-03 00:00:00 ,"Tao Mu" ,"Cheong Eui Kim" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-03 00:00:00 ,"Jung Woong Na" ,"Nitin Kumar Sinha" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-03 00:00:00 ,"Cing Yang Meng" ,"Haitong Xia" ,2 ,0 ,6 ,6 , , , ,0 ,1 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-03 00:00:00 ,"Luca Castelnuovo" ,"Zhe Zhou" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-03 00:00:00 ,"Eric Vanshelboim" ,"Kazuki Nishiwaki" ,2 ,1 ,4 ,6 ,6 , , ,6 ,1 ,4 , ,,Clay,futures,ITF
+"M25 Hong Kong" ,2019-01-03 00:00:00 ,"Julian Lenz" ,"Takashi Saito" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-03 00:00:00 ,"Shintaro Imai" ,"Jeremy Jahn" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-03 00:00:00 ,"Yuki Mochizuki" ,"Carlos Boluda Purkiss" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-03 00:00:00 ,"Arthur Rinderknech" ,"Yan Bai" ,2 ,1 ,7 ,6 ,6 , , ,6 ,7 ,2 , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-03 00:00:00 ,"Agustin Velotti" ,"Alexandre Muller" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-03 00:00:00 ,"Evan Furness" ,"Denis Yevseyev" ,2 ,1 ,6 ,6 ,6 , , ,7 ,0 ,3 , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-03 00:00:00 ,"Jumpei Yamasaki" ,"Alen Avidzba" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Brandon Holt" ,"Luis Patino" ,2 ,1 ,3 ,6 ,6 , , ,6 ,0 ,1 , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Emilio Gomez" ,"Keenan Mayo" ,2 ,0 ,6 ,6 , , , ,0 ,1 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Govind Nanda" ,"Alec Adamson" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Daniel Nguyen" ,"Alexander Lebedev" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Patrick Kypson" ,"Peter Kobelt" ,2 ,0 ,6 ,6 , , , ,1 ,1 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Martin Redlicki" ,"George Goldhoff" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Dmitry Popko" ,"Logan Smith" ,2 ,1 ,6 ,6 ,6 , , ,7 ,4 ,2 , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Jenson Brooksby" ,"Brandon Nakashima" ,2 ,1 ,2 ,7 ,7 , , ,6 ,6 ,5 , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Dmitry Popko" ,"Siem Woldeab" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-03 00:00:00 ,"Peter Kobelt" ,"Errol Smith" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,futures,ITF
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Federico Delbonis" ,"Sem Verbeek" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Donald Young" ,"Jose Statham" ,2 ,0 ,7 ,6 , , , ,5 ,1 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Thai Kwiatkowski" ,"Marcelo Tomas Barrios Vera" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Gleb Sakharov" ,"Salvatore Caruso" ,2 ,1 ,6 ,4 ,6 , , ,4 ,6 ,3 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Noah Rubin" ,"Hugo Nys" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Federico Delbonis" ,"Elliot Benchetrit" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Gregoire Barrere" ,"Dustin Brown" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Mikael Ymer" ,"Colin Sinclair" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-03 00:00:00 ,"Jurij Rodionov" ,"Yuichi Sugita" ,2 ,0 ,6 ,7 , , , ,1 ,6 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Marcos Giron" ,"Dennis Novikov" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Michael Redlicki" ,"Kevin King" ,2 ,1 ,2 ,6 ,6 , , ,6 ,2 ,2 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Ulises Blanch" ,"Gijs Brouwer" ,2 ,1 ,2 ,6 ,6 , , ,6 ,3 ,3 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Darian King" ,"Johan Sebastien Tatlot" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Mathias Bourgue" ,"Sam Riffice" ,2 ,1 ,6 ,5 ,6 , , ,4 ,7 ,2 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Norbert Gombos" ,"Evan Song" ,2 ,1 ,6 ,7 ,7 , , ,7 ,5 ,6 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Gastao Elias" ,"Roberto Cid" ,2 ,0 ,6 ,6 , , , ,0 ,4 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-03 00:00:00 ,"Nino Serdarusic" ,"Stefan Kozlov" ,2 ,0 ,6 ,7 , , , ,2 ,5 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-03 00:00:00 ,"Zhe Li" ,"Luca Vanni" ,2 ,1 ,1 ,7 ,6 , , ,6 ,5 ,3 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-03 00:00:00 ,"Mats Moraing" ,"Dominik Koepfer" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-03 00:00:00 ,"Constant Lestienne" ,"Enrique Lopez Perez" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-03 00:00:00 ,"Lorenzo Sonego" ,"Oscar Otte" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-03 00:00:00 ,"Tommy Paul" ,"Hiroki Moriya" ,2 ,1 ,6 ,2 ,6 , , ,0 ,6 ,2 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-03 00:00:00 ,"Casper Ruud" ,"Henri Laaksonen" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-03 00:00:00 ,"Lloyd Harris" ,"Tobias Kamke" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , ,,Hard,challeger,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-03 00:00:00 ,"Roberto Bautista Agut" ,"Stan Wawrinka" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-03 00:00:00 ,"Novak Djokovic" ,"Nikoloz Basilashvili" ,2 ,1 ,4 ,6 ,6 , , ,6 ,3 ,4 , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-03 00:00:00 ,"Tomas Berdych" ,"Pierre Hugues Herbert" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-03 00:00:00 ,"Marco Cecchinato" ,"Dusan Lajovic" ,2 ,0 ,7 ,6 , , , ,6 ,2 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-03 00:00:00 ,"Ivo Karlovic" ,"Ernests Gulbis" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-03 00:00:00 ,"Steve Darcis" ,"Malek Jaziri" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-03 00:00:00 ,"Kevin Anderson" ,"Jaume Antoni Munar Clar" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-03 00:00:00 ,"Gilles Simon" ,"Benoit Paire" ,2 ,1 ,3 ,7 ,6 , , ,6 ,6 ,4 , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-04 00:00:00 ,"Pablo Cuevas" ,"Stephane Robert" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-04 00:00:00 ,"Bradley Klahn" ,"Philipp Oswald" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-04 00:00:00 ,"Daniil Medvedev" ,"Milos Raonic" ,2 ,1 ,6 ,6 ,6 , , ,7 ,3 ,4 , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-04 00:00:00 ,"Jo Wilfried Tsonga" ,"Alex De Minaur" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , ,,Hard,atp,ATP
+"M15 Anning" ,2019-01-04 00:00:00 ,"Cing Yang Meng" ,"Hao Wu" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-04 00:00:00 ,"Eric Vanshelboim" ,"Ti Chen" ,2 ,0 ,6 ,6 , , , ,0 ,2 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-04 00:00:00 ,"Luca Castelnuovo" ,"Jie Cui" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , ,,Clay,futures,ITF
+"M15 Anning" ,2019-01-04 00:00:00 ,"Jung Woong Na" ,"Tao Mu" ,2 ,0 ,7 ,7 , , , ,5 ,5 , , ,,Clay,futures,ITF
+"M25 Hong Kong" ,2019-01-04 00:00:00 ,"Julian Lenz" ,"Yuki Mochizuki" ,2 ,1 ,6 ,6 ,6 , , ,7 ,1 ,2 , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-04 00:00:00 ,"Kuan Yi Lee" ,"Wishaya Trongcharoenchaikul" ,2 ,1 ,6 ,7 ,7 , , ,7 ,6 ,5 , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-04 00:00:00 ,"Agustin Velotti" ,"Arthur Rinderknech" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-04 00:00:00 ,"Evan Furness" ,"Jumpei Yamasaki" ,2 ,0 ,6 ,6 , , , ,0 ,4 , , ,,Hard,futures,ITF
+"M25 Hong Kong" ,2019-01-04 00:00:00 ,"Shintaro Imai" ,"Kuan Yi Lee" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-04 00:00:00 ,"Emilio Gomez" ,"Govind Nanda" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-04 00:00:00 ,"Patrick Kypson" ,"Martin Redlicki" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-04 00:00:00 ,"Jenson Brooksby" ,"Dmitry Popko" ,2 ,0 ,6 ,6 , , , ,3 ,0 , , ,,Hard,futures,ITF
+"M25 Los Angeles" ,2019-01-04 00:00:00 ,"Brandon Holt" ,"Daniel Nguyen" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , ,,Hard,futures,ITF
+"Noumea Challenger" ,2019-01-04 00:00:00 ,"Noah Rubin" ,"Thai Kwiatkowski" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-04 00:00:00 ,"Donald Young" ,"Gleb Sakharov" ,2 ,1 ,5 ,6 ,6 , , ,7 ,3 ,1 , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-04 00:00:00 ,"Mikael Ymer" ,"Jurij Rodionov" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , ,,Hard,challeger,ATP
+"Noumea Challenger" ,2019-01-04 00:00:00 ,"Federico Delbonis" ,"Gregoire Barrere" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-04 00:00:00 ,"Darian King" ,"Norbert Gombos" ,2 ,1 ,7 ,3 ,6 , , ,5 ,6 ,3 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-04 00:00:00 ,"Michael Redlicki" ,"Ulises Blanch" ,2 ,1 ,7 ,4 ,7 , , ,6 ,6 ,6 , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-04 00:00:00 ,"Marcos Giron" ,"Mathias Bourgue" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , ,,Hard,challeger,ATP
+"Orlando Challenger" ,2019-01-04 00:00:00 ,"Gastao Elias" ,"Nino Serdarusic" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-04 00:00:00 ,"Mats Moraing" ,"Lorenzo Sonego" ,2 ,1 ,1 ,7 ,6 , , ,6 ,6 ,4 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-04 00:00:00 ,"Rogerio Dutra Da Silva" ,"Casper Ruud" ,2 ,0 ,6 ,7 , , , ,2 ,5 , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-04 00:00:00 ,"Zhe Li" ,"Tommy Paul" ,1 ,0 ,7 ,8 ,1 , , ,6 , ,0 , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-04 00:00:00 ,"Constant Lestienne" ,"Lloyd Harris" ,1 ,0 ,7 ,5 ,3 , , ,6 , ,0 , ,,Hard,challeger,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-04 00:00:00 ,"Roberto Bautista Agut" ,"Novak Djokovic" ,2 ,1 ,3 ,7 ,6 , , ,6 ,6 ,4 , ,,Hard,atp,ATP
+"Qatar ExxonMobil Open - Doha" ,2019-01-04 00:00:00 ,"Tomas Berdych" ,"Marco Cecchinato" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-04 00:00:00 ,"Ivo Karlovic" ,"Steve Darcis" ,2 ,1 ,7 ,4 ,6 , , ,6 ,6 ,3 , ,,Hard,atp,ATP
+"Tata Open Maharashtra - Pune" ,2019-01-04 00:00:00 ,"Kevin Anderson" ,"Gilles Simon" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-06 00:00:00 ,"Bradley Klahn" ,"Pablo Cuevas" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-06 00:00:00 ,"Maximilian Marterer" ,"Thomas Fabbiano" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-06 00:00:00 ,"Mackenzie Mcdonald" ,"Laslo Djere" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-06 00:00:00 ,"Ugo Humbert" ,"Roberto Marcora" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Brisbane International - Brisbane" ,2019-01-06 00:00:00 ,"Daniil Medvedev" ,"Kei Nishikori" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Marco Bortolotti" ,"Thomas Bosancic" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Andrew Harris" ,"Alexander Zhurbin" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Marcelo Tomas Barrios Vera" ,"Jacob Grills" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Tom Evans" ,"Tobias Simon" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Brydan Klein" ,"Dayne Kelly" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Maxime Chazal" ,"Aaron Addison" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Yecong He" ,"Harry Bourchier" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Chien Hsun Lo" ,"Marc Andrea Huesler" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Thomas Fancutt" ,"Zihao Xia" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-06 00:00:00 ,"Geoffrey Blancaneaux" ,"Michael Look" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Pruchya Isarow" ,"Manish Sureshkumar" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Viktor Durasovic" ,"Shuichi Sekiguchi" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Jordi Samper Montana" ,"Youssef Hossam" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Wishaya Trongcharoenchaikul" ,"Corentin Denolly" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Yuta Shimizu" ,"Shinji Hazawa" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Alessandro Bega" ,"Arjun Kadhe" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Tung Lin Wu" ,"Yan Bai" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Benjamin Hassan" ,"Jeremy Jahn" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Cheong Eui Kim" ,"Sidharth Rawat" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Ji Sung Nam" ,"N.Sriram Balaji" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Stefan Vujic" ,"Riccardo Bonadio" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Nam Hoang Ly" ,"Daniel Altmaier" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-06 00:00:00 ,"Linh Giang Trinh" ,"Alen Avidzba" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"M15 Anning" ,2019-01-06 00:00:00 ,"Eric Vanshelboim" ,"Luca Castelnuovo" ,& ,& , , , , , , , , , ,,Clay,futures,ITF
+"M25 Hong Kong" ,2019-01-06 00:00:00 ,"Evan Furness" ,"Julian Lenz" ,& ,& , , , , , , , , , ,,Hard,futures,ITF
+"Noumea Challenger" ,2019-01-06 00:00:00 ,"Mikael Ymer" ,"Noah Rubin" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Playford Challenger" ,2019-01-06 00:00:00 ,"Mats Moraing" ,"Rogerio Dutra Da Silva" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Sydney International - Sydney" ,2019-01-06 00:00:00 ,"Alex Bolt" ,"Jaume Antoni Munar Clar" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-06 00:00:00 ,"Christopher O'Connell" ,"Guido Andreozzi" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-06 00:00:00 ,"Martin Klizan" ,"Alexei Popyrin" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-06 00:00:00 ,"Yoshihito Nishioka" ,"Christian Garin" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-06 00:00:00 ,"Jordan Thompson" ,"Adrian Mannarino" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-06 00:00:00 ,"Taro Daniel" ,"Reilly Opelka" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Roberto Bautista Agut" ,"Leonardo Mayer" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Robin Haase" ,"David Ferrer" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Marius Copil" ,"Taylor Harry Fritz" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Guido Pella" ,"Peter Gojowczyk" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Joao Sousa" ,"Denis Shapovalov" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Jan Lennard Struff" ,"Steve Johnson" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Cameron Norrie" ,"Benoit Paire" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"ASB Classic - Auckland" ,2019-01-07 00:00:00 ,"Jose Statham" ,"Hyeon Chung" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Canberra Challenger" ,2019-01-07 00:00:00 ,"Rhett Purcell" ,"James Frawley" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-07 00:00:00 ,"Sadio Doumbia" ,"Colin Sinclair" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-07 00:00:00 ,"Matthew Christopher Romios" ,"Sander Gille" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Canberra Challenger" ,2019-01-07 00:00:00 ,"Sem Verbeek" ,"Xin Gao" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-07 00:00:00 ,"Teimuraz Gabashvili" ,"Daniel Nguyen" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Da Nang Challenger" ,2019-01-07 00:00:00 ,"Julian Lenz" ,"Arthur Rinderknech" ,& ,& , , , , , , , , , ,,Hard,challeger,ATP
+"Sydney International - Sydney" ,2019-01-07 00:00:00 ,"Malek Jaziri" ,"Sam Querrey" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-07 00:00:00 ,"Jeremy Chardy" ,"Andreas Seppi" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-07 00:00:00 ,"Matthew Ebden" ,"Nicolas Jarry" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-07 00:00:00 ,"John Millman" ,"Frances Tiafoe" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-07 00:00:00 ,"Marton Fucsovics" ,"James Duckworth" ,& ,& , , , , , , , , , ,,Hard,atp,ATP
+"Sydney International - Sydney" ,2019-01-07 00:00:00 ,"Alex De Minaur" ,"Dusan Lajovic" ,& ,& , , , , , , , , , ,,Hard,atp,ATP

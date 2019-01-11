@@ -39,8 +39,8 @@ public class TennisParserSimple {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException{
-        String reSingles = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
-        String reDobles = "tournament, date, aName, bName, aSets, bSets, aS1, aS2, aS3, aS4, aS5, bS1, bS2, bS3, bS4, bS5\n";
+        String reSingles = "tournament,date,aName,bName,aSets,bSets,aS1,aS2,aS3,aS4,aS5,bS1,bS2,bS3,bS4,bS5,surface,level,federation";
+        String reDobles  = "tournament,date,aName,bName,aSets,bSets,aS1,aS2,aS3,aS4,aS5,bS1,bS2,bS3,bS4,bS5,surface,level,federation";
         String cat = "", fCat="";
         // TODO code application logic here
         LocalDate sta= LocalDate.of(2018, 1, 1);
@@ -160,8 +160,11 @@ public class TennisParserSimple {
             //println(page);
             String[] matches = page.split("<tbody");
             String tournament="";
+            String surface="", level="", federation="";
             boolean first = true;
             Instant instant = Instant.now();
+            Pattern regexFutures = Pattern.compile(".*M[0-9]+.*");
+            Predicate<String> matcherFutures = regexFutures.asPredicate();
             for(int i =1; i< matches.length; i++){
                 Instant internalInstant = Instant.now();
                 if((internalInstant.getEpochSecond()-instant.getEpochSecond())/1000000 >3){
@@ -170,19 +173,47 @@ public class TennisParserSimple {
                 }
                 if(matches[i].contains("class=\"header\"")){
                 //get tournamet
+                //println(matches[i]);
+                String sur = matches[i].substring(matches[i].indexOf("t/images/surface")+15);
+                sur = sur.substring(sur.indexOf("alt=\"")+5);
+                sur=sur.substring(0,sur.indexOf("\""));
+                //println(sur);
+                surface = sur.toUpperCase();
                 String tor = matches[i].substring(matches[i].indexOf("/\" title=\"")+10);
                 tor = tor.substring(0, tor.indexOf("\">"));
-                //println(tor);
+                println(tor);
                 tournament= tor;
+                if (tor.contains("Challenger")){
+                    level = "challeger";
+                    federation = "ATP";
+                }else if(matcherFutures.test(tor)){
+                    //es futures
+                    level="futures";
+                    federation="ITF";
+                
+                }else if(tor.toUpperCase().contains("DAVIS")){
+                    level="DAVIS";
+                    federation="ITF";
+                }else if(tor.contains("Australian Open")||tor.contains("French Open")||
+                        tor.contains("Wimbledon")||tor.contains("U.S. Open")){
+                    level = "grandSlam";
+                    federation="GS";
+                }else{
+                    level="atp";
+                    federation="ATP";
+                
+                }
+                
                 }
                 String[] inters = matches[i].split("<tr ");
                 //println(inters.length);
                 if(inters.length>2){
                 String a = inters[inters.length-2];
                 String b = inters[inters.length-1];
-                String date, level;
+                String date;
                 String aName, aSets="", aS1="", aS2="", aS3="", aS4="", aS5="";
                 String bName, bSets="", bS1="", bS2="", bS3="", bS4="", bS5="";
+                
                 //println(a);
                 //println(b);
                 date = a.substring(a.indexOf("\"beg\">")+6);
@@ -239,7 +270,7 @@ public class TennisParserSimple {
                     bS5=bPar[6].charAt(bPar[6].indexOf("\">")+2)+"";
                 int y=0,m=0,d=0;
                 //println(date + " | "+date.substring(0,2)+ " | "+date.substring(3,5));
-                //println(date);
+                println(date);
                 //println(date.length());
                 Pattern regex = Pattern.compile("[0-3][0-9].[0-1][0-9].[0-9][0-9]");
                 Predicate<String> matcher = regex.asPredicate();
@@ -259,11 +290,14 @@ public class TennisParserSimple {
                     continue;
                     
                 }
-                
+                String mon = ("00"+dat.getMonthValue());
+                String day = ("00"+dat.getDayOfMonth());
+                date = dat.getYear()+"-"+(mon.substring(mon.length()-2))+"-"+(day.substring(day.length()-2))+" 00:00:00";
+                println(date);
                 if(aName.contains("/")&&bName.contains("/")){
-                    reDobles = reDobles + ("\""+tournament +"\" ,"+dat+" ,\""+aName.replace("-"," ")+"\" ,\""+bName.replace("-"," ")+"\" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+"\n");
+                    reDobles  = reDobles  + ("\n\""+tournament+" "+dat.getYear() +"\" ,"+date+" ,\""+aName.replace("-"," ")+"\" ,\""+bName.replace("-"," ")+"\" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+" ,"+surface+" ,"+level+" ,"+federation);
                 }else{
-                    reSingles = reSingles + ("\""+tournament +"\" ,"+dat+" ,\""+aName.replace("-"," ")+"\" ,\""+bName.replace("-"," ")+"\" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+"\n");
+                    reSingles = reSingles + ("\n\""+tournament+" "+dat.getYear() +"\" ,"+date+" ,\""+aName.replace("-"," ")+"\" ,\""+bName.replace("-"," ")+"\" ,"+aSets+" ,"+bSets+" ,"+aS1+" ,"+aS2+" ,"+aS3+" ,"+aS4+" ,"+aS5+" ,"+bS1+" ,"+bS2+" ,"+bS3+" ,"+bS4+" ,"+bS5+" ,"+surface+" ,"+level+" ,"+federation);
                 }
                 
                 }
