@@ -1,0 +1,780 @@
+tournament,date,aName,bName,aSets,bSets,aS1,aS2,aS3,aS4,aS5,bS1,bS2,bS3,bS4,bS5,surface,level,federation
+"ABN AMRO World Tennis Tournament - Rotterdam 2019" ,2019-02-16 00:00:00 ,"Jean Julien Rojer/Horia Tecau" ,"Rajeev Ram/Joe Salisbury" ,2 ,1 ,3 ,6 ,1 , , ,6 ,2 ,7 , , ,I. HARD ,atp ,ATP
+"ABN AMRO World Tennis Tournament - Rotterdam 2019" ,2019-02-16 00:00:00 ,"Jeremy Chardy/Henri Kontinen" ,"Marcel Granollers/Nikola Mektic" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,6 , , ,I. HARD ,atp ,ATP
+"Argentina Open - Buenos Aires 2019" ,2019-02-16 00:00:00 ,"Diego Sebastian Schwartzman/Dominic Thiem" ,"Jaume Antoni Munar Clar/Albert Ramos Vinolas" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,6 , , ,CLAY ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-16 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Max Purcell/Matt Reid" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-16 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"N.Sriram Balaji/Arjun Kadhe" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,HARD ,challeger ,ATP
+"Cherbourg Challenger 2019" ,2019-02-16 00:00:00 ,"Javier Barranco Cosano/Raul Brancaccio" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,6 , , ,I. HARD ,challeger ,ATP
+"Cherbourg Challenger 2019" ,2019-02-16 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Benjamin Bonzi/Ugo Humbert" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"New York Open - New York 2019" ,2019-02-16 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Adrian Mannarino/Hugo Nys" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,1 , , ,I. HARD ,atp ,ATP
+"New York Open - New York 2019" ,2019-02-16 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Robert Lindstedt/Tim Puetz" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,I. HARD ,atp ,ATP
+"ABN AMRO World Tennis Tournament - Rotterdam 2019" ,2019-02-17 00:00:00 ,"Jeremy Chardy/Henri Kontinen" ,"Jean Julien Rojer/Horia Tecau" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,I. HARD ,atp ,ATP
+"Argentina Open - Buenos Aires 2019" ,2019-02-17 00:00:00 ,"Maximo Gonzalez/Horacio Zeballos" ,"Diego Sebastian Schwartzman/Dominic Thiem" ,2 ,0 ,6 ,6 , , , ,1 ,1 , , , ,CLAY ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-17 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Cheng Peng Hsieh/Christopher Rungkat" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Cherbourg Challenger 2019" ,2019-02-17 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Javier Barranco Cosano/Raul Brancaccio" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,8 , , ,I. HARD ,challeger ,ATP
+"New York Open - New York 2019" ,2019-02-17 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Santiago Gonzalez/Aisam Qureshi" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,I. HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-18 00:00:00 ,"Paolo Lorenzi/Andreas Seppi" ,"John Patrick Smith/Jordan Thompson" ,2 ,1 ,6 ,3 ,1 , , ,2 ,6 ,6 , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-18 00:00:00 ,"Radu Albot/Yoshihito Nishioka" ,"Marcel Granollers/Bernard Tomic" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-18 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Gerard Granollers/Benoit Paire" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-18 00:00:00 ,"Ben McLachlan/Matwe Middelkoop" ,"Romain Arneodo/Damir Dzumhur" ,2 ,1 ,6 ,6 ,1 , , ,4 ,7 ,8 , , ,I. HARD ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-19 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"David Perez Sanz/Oriol Roca Batalla" ,2 ,0 ,7 ,6 , , , ,6 ,0 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-19 00:00:00 ,"Enrique Lopez Perez/Hiroki Moriya" ,"N.Sriram Balaji/Arjun Kadhe" ,2 ,1 ,5 ,6 ,1 , , ,7 ,4 ,9 , , ,HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-19 00:00:00 ,"Julian Ocleppo/Andrea Vavassori" ,"Wilfredo Gonzalez/Peter Heller" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-19 00:00:00 ,"Tomislav Draganja/Andreas Siljestrom" ,"Tomasz Bednarek/Mohamed Safwat" ,2 ,0 ,6 ,7 , , , ,2 ,5 , , , ,I. HARD ,challeger ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-19 00:00:00 ,"Ken Skupski/Neal Skupski" ,"John Millman/Alexei Popyrin" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-19 00:00:00 ,"Marcelo Arevalo/James Cerretani" ,"Ramkumar Ramanathan/Tim Smyczek" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-19 00:00:00 ,"Nick Kyrgios/Jack Withrow" ,"Santiago Gonzalez/Aisam Qureshi" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,HARD ,atp ,ATP
+"Morelos Challenger 2019" ,2019-02-19 00:00:00 ,"Andre Goransson/Marc Andrea Huesler" ,"Andrea Collarini/Andrea Pellegrino" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-19 00:00:00 ,"Christian Harrison/Dennis Novikov" ,"Gerardo Lopez Villasenor/Manuel Sanchez" ,2 ,0 ,7 ,7 , , , ,5 ,5 , , , ,HARD ,challeger ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-19 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Petros Tsitsipas/Stefanos Tsitsipas" ,2 ,0 ,6 ,7 , , , ,1 ,5 , , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-19 00:00:00 ,"Jonathan Eysseric/Gilles Simon" ,"Raven Klaasen/Michael Venus" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,6 , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-19 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Oliver Marach/Mate Pavic" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,I. HARD ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-20 00:00:00 ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,"Chotiwat Naen Udorn/Patthravut Saimongkol" ,2 ,0 ,6 ,6 , , , ,1 ,0 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-20 00:00:00 ,"Ruben Gonzales/Alex Lawson" ,"Pruchya Isarow/Chanchin Sookton Eng" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-20 00:00:00 ,"Francis Casey Alcantara/Bernardo Saraiva" ,"Jonathan Erlich/Saketh Sai Myneni" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-20 00:00:00 ,"Max Purcell/Matt Reid" ,"Harri Heliovaara/Toshihide Matsui" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,4 , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-20 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Timur Khabibulin/Tsung Hua Yang" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-20 00:00:00 ,"Laurynas Grigelis/Zdenek Kolar" ,"David Pel/Antonio Sancic" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,4 , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-20 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Walter Trusendi/Matteo Viola" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,8 , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-20 00:00:00 ,"Tomislav Brkic/Dustin Brown" ,"Karol Drzewiecki/Szymon Walkow" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-20 00:00:00 ,"Sergio Martos Gornes/Hugo Voljacques" ,"Lorenzo Musetti/Giulio Zeppieri" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,5 , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-20 00:00:00 ,"Nikola Cacic/Mark Vervoort" ,"Luca Margaroli/David Vega Hernandez" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,challeger ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-20 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Kevin Krawietz/Andreas Mies" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-20 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Paolo Lorenzi/Andreas Seppi" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-20 00:00:00 ,"Robert Lindstedt/Tim Puetz" ,"Roberto Maytin/Nathan Pasha" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-20 00:00:00 ,"Adrian Mannarino/Hugo Nys" ,"Steve Johnson/Tennys Sandgren" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-20 00:00:00 ,"Radu Albot/Yoshihito Nishioka" ,"Nick Kyrgios/Jack Withrow" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,HARD ,atp ,ATP
+"Morelos Challenger 2019" ,2019-02-20 00:00:00 ,"Emilio Gomez/Roberto Quiroz" ,"Evan King/Hunter Reese" ,2 ,1 ,6 ,6 ,1 , , ,7 ,3 ,4 , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-20 00:00:00 ,"Steven Diez/Roberto Ortega Olmedo" ,"Matias Franco Descotte/Camilo Ugo Carabelli" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-20 00:00:00 ,"Gonzalo Escobar/Luis David Martinez" ,"Roberto Cid/Pedja Krstin" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-20 00:00:00 ,"Daniel Elahi Galan/Santiago Giraldo" ,"Joao Menezes/Joao Souza" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-20 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Lucas Gomez/Thai Kwiatkowski" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-20 00:00:00 ,"Sergio Galdos/Federico Zeballos" ,"Facundo Mena/Milan Radojkovic" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,HARD ,challeger ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-20 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Denis Kudla/David Marrero" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-20 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Andre Begemann/Rameez Junaid" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-20 00:00:00 ,"Jurgen Melzer/Philipp Oswald" ,"Matteo Berrettini/Simone Bolelli" ,1 ,0 ,w , , , , , , , , , ,I. HARD ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Marcelo Melo/Bruno Soares" ,"Mateus Alves (2001)/Thiago Seyboth Wild" ,2 ,1 ,7 ,3 ,1 , , ,6 ,6 ,8 , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Nicholas Monroe/Miguel Angel Reyes Varela" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Thiago Moura Monteiro/Fernando Romboli" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,1 , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Marcelo Demoliner/Frederik Nielsen" ,"Pablo Cuevas/Marc Lopez" ,2 ,0 ,6 ,7 , , , ,0 ,6 , , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Thomaz Bellucci/Rogerio Dutra Da Silva" ,"Cameron Norrie/Joao Sousa" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,4 , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Maximo Gonzalez/Nicolas Jarry" ,"Marco Cecchinato/Dusan Lajovic" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Roman Jebavy/Andres Molteni" ,"Malek Jaziri/Leonardo Mayer" ,2 ,1 ,2 ,6 ,1 , , ,6 ,2 ,6 , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-20 00:00:00 ,"Nikola Mektic/Horacio Zeballos" ,"Austin Krajicek/Artem Sitak" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,CLAY ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-21 00:00:00 ,"Max Purcell/Matt Reid" ,"Ruben Gonzales/Alex Lawson" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-21 00:00:00 ,"Ivan Gakhov/Gianluca Mager" ,"Vorachon Rakpuangchon/Tanakorn Srirat" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-21 00:00:00 ,"Enrique Lopez Perez/Hiroki Moriya" ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-21 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Francis Casey Alcantara/Bernardo Saraiva" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-21 00:00:00 ,"Laurynas Grigelis/Zdenek Kolar" ,"Liam Caruana/Jannik Sinner" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-21 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Tomislav Draganja/Andreas Siljestrom" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-21 00:00:00 ,"Tomislav Brkic/Dustin Brown" ,"Julian Ocleppo/Andrea Vavassori" ,2 ,1 ,6 ,7 ,1 , , ,7 ,5 ,3 , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-21 00:00:00 ,"Nikola Cacic/Mark Vervoort" ,"Sergio Martos Gornes/Hugo Voljacques" ,2 ,1 ,4 ,7 ,1 , , ,6 ,5 ,7 , , ,I. HARD ,challeger ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-21 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Adrian Mannarino/Hugo Nys" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-21 00:00:00 ,"Marcelo Arevalo/James Cerretani" ,"Robert Lindstedt/Tim Puetz" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,atp ,ATP
+"Morelos Challenger 2019" ,2019-02-21 00:00:00 ,"Emilio Gomez/Roberto Quiroz" ,"Sergio Galdos/Federico Zeballos" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-21 00:00:00 ,"Gonzalo Escobar/Luis David Martinez" ,"Steven Diez/Roberto Ortega Olmedo" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-21 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Christian Harrison/Dennis Novikov" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-21 00:00:00 ,"Andre Goransson/Marc Andrea Huesler" ,"Daniel Elahi Galan/Santiago Giraldo" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,HARD ,challeger ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-21 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Denys Molchanov/Igor Zelenay" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-21 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Jonathan Eysseric/Gilles Simon" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,9 , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-21 00:00:00 ,"Jurgen Melzer/Philipp Oswald" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,8 , , ,I. HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-21 00:00:00 ,"Ben McLachlan/Matwe Middelkoop" ,"Cheng Peng Hsieh/Christopher Rungkat" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,I. HARD ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-21 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Luke Bambridge/Jonny O'Mara" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-21 00:00:00 ,"Thomaz Bellucci/Rogerio Dutra Da Silva" ,"Marcelo Melo/Bruno Soares" ,2 ,1 ,6 ,6 ,1 , , ,2 ,7 ,5 , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-21 00:00:00 ,"Maximo Gonzalez/Nicolas Jarry" ,"Nikola Mektic/Horacio Zeballos" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,1 , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-21 00:00:00 ,"Roman Jebavy/Andres Molteni" ,"Marcelo Demoliner/Frederik Nielsen" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,3 , , ,CLAY ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-22 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Ivan Gakhov/Gianluca Mager" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Bangkok Challenger 2019" ,2019-02-22 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Max Purcell/Matt Reid" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-22 00:00:00 ,"Laurynas Grigelis/Zdenek Kolar" ,"Scott Clayton/Adil Shamasdin" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,I. HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-22 00:00:00 ,"Tomislav Brkic/Dustin Brown" ,"Nikola Cacic/Mark Vervoort" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,I. HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-22 00:00:00 ,"Gonzalo Escobar/Luis David Martinez" ,"Hans Hach Verdugo/Ante Pavic" ,2 ,1 ,1 ,6 ,1 , , ,6 ,3 ,8 , , ,HARD ,challeger ,ATP
+"Morelos Challenger 2019" ,2019-02-22 00:00:00 ,"Andre Goransson/Marc Andrea Huesler" ,"Emilio Gomez/Roberto Quiroz" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,3 , , ,HARD ,challeger ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-22 00:00:00 ,"Ben McLachlan/Matwe Middelkoop" ,"Jurgen Melzer/Philipp Oswald" ,2 ,1 ,3 ,7 ,1 , , ,6 ,5 ,7 , , ,I. HARD ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-22 00:00:00 ,"Thomaz Bellucci/Rogerio Dutra Da Silva" ,"Roman Jebavy/Andres Molteni" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-22 00:00:00 ,"Maximo Gonzalez/Nicolas Jarry" ,"Juan Sebastian Cabal/Robert Farah" ,2 ,1 ,3 ,7 ,1 , , ,6 ,5 ,7 , , ,CLAY ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-23 00:00:00 ,"Enrique Lopez Perez/Hiroki Moriya" ,"Mao Xin Gong/Ze Zhang" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Bergamo Challenger 2019" ,2019-02-23 00:00:00 ,"Laurynas Grigelis/Zdenek Kolar" ,"Tomislav Brkic/Dustin Brown" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,I. HARD ,challeger ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-23 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Marcelo Arevalo/James Cerretani" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,HARD ,atp ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-23 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Radu Albot/Yoshihito Nishioka" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,atp ,ATP
+"Morelos Challenger 2019" ,2019-02-23 00:00:00 ,"Andre Goransson/Marc Andrea Huesler" ,"Gonzalo Escobar/Luis David Martinez" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,9 , , ,HARD ,challeger ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-23 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,I. HARD ,atp ,ATP
+"Rio Open - Rio de Janeiro 2019" ,2019-02-23 00:00:00 ,"Maximo Gonzalez/Nicolas Jarry" ,"Thomaz Bellucci/Rogerio Dutra Da Silva" ,2 ,1 ,6 ,6 ,1 , , ,7 ,3 ,7 , , ,CLAY ,atp ,ATP
+"Bangkok Challenger 2019" ,2019-02-24 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Enrique Lopez Perez/Hiroki Moriya" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,HARD ,challeger ,ATP
+"Delray Beach Open - Delray Beach 2019" ,2019-02-24 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Ken Skupski/Neal Skupski" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,atp ,ATP
+"Open 13 Provence - Marseille 2019" ,2019-02-24 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Ben McLachlan/Matwe Middelkoop" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,3 , , ,I. HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-25 00:00:00 ,"Feliciano Lopez/Marc Lopez" ,"Marcus Daniell/Wesley Koolhof" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-25 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Nicolas Jarry/Andreas Seppi" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-25 00:00:00 ,"Alexander Zverev/Mischa Zverev" ,"Nicholas Monroe/Miguel Angel Reyes Varela" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,HARD ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-25 00:00:00 ,"Sander Gille/Joran Vliegen" ,"Guillermo Duran/Juan Ignacio Londero" ,2 ,1 ,6 ,5 ,1 , , ,4 ,7 ,5 , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-25 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Hugo Dellien/Guido Pella" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-25 00:00:00 ,"Nikoloz Basilashvili/Matthew Ebden" ,"Raven Klaasen/Michael Venus" ,2 ,1 ,7 ,3 ,1 , , ,6 ,6 ,3 , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-25 00:00:00 ,"Leander Paes/Benoit Paire" ,"Rohan Bopanna/Divij Sharan" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,HARD ,atp ,ATP
+"Yokohama Challenger 2019" ,2019-02-25 00:00:00 ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,"Shinji Hazawa/Naoki Tajima" ,2 ,1 ,6 ,3 ,1 , , ,2 ,6 ,5 , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-25 00:00:00 ,"Ivan Gakhov/Alexander Pavlioutchenkov" ,"Blake Ellis/Jurij Rodionov" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-25 00:00:00 ,"Toshihide Matsui/Kaito Uesugi" ,"Ruben Gonzales/Alex Lawson" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,HARD ,challeger ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-26 00:00:00 ,"Robert Lindstedt/Frances Tiafoe" ,"Jamie Murray/Bruno Soares" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,HARD ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-26 00:00:00 ,"Pablo Cuevas/Horacio Zeballos" ,"Marcelo Demoliner/Frederik Nielsen" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-26 00:00:00 ,"Marcelo Arevalo/James Cerretani" ,"Romain Arneodo/Hugo Nys" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-26 00:00:00 ,"Maximilian Marterer/Andreas Mies" ,"Igor Ribeiro Marcondes/Rafael Matos" ,2 ,1 ,6 ,6 ,1 , , ,7 ,0 ,6 , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-26 00:00:00 ,"Federico Delbonis/Maximo Gonzalez" ,"David Marrero/Philipp Oswald" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-26 00:00:00 ,"Thomaz Bellucci/Rogerio Dutra Da Silva" ,"Leonardo Mayer/Joao Sousa" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,1 , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-26 00:00:00 ,"Roman Jebavy/Andres Molteni" ,"Roberto Carballes Baena/Malek Jaziri" ,2 ,0 ,6 ,6 , , , ,0 ,3 , , , ,CLAY ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-26 00:00:00 ,"Jean Julien Rojer/Horia Tecau" ,"Jurgen Melzer/Nenad Zimonjic" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-26 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Ivan Dodig/Damir Dzumhur" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-26 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Dominic Inglot/Franko Skugor" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-26 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Henri Kontinen/John Peers" ,2 ,1 ,0 ,6 ,1 , , ,6 ,4 ,8 , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-26 00:00:00 ,"Philipp Kohlschreiber/Fernando Verdasco" ,"Robin Haase/Matwe Middelkoop" ,2 ,1 ,5 ,6 ,1 , , ,7 ,3 ,4 , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-26 00:00:00 ,"Rajeev Ram/Joe Salisbury" ,"Karen Khachanov/Daniil Medvedev" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,HARD ,atp ,ATP
+"Indian Wells Challenger 2019" ,2019-02-26 00:00:00 ,"Alex Bolt/Sem Verbeek" ,"Robert Galloway/Nathaniel Lammons" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,6 , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-26 00:00:00 ,"Darian King/Hunter Reese" ,"Luis David Martinez/Lukas Rosol" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-26 00:00:00 ,"Andre Begemann/Rameez Junaid" ,"Evan Furness/Gregoire Jacq" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,5 , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-26 00:00:00 ,"Benjamin Bonzi/Quentin Halys" ,"Jonathan Eysseric/David Vega Hernandez" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-26 00:00:00 ,"Luca Margaroli/Andrea Vavassori" ,"Wilfredo Gonzalez/Hugo Voljacques" ,1 ,0 ,6 ,2 , , , ,4 ,0 , , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-26 00:00:00 ,"Gerard Granollers/Lucas Miedler" ,"David Pel/Antonio Sancic" ,2 ,1 ,2 ,6 ,1 , , ,6 ,4 ,5 , , ,I. HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-26 00:00:00 ,"Moez Echargui/Skander Mansouri" ,"Masahiro Fukuda/Masamichi Imamura" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-26 00:00:00 ,"Yunseong Chung/Soon Woo Kwon" ,"Jimmy Wang/Tsung Hua Yang" ,2 ,1 ,6 ,4 ,1 , , ,2 ,6 ,7 , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-26 00:00:00 ,"Max Purcell/Luke Saville" ,"Guilherme Clezar/Gastao Elias" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-26 00:00:00 ,"Shintaro Imai/Bernardo Saraiva" ,"Goncalo Oliveira/Kaichi Uchida" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,challeger ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-27 00:00:00 ,"Bob Bryan/Mike Bryan" ,"John Millman/Neal Skupski" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-27 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Lukasz Kubot/Marcelo Melo" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-27 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Peter Gojowczyk/Kevin Krawietz" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-27 00:00:00 ,"Marcel Granollers/Nikola Mektic" ,"Hans Hach Verdugo/Ante Pavic" ,2 ,1 ,6 ,2 ,1 , , ,4 ,6 ,5 , , ,HARD ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-27 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Sander Gille/Joran Vliegen" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-27 00:00:00 ,"Thomaz Bellucci/Rogerio Dutra Da Silva" ,"Marcelo Arevalo/James Cerretani" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,6 , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-27 00:00:00 ,"Roman Jebavy/Andres Molteni" ,"Maximilian Marterer/Andreas Mies" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-27 00:00:00 ,"Jean Julien Rojer/Horia Tecau" ,"Nikoloz Basilashvili/Matthew Ebden" ,2 ,1 ,5 ,7 ,1 , , ,7 ,6 ,3 , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-27 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Oliver Marach/Mate Pavic" ,2 ,0 ,7 ,7 , , , ,5 ,5 , , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-27 00:00:00 ,"Rajeev Ram/Joe Salisbury" ,"Leander Paes/Benoit Paire" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,HARD ,atp ,ATP
+"Indian Wells Challenger 2019" ,2019-02-27 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Jason Jung/Evan King" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-27 00:00:00 ,"Lloyd Harris/Ruan Roelofse" ,"Mitchell Krueger/Jack Withrow" ,2 ,0 ,6 ,6 , , , ,2 ,0 , , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-27 00:00:00 ,"Jc Aragone/Marcos Giron" ,"Denis Istomin/Pedja Krstin" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,7 , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-27 00:00:00 ,"Miomir Kecmanovic/Dominik Koepfer" ,"Nathan Pasha/Donald Young" ,2 ,1 ,1 ,7 ,1 , , ,6 ,5 ,4 , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-27 00:00:00 ,"Christopher Eubanks/Thai Kwiatkowski" ,"Ruben Bemelmans/Yannick Maden" ,2 ,1 ,5 ,6 ,1 , , ,7 ,3 ,8 , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-27 00:00:00 ,"Kamil Majchrzak/Jurgen Zopp" ,"Evgeny Donskoy/Andrey Rublev" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-27 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Alexandre Muller/Nino Serdarusic" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-27 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Fabrice Martin/Andrei Vasilevski" ,2 ,1 ,3 ,7 ,1 , , ,6 ,6 ,8 , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-27 00:00:00 ,"Andreas Siljestrom/Szymon Walkow" ,"Peter Heller/Roman Safiullin" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-27 00:00:00 ,"Alexis Musialek/Mathieu Perchicot" ,"Daniel Brands/Dustin Brown" ,2 ,0 ,6 ,7 , , , ,1 ,6 , , , ,I. HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-27 00:00:00 ,"John Paul Fruttero/David Perez Sanz" ,"Pedro Cachin/Hiroki Moriya" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-28 00:00:00 ,"Feliciano Lopez/Marc Lopez" ,"Santiago Gonzalez/Aisam Qureshi" ,2 ,1 ,5 ,6 ,1 , , ,7 ,4 ,1 , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-28 00:00:00 ,"Alexander Zverev/Mischa Zverev" ,"Bob Bryan/Mike Bryan" ,2 ,1 ,5 ,6 ,1 , , ,7 ,4 ,7 , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-28 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Juan Sebastian Cabal/Robert Farah" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-02-28 00:00:00 ,"Marcel Granollers/Nikola Mektic" ,"Robert Lindstedt/Frances Tiafoe" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-02-28 00:00:00 ,"Federico Delbonis/Maximo Gonzalez" ,"Pablo Cuevas/Horacio Zeballos" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-02-28 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Philipp Kohlschreiber/Fernando Verdasco" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,8 , , ,HARD ,atp ,ATP
+"Indian Wells Challenger 2019" ,2019-02-28 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Kamil Majchrzak/Jurgen Zopp" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,8 , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-28 00:00:00 ,"Jc Aragone/Marcos Giron" ,"Alex Bolt/Sem Verbeek" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-28 00:00:00 ,"Miomir Kecmanovic/Dominik Koepfer" ,"Lloyd Harris/Ruan Roelofse" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-02-28 00:00:00 ,"Darian King/Hunter Reese" ,"Christopher Eubanks/Thai Kwiatkowski" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,5 , , ,HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-28 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Gerard Granollers/Lucas Miedler" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,5 , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-28 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Luca Margaroli/Andrea Vavassori" ,2 ,1 ,6 ,6 ,1 , , ,7 ,2 ,1 , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-28 00:00:00 ,"Andreas Siljestrom/Szymon Walkow" ,"Andre Begemann/Rameez Junaid" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,7 , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-02-28 00:00:00 ,"Alexis Musialek/Mathieu Perchicot" ,"Benjamin Bonzi/Quentin Halys" ,2 ,1 ,7 ,5 ,1 , , ,6 ,7 ,6 , , ,I. HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-28 00:00:00 ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,"John Paul Fruttero/David Perez Sanz" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-28 00:00:00 ,"Moez Echargui/Skander Mansouri" ,"Ivan Gakhov/Alexander Pavlioutchenkov" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-28 00:00:00 ,"Yunseong Chung/Soon Woo Kwon" ,"Toshihide Matsui/Kaito Uesugi" ,2 ,1 ,3 ,7 ,1 , , ,6 ,5 ,4 , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-02-28 00:00:00 ,"Max Purcell/Luke Saville" ,"Shintaro Imai/Bernardo Saraiva" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-03-01 00:00:00 ,"Alexander Zverev/Mischa Zverev" ,"Feliciano Lopez/Marc Lopez" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,atp ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-03-01 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Marcel Granollers/Nikola Mektic" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,1 , , ,HARD ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-03-01 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Thomaz Bellucci/Rogerio Dutra Da Silva" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,5 , , ,CLAY ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-03-01 00:00:00 ,"Federico Delbonis/Maximo Gonzalez" ,"Roman Jebavy/Andres Molteni" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-03-01 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,1 , , ,HARD ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-03-01 00:00:00 ,"Rajeev Ram/Joe Salisbury" ,"Jean Julien Rojer/Horia Tecau" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,atp ,ATP
+"Indian Wells Challenger 2019" ,2019-03-01 00:00:00 ,"Jc Aragone/Marcos Giron" ,"Miomir Kecmanovic/Dominik Koepfer" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,5 , , ,HARD ,challeger ,ATP
+"Indian Wells Challenger 2019" ,2019-03-01 00:00:00 ,"Darian King/Hunter Reese" ,"Matt Reid/John Patrick Smith" ,2 ,1 ,6 ,4 ,1 , , ,4 ,6 ,6 , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-03-01 00:00:00 ,"Moez Echargui/Skander Mansouri" ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,6 , , ,HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-03-01 00:00:00 ,"Max Purcell/Luke Saville" ,"Yunseong Chung/Soon Woo Kwon" ,2 ,0 ,6 ,6 , , , ,4 ,0 , , , ,HARD ,challeger ,ATP
+"Abierto Mexicano Telcel - Acapulco 2019" ,2019-03-02 00:00:00 ,"Alexander Zverev/Mischa Zverev" ,"Austin Krajicek/Artem Sitak" ,2 ,1 ,2 ,7 ,1 , , ,6 ,6 ,5 , , ,HARD ,atp ,ATP
+"Brasil Open - Sao Paulo 2019" ,2019-03-02 00:00:00 ,"Federico Delbonis/Maximo Gonzalez" ,"Luke Bambridge/Jonny O'Mara" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,atp ,ATP
+"Dubai Duty Free Tennis Championships - Dubai 2019" ,2019-03-02 00:00:00 ,"Rajeev Ram/Joe Salisbury" ,"Ben Mclachlan/Jan Lennard Struff" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,atp ,ATP
+"Indian Wells Challenger 2019" ,2019-03-02 00:00:00 ,"Jc Aragone/Marcos Giron" ,"Darian King/Hunter Reese" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-03-02 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Andreas Siljestrom/Szymon Walkow" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,I. HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-03-02 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Alexis Musialek/Mathieu Perchicot" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,I. HARD ,challeger ,ATP
+"Yokohama Challenger 2019" ,2019-03-02 00:00:00 ,"Moez Echargui/Skander Mansouri" ,"Max Purcell/Luke Saville" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,7 , , ,HARD ,challeger ,ATP
+"Pau Challenger 2019" ,2019-03-03 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,1 ,7 ,5 ,1 , , ,6 ,7 ,8 , , ,I. HARD ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-05 00:00:00 ,"Marcelo Tomas Barrios Vera/Gonzalo Lama" ,"Gonzalo Escobar/Fabricio Neis" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-05 00:00:00 ,"Hugo Dellien/Guillermo Duran" ,"Daniel Gimeno Traver/Pedro Martinez Portero" ,2 ,1 ,5 ,6 ,1 , , ,7 ,3 ,7 , , ,CLAY ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-05 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Marc Polmans/Brayden Schnur" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-05 00:00:00 ,"Di Wu/Yibing Wu" ,"Baptiste Crepatte/Karim Mohamed Maamoun" ,2 ,1 ,2 ,7 ,1 , , ,6 ,6 ,7 , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-05 00:00:00 ,"Saketh Sai Myneni/Sanchai Ratiwatana" ,"N.Sriram Balaji/Hans Hach Verdugo" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-05 00:00:00 ,"Nikola Cacic/Hiroki Moriya" ,"Harri Heliovaara/Hans Podlipnik Castillo" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,HARD ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-06 00:00:00 ,"Facundo Mena/Renzo Olivo" ,"Andrea Collarini/Federico Coria" ,2 ,1 ,1 ,7 ,1 , , ,6 ,5 ,9 , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-06 00:00:00 ,"Facundo Arguello/Martin Cuevas" ,"Diego Hidalgo/Alejandro Tabilo" ,2 ,1 ,5 ,7 ,1 , , ,7 ,6 ,2 , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-06 00:00:00 ,"Franco Agamenone/Fernando Romboli" ,"Kimmer Coppejans/Andrej Martin" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-06 00:00:00 ,"Sergio Galdos/Thiago Moura Monteiro" ,"Matias Franco Descotte/Camilo Ugo Carabelli" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-06 00:00:00 ,"Gian Marco Moroni/Carlos Taberner" ,"Gerard Granollers/Sumit Nagal" ,2 ,1 ,7 ,5 ,1 , , ,6 ,7 ,5 , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-06 00:00:00 ,"Bastian Malla/Victor Nunez" ,"Joao Menezes/Joao Souza" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-06 00:00:00 ,"Xin Gao/Zhizhen Zhang" ,"Enrique Lopez Perez/Blaz Rola" ,2 ,1 ,5 ,7 ,1 , , ,7 ,6 ,1 , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-06 00:00:00 ,"Max Purcell/Luke Saville" ,"Yecong He/Zihao Xia" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-06 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Mats Moraing/Oscar Otte" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , , ,HARD ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-07 00:00:00 ,"Facundo Arguello/Martin Cuevas" ,"Bastian Malla/Victor Nunez" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-07 00:00:00 ,"Marcelo Tomas Barrios Vera/Gonzalo Lama" ,"Sergio Galdos/Thiago Moura Monteiro" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-07 00:00:00 ,"Franco Agamenone/Fernando Romboli" ,"Gian Marco Moroni/Carlos Taberner" ,2 ,1 ,5 ,6 ,1 , , ,7 ,2 ,8 , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-07 00:00:00 ,"Hugo Dellien/Guillermo Duran" ,"Facundo Mena/Renzo Olivo" ,2 ,1 ,6 ,4 ,1 , , ,1 ,6 ,6 , , ,CLAY ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-07 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Di Wu/Yibing Wu" ,2 ,1 ,5 ,6 ,1 , , ,7 ,4 ,4 , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-07 00:00:00 ,"Ruben Gonzales/Alex Lawson" ,"Javier Barranco Cosano/Raul Brancaccio" ,2 ,1 ,7 ,5 ,1 , , ,5 ,7 ,8 , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-07 00:00:00 ,"Nikola Cacic/Hiroki Moriya" ,"Saketh Sai Myneni/Sanchai Ratiwatana" ,2 ,0 ,6 ,7 , , , ,2 ,5 , , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Alexander Zverev/Mischa Zverev" ,2 ,1 ,5 ,6 ,1 , , ,7 ,3 ,5 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Pierre Hugues Herbert/Nicolas Mahut" ,"John Isner/Sam Querrey" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,1 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Wesley Koolhof/Stefanos Tsitsipas" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,5 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Henri Kontinen/John Peers" ,"Nikoloz Basilashvili/Artem Sitak" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Raven Klaasen/Michael Venus" ,"Maximo Gonzalez/Kei Nishikori" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Rajeev Ram/Joe Salisbury" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Taylor Harry Fritz/Nick Kyrgios" ,"Steve Johnson/Dominic Thiem" ,2 ,0 ,7 ,6 , , , ,5 ,1 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-08 00:00:00 ,"Novak Djokovic/Fabio Fognini" ,"Jeremy Chardy/Milos Raonic" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,HARD ,atp ,ATP
+"Santiago Challenger 2019" ,2019-03-08 00:00:00 ,"Facundo Arguello/Martin Cuevas" ,"Hugo Dellien/Guillermo Duran" ,2 ,1 ,6 ,3 ,1 , , ,1 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"Santiago Challenger 2019" ,2019-03-08 00:00:00 ,"Franco Agamenone/Fernando Romboli" ,"Marcelo Tomas Barrios Vera/Gonzalo Lama" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-08 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Xin Gao/Zhizhen Zhang" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-09 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Karen Khachanov/Daniil Medvedev" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-09 00:00:00 ,"Jean Julien Rojer/Horia Tecau" ,"Marton Fucsovics/Guido Pella" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-09 00:00:00 ,"Lucas Pouille/Stan Wawrinka" ,"Ivan Dodig/Edouard Roger Vasselin" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-09 00:00:00 ,"Dominic Inglot/Franko Skugor" ,"Feliciano Lopez/Diego Sebastian Schwartzman" ,2 ,1 ,5 ,6 ,1 , , ,7 ,4 ,7 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-09 00:00:00 ,"Nikola Mektic/Horacio Zeballos" ,"Kyle Edmund/Neal Skupski" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-09 00:00:00 ,"Rohan Bopanna/Denis Shapovalov" ,"Jamie Murray/Bruno Soares" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,atp ,ATP
+"Santiago Challenger 2019" ,2019-03-09 00:00:00 ,"Franco Agamenone/Fernando Romboli" ,"Facundo Arguello/Martin Cuevas" ,2 ,1 ,7 ,1 ,1 , , ,6 ,6 ,6 , , ,CLAY ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-09 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Nikola Cacic/Hiroki Moriya" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-09 00:00:00 ,"Max Purcell/Luke Saville" ,"Zhe Li/Goncalo Oliveira" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,9 , , ,HARD ,challeger ,ATP
+"Zhuhai Challenger 2019" ,2019-03-09 00:00:00 ,"Max Purcell/Luke Saville" ,"Ruben Gonzales/Alex Lawson" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-10 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Taylor Harry Fritz/Nick Kyrgios" ,2 ,1 ,6 ,1 ,1 , , ,4 ,6 ,8 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-10 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Marco Cecchinato/Andreas Seppi" ,2 ,0 ,6 ,6 , , , ,4 ,0 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-10 00:00:00 ,"Raven Klaasen/Michael Venus" ,"Ben Mclachlan/Jan Lennard Struff" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-10 00:00:00 ,"Mackenzie McDonald/Reilly Opelka" ,"Adrian Mannarino/Gael Monfils" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-10 00:00:00 ,"Novak Djokovic/Fabio Fognini" ,"Rohan Bopanna/Denis Shapovalov" ,2 ,1 ,6 ,1 ,1 , , ,4 ,6 ,8 , , ,HARD ,atp ,ATP
+"Zhuhai Challenger 2019" ,2019-03-10 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Max Purcell/Luke Saville" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-11 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Lucas Pouille/Stan Wawrinka" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-11 00:00:00 ,"Jean Julien Rojer/Horia Tecau" ,"Henri Kontinen/John Peers" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-11 00:00:00 ,"Nikola Mektic/Horacio Zeballos" ,"Pierre Hugues Herbert/Nicolas Mahut" ,2 ,1 ,2 ,7 ,1 , , ,6 ,6 ,1 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-12 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Mackenzie McDonald/Reilly Opelka" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-12 00:00:00 ,"Dominic Inglot/Franko Skugor" ,"Bob Bryan/Mike Bryan" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,3 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-12 00:00:00 ,"Novak Djokovic/Fabio Fognini" ,"Jean Julien Rojer/Horia Tecau" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,6 , , ,HARD ,atp ,ATP
+"Drummondville Challenger 2019" ,2019-03-12 00:00:00 ,"Frank Dancevic/Florin Mergea" ,"Justin Boulais/Joshua Peck" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-12 00:00:00 ,"Andre Goransson/Nathan Pasha" ,"Steven Diez/Nikola Milojevic" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,I. HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-12 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Yecong He/Fajing Sun" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-12 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"N.Sriram Balaji/Hans Hach Verdugo" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-13 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Dominic Inglot/Franko Skugor" ,2 ,1 ,4 ,6 ,1 , , ,6 ,2 ,6 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-13 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Raven Klaasen/Michael Venus" ,2 ,1 ,6 ,6 ,1 , , ,4 ,7 ,5 , , ,HARD ,atp ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-13 00:00:00 ,"Nikola Mektic/Horacio Zeballos" ,"Juan Sebastian Cabal/Robert Farah" ,2 ,1 ,3 ,7 ,1 , , ,6 ,5 ,6 , , ,HARD ,atp ,ATP
+"Drummondville Challenger 2019" ,2019-03-13 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Matias Franco Descotte/Skander Mansouri" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,6 , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-13 00:00:00 ,"Evan Furness/Manuel Guinard" ,"JC Aragone/Fernando Romboli" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-13 00:00:00 ,"Luis David Martinez/Roberto Quiroz" ,"Liam Broady/Thai Kwiatkowski" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-13 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Taha Baadi/Liam Draxl" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,I. HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-13 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Toshihide Matsui/Hiroki Moriya" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-13 00:00:00 ,"Ruben Gonzales/Alex Lawson" ,"Runhao Hua/Zihao Xia" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,1 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-13 00:00:00 ,"Max Purcell/Luke Saville" ,"Xin Gao/Zhizhen Zhang" ,2 ,1 ,7 ,6 ,1 , , ,5 ,7 ,4 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-13 00:00:00 ,"Marc Polmans/Brayden Schnur" ,"Javier Barranco Cosano/Raul Brancaccio" ,2 ,1 ,6 ,6 ,1 , , ,7 ,0 ,5 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-13 00:00:00 ,"Harri Heliovaara/Hans Podlipnik Castillo" ,"Enrique Lopez Perez/Sanchai Ratiwatana" ,2 ,1 ,6 ,1 ,1 , , ,4 ,6 ,5 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-13 00:00:00 ,"Luca Margaroli/Vishnu Vardhan" ,"Baptiste Crepatte/Karim Mohamed Maamoun" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-14 00:00:00 ,"Nikola Mektic/Horacio Zeballos" ,"Oliver Marach/Mate Pavic" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,atp ,ATP
+"Drummondville Challenger 2019" ,2019-03-14 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Frank Dancevic/Florin Mergea" ,2 ,1 ,7 ,4 ,1 , , ,5 ,6 ,4 , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-14 00:00:00 ,"Dennis Novikov/Ante Pavic" ,"Matteo Viola/Jurgen Zopp" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-14 00:00:00 ,"Luis David Martinez/Roberto Quiroz" ,"Andre Goransson/Nathan Pasha" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-14 00:00:00 ,"John Paul Fruttero/Christian Harrison" ,"Evan King/Hunter Reese" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,3 , , ,I. HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-14 00:00:00 ,"Guido Andreozzi/Nicolas Jarry" ,"Robert Galloway/Nathaniel Lammons" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-14 00:00:00 ,"Marcelo Demoliner/Frederik Nielsen" ,"Jonathan Erlich/Fabrice Martin" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-14 00:00:00 ,"Andrea Arnaboldi/Salvatore Caruso" ,"Matthew Ebden/Ryan Harrison" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-14 00:00:00 ,"James Cerretani/Nicholas Monroe" ,"Pedja Krstin/Nenad Zimonjic" ,2 ,0 ,6 ,7 , , , ,1 ,5 , , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-14 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Santiago Gonzalez/Aisam Qureshi" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-14 00:00:00 ,"Rohan Bopanna/Divij Sharan" ,"Ruben Bemelmans/Peter Polansky" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-14 00:00:00 ,"Jamie Murray/Neal Skupski" ,"Jason Jung/Mitchell Krueger" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-14 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Ruben Gonzales/Alex Lawson" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-15 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Novak Djokovic/Fabio Fognini" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,6 , , ,HARD ,atp ,ATP
+"Drummondville Challenger 2019" ,2019-03-15 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Luis David Martinez/Roberto Quiroz" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-15 00:00:00 ,"Dennis Novikov/Ante Pavic" ,"John Paul Fruttero/Christian Harrison" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,4 , , ,I. HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-15 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Evan Furness/Manuel Guinard" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,I. HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-15 00:00:00 ,"Andrea Arnaboldi/Salvatore Caruso" ,"Marcelo Demoliner/Frederik Nielsen" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,8 , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-15 00:00:00 ,"James Cerretani/Nicholas Monroe" ,"Rohan Bopanna/Divij Sharan" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,1 , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-15 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Guido Andreozzi/Nicolas Jarry" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-15 00:00:00 ,"Jamie Murray/Neal Skupski" ,"Marcus Daniell/Wesley Koolhof" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,1 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-15 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Marc Polmans/Brayden Schnur" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,5 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-15 00:00:00 ,"Max Purcell/Luke Saville" ,"Harri Heliovaara/Hans Podlipnik Castillo" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,3 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-15 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Luca Margaroli/Vishnu Vardhan" ,2 ,1 ,6 ,1 ,1 , , ,4 ,6 ,6 , , ,HARD ,challeger ,ATP
+"BNP Paribas Open - Indian Wells 2019" ,2019-03-16 00:00:00 ,"Nikola Mektic/Horacio Zeballos" ,"Lukasz Kubot/Marcelo Melo" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,3 , , ,HARD ,atp ,ATP
+"Drummondville Challenger 2019" ,2019-03-16 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Dennis Novikov/Ante Pavic" ,2 ,1 ,3 ,7 ,1 , , ,6 ,6 ,5 , , ,I. HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-16 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"James Cerretani/Nicholas Monroe" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,7 , , ,HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-16 00:00:00 ,"Jamie Murray/Neal Skupski" ,"Andrea Arnaboldi/Salvatore Caruso" ,2 ,1 ,6 ,6 ,1 , , ,7 ,0 ,9 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-16 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Max Purcell/Luke Saville" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-16 00:00:00 ,"Zhe Li/Goncalo Oliveira" ,"Mao Xin Gong/Ze Zhang" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,5 , , ,HARD ,challeger ,ATP
+"Drummondville Challenger 2019" ,2019-03-17 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Matt Reid/John Patrick Smith" ,2 ,1 ,7 ,3 ,1 , , ,5 ,6 ,5 , , ,I. HARD ,challeger ,ATP
+"Phoenix Challenger 2019" ,2019-03-17 00:00:00 ,"Jamie Murray/Neal Skupski" ,"Austin Krajicek/Artem Sitak" ,2 ,1 ,6 ,7 ,1 , , ,7 ,5 ,6 , , ,HARD ,challeger ,ATP
+"Shenzhen Challenger 2019" ,2019-03-17 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Zhe Li/Goncalo Oliveira" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,6 , , ,HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-19 00:00:00 ,"Niels Desein/Yannick Mertens" ,"Jurgen Melzer/Filip Polasek" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,7 , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-19 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Andre Begemann/Dustin Brown" ,2 ,0 ,7 ,6 , , , ,5 ,0 , , , ,I. HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-19 00:00:00 ,"Runhao Hua/Zhizhen Zhang" ,"Zihao Xia/Shi Hong Zeng" ,2 ,1 ,4 ,6 ,1 , , ,6 ,2 ,4 , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-19 00:00:00 ,"N.Sriram Balaji/Hans Hach Verdugo" ,"Harri Heliovaara/Hans Podlipnik Castillo" ,2 ,1 ,7 ,6 ,1 , , ,5 ,7 ,8 , , ,HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-20 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Benjamin Bonzi/Quentin Halys" ,2 ,1 ,6 ,2 ,1 , , ,4 ,6 ,9 , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-20 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Matt Reid/Sergiy Stakhovsky" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,7 , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-20 00:00:00 ,"Rameez Junaid/David Pel" ,"Denys Molchanov/Igor Zelenay" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-20 00:00:00 ,"Evan Furness/Gregoire Jacq" ,"Jonathan Eysseric/Antonio Sancic" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-20 00:00:00 ,"Jonathan Erlich/Fabrice Martin" ,"Sergio Martos Gornes/Roman Safiullin" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-20 00:00:00 ,"Guillermo Garcia Lopez/David Vega Hernandez" ,"Philipp Oswald/Leander Paes" ,2 ,1 ,1 ,6 ,1 , , ,6 ,3 ,4 , , ,I. HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-20 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Toshihide Matsui/Sonchat Ratiwatana" ,2 ,0 ,6 ,6 , , , ,4 ,0 , , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-20 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Xin Gao/Fajing Sun" ,2 ,1 ,2 ,7 ,1 , , ,6 ,6 ,9 , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-20 00:00:00 ,"Ruben Gonzales/Alex Lawson" ,"Jose Hernandez Fernandez/Brayden Schnur" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-20 00:00:00 ,"Max Purcell/Luke Saville" ,"Hiroki Moriya/Tsung Hua Yang" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,4 , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-20 00:00:00 ,"Luca Margaroli/Vishnu Vardhan" ,"Francis Casey Alcantara/Bernardo Saraiva" ,2 ,1 ,6 ,4 ,1 , , ,2 ,6 ,5 , , ,HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-21 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Niels Desein/Yannick Mertens" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-21 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Guillermo Garcia Lopez/David Vega Hernandez" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,6 , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-21 00:00:00 ,"Jonathan Erlich/Fabrice Martin" ,"Evan Furness/Gregoire Jacq" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,5 , , ,I. HARD ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-21 00:00:00 ,"Maximo Gonzalez/Horacio Zeballos" ,"Alexander Zverev/Mischa Zverev" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-21 00:00:00 ,"Marcel Granollers/Nikola Mektic" ,"Steve Johnson/Dominic Thiem" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-21 00:00:00 ,"Wesley Koolhof/Stefanos Tsitsipas" ,"Karen Khachanov/Daniil Medvedev" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,HARD ,atp ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-21 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Luca Margaroli/Vishnu Vardhan" ,2 ,1 ,4 ,6 ,1 , , ,6 ,1 ,6 , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-21 00:00:00 ,"N.Sriram Balaji/Hans Hach Verdugo" ,"Runhao Hua/Zhizhen Zhang" ,2 ,1 ,3 ,7 ,1 , , ,6 ,6 ,5 , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-21 00:00:00 ,"John Paul Fruttero/Ivan Gakhov" ,"Yunseong Chung/Soon Woo Kwon" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-22 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Rameez Junaid/David Pel" ,2 ,1 ,6 ,6 ,1 , , ,7 ,3 ,8 , , ,I. HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-22 00:00:00 ,"Jonathan Erlich/Fabrice Martin" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,1 , , ,I. HARD ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-22 00:00:00 ,"John Isner/Sam Querrey" ,"Marcelo Demoliner/Miomir Kecmanovic" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-22 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Mackenzie McDonald/Reilly Opelka" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-22 00:00:00 ,"Radu Albot/Nikoloz Basilashvili" ,"Ben McLachlan/Neal Skupski" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,atp ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-22 00:00:00 ,"Ruben Gonzales/Alex Lawson" ,"Mao Xin Gong/Ze Zhang" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-22 00:00:00 ,"Max Purcell/Luke Saville" ,"John Paul Fruttero/Ivan Gakhov" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,HARD ,challeger ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-22 00:00:00 ,"N.Sriram Balaji/Hans Hach Verdugo" ,"Cheng Peng Hsieh/Christopher Rungkat" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-23 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Robert Galloway/Nathaniel Lammons" ,2 ,1 ,5 ,6 ,1 , , ,7 ,4 ,8 , , ,I. HARD ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Marton Fucsovics/Roman Jebavy" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Robin Haase/Dominic Inglot" ,2 ,1 ,6 ,3 ,1 , , ,1 ,6 ,4 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Marco Cecchinato/Andres Molteni" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Jean Julien Rojer/Horia Tecau" ,2 ,1 ,6 ,6 ,1 , , ,7 ,3 ,1 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Guido Pella/Joao Sousa" ,"Taylor Harry Fritz/Nick Kyrgios" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,8 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Rajeev Ram/Joe Salisbury" ,"Henri Kontinen/John Peers" ,2 ,1 ,6 ,7 ,1 , , ,7 ,5 ,9 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Rohan Bopanna/Denis Shapovalov" ,"Austin Krajicek/Artem Sitak" ,2 ,1 ,7 ,2 ,1 , , ,5 ,6 ,6 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-23 00:00:00 ,"Nicolas Jarry/Franko Skugor" ,"Jeremy Chardy/Gilles Simon" ,2 ,1 ,6 ,1 ,1 , , ,4 ,6 ,6 , , ,HARD ,atp ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-23 00:00:00 ,"Max Purcell/Luke Saville" ,"Ruben Gonzales/Alex Lawson" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,HARD ,challeger ,ATP
+"Lille Challenger 2019" ,2019-03-24 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Jonathan Erlich/Fabrice Martin" ,2 ,1 ,7 ,5 ,1 , , ,5 ,7 ,8 , , ,I. HARD ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-24 00:00:00 ,"John Isner/Sam Querrey" ,"Rajeev Ram/Joe Salisbury" ,2 ,1 ,5 ,7 ,1 , , ,7 ,6 ,7 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-24 00:00:00 ,"Maximo Gonzalez/Horacio Zeballos" ,"Juan Sebastian Cabal/Robert Farah" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,7 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-24 00:00:00 ,"Ivan Dodig/Edouard Roger Vasselin" ,"Feliciano Lopez/Marc Lopez" ,2 ,0 ,7 ,6 , , , ,6 ,0 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-24 00:00:00 ,"Wesley Koolhof/Stefanos Tsitsipas" ,"Jamie Murray/Bruno Soares" ,2 ,1 ,6 ,4 ,1 , , ,3 ,6 ,7 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-24 00:00:00 ,"Rohan Bopanna/Denis Shapovalov" ,"Marcel Granollers/Nikola Mektic" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-24 00:00:00 ,"Matwe Middelkoop/Diego Sebastian Schwartzman" ,"Raven Klaasen/Michael Venus" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,HARD ,atp ,ATP
+"Zhangjiagang Challenger 2019" ,2019-03-24 00:00:00 ,"Max Purcell/Luke Saville" ,"N.Sriram Balaji/Hans Hach Verdugo" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,HARD ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-25 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Nicolas Jarry/Franko Skugor" ,2 ,1 ,6 ,6 ,1 , , ,1 ,7 ,3 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-25 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Guido Pella/Joao Sousa" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-25 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Radu Albot/Nikoloz Basilashvili" ,2 ,0 ,6 ,6 , , , ,1 ,1 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-25 00:00:00 ,"Ivan Dodig/Edouard Roger Vasselin" ,"Matwe Middelkoop/Diego Sebastian Schwartzman" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,HARD ,atp ,ATP
+"Marbella Challenger 2019" ,2019-03-26 00:00:00 ,"Facundo Bagnis/Guillermo Duran" ,"Hunter Reese/Fernando Romboli" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-26 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Marko Djokovic/Carlos Gomez Herrera" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-26 00:00:00 ,"Fabricio Neis/David Vega Hernandez" ,"Rudolf Molleker/Jurij Rodionov" ,2 ,1 ,6 ,6 ,1 , , ,4 ,7 ,8 , , ,CLAY ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-26 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Quentin Halys/Gregoire Jacq" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-26 00:00:00 ,"Dan Added/Albano Olivetti" ,"Robert Galloway/Nathaniel Lammons" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,8 , , ,I. HARD ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-27 00:00:00 ,"David Perez Sanz/Oriol Roca Batalla" ,"Ariel Behar/Thiago Moura Monteiro" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-27 00:00:00 ,"Sander Gille/Joran Vliegen" ,"Adrian Menendez Maceiras/Tommy Robredo" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,6 , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-27 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Riccardo Bonadio/Peter Heller" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-27 00:00:00 ,"Jonny O'Mara/Ken Skupski" ,"Luca Margaroli/Pedro Sousa" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-27 00:00:00 ,"Kimmer Coppejans/Gian Marco Moroni" ,"Gerard Granollers/Pedro Martinez Portero" ,2 ,1 ,4 ,7 ,1 , , ,6 ,5 ,5 , , ,CLAY ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-27 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Rohan Bopanna/Denis Shapovalov" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-27 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Oliver Marach/Mate Pavic" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-27 00:00:00 ,"Ivan Dodig/Edouard Roger Vasselin" ,"Maximo Gonzalez/Horacio Zeballos" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-27 00:00:00 ,"Wesley Koolhof/Stefanos Tsitsipas" ,"John Isner/Sam Querrey" ,2 ,1 ,6 ,5 ,1 , , ,4 ,7 ,8 , , ,HARD ,atp ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-27 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Matteo Martineau/Corentin Moutet" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-27 00:00:00 ,"Jonathan Eysseric/Antonio Sancic" ,"Sergiy Stakhovsky/Szymon Walkow" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-27 00:00:00 ,"Rameez Junaid/David Pel" ,"Evan Furness/Manuel Guinard" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-27 00:00:00 ,"Andres Artunedo Martinavarr/Sergio Martos Gornes" ,"Luis David Martinez/Goncalo Oliveira" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-27 00:00:00 ,"Jonathan Erlich/Fabrice Martin" ,"Andrei Vasilevski/Andrea Vavassori" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-27 00:00:00 ,"James Cerretani/Marc Andrea Huesler" ,"Philipp Oswald/Leander Paes" ,2 ,1 ,4 ,6 ,1 , , ,6 ,2 ,8 , , ,I. HARD ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-28 00:00:00 ,"David Perez Sanz/Oriol Roca Batalla" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,1 ,4 ,6 ,1 , , ,6 ,2 ,3 , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-28 00:00:00 ,"Sander Gille/Joran Vliegen" ,"Kimmer Coppejans/Gian Marco Moroni" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-28 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Facundo Bagnis/Guillermo Duran" ,2 ,1 ,6 ,5 ,1 , , ,3 ,7 ,8 , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-28 00:00:00 ,"Fabricio Neis/David Vega Hernandez" ,"Jonny O'Mara/Ken Skupski" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,CLAY ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-28 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Dan Added/Albano Olivetti" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-28 00:00:00 ,"Jonathan Eysseric/Antonio Sancic" ,"Romain Arneodo/Hugo Nys" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-28 00:00:00 ,"Andres Artunedo Martinavarr/Sergio Martos Gornes" ,"James Cerretani/Marc Andrea Huesler" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-28 00:00:00 ,"Jonathan Erlich/Fabrice Martin" ,"Rameez Junaid/David Pel" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,6 , , ,I. HARD ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-29 00:00:00 ,"Sander Gille/Joran Vliegen" ,"Fabricio Neis/David Vega Hernandez" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-29 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"David Perez Sanz/Oriol Roca Batalla" ,2 ,0 ,7 ,6 , , , ,5 ,1 , , , ,CLAY ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-29 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Lukasz Kubot/Marcelo Melo" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,1 , , ,HARD ,atp ,ATP
+"Miami Open - Miami 2019" ,2019-03-29 00:00:00 ,"Wesley Koolhof/Stefanos Tsitsipas" ,"Ivan Dodig/Edouard Roger Vasselin" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,8 , , ,HARD ,atp ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-29 00:00:00 ,"Jonathan Eysseric/Antonio Sancic" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,I. HARD ,challeger ,ATP
+"Marbella Challenger 2019" ,2019-03-30 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Sander Gille/Joran Vliegen" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,6 , , ,CLAY ,challeger ,ATP
+"Miami Open - Miami 2019" ,2019-03-30 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Wesley Koolhof/Stefanos Tsitsipas" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,HARD ,atp ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-30 00:00:00 ,"Jonathan Erlich/Fabrice Martin" ,"Andres Artunedo Martinavarr/Sergio Martos Gornes" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,I. HARD ,challeger ,ATP
+"St. Brieuc Challenger 2019" ,2019-03-31 00:00:00 ,"Jonathan Erlich/Fabrice Martin" ,"Jonathan Eysseric/Antonio Sancic" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,I. HARD ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-02 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Javier Barranco Cosano/Raul Brancaccio" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,CLAY ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-02 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Paolo Lorenzi/Roberto Quiroz" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-02 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Andre Goransson/Adil Shamasdin" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,HARD ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-02 00:00:00 ,"Leander Paes/Benoit Paire" ,"Andrei Vasilevski/Andrea Vavassori" ,2 ,0 ,7 ,6 , , , ,5 ,0 , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-02 00:00:00 ,"Ariel Behar/Matteo Donati" ,"Nikola Cacic/Filip Krajinovic" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-03 00:00:00 ,"Thomaz Bellucci/Guillermo Duran" ,"Nikola Milojevic/Goncalo Oliveira" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-03 00:00:00 ,"Gerard Granollers/Pedro Martinez Portero" ,"David Perez Sanz/Scott Puodziunas" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-03 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Fabricio Neis/David Vega Hernandez" ,2 ,1 ,6 ,5 ,1 , , ,4 ,7 ,8 , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-03 00:00:00 ,"Pedro Sousa/Mark Vervoort" ,"Marcelo Demoliner/Divij Sharan" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,1 , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-03 00:00:00 ,"Enrique Lopez Perez/David Marrero" ,"Diego Barreto Sanchez/Jordan Correia Passos Do Carmo" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-03 00:00:00 ,"Alvaro Lopez San Martin/Carlos Taberner" ,"Sander Gille/Joran Vliegen" ,2 ,1 ,6 ,5 ,1 , , ,4 ,7 ,8 , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-03 00:00:00 ,"Tommy Robredo/Mario Vilella Martinez" ,"Hunter Reese/Fernando Romboli" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-03 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Victor Estrella/Lucas Gomez" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-03 00:00:00 ,"Evan King/Nathan Pasha" ,"Treat Conrad Huey/Fabrice Martin" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-03 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Ernesto Escobedo/John Paul Fruttero" ,2 ,1 ,7 ,3 ,1 , , ,6 ,6 ,1 , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-03 00:00:00 ,"Emilio Gomez/Luis Patino" ,"Andre Begemann/Roberto Maytin" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-03 00:00:00 ,"Tennys Sandgren/Jack Withrow" ,"Marcel Granollers/James Ward" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-03 00:00:00 ,"Nicolas Mejia/Emilio Nava" ,"Nicholas Monroe/Miguel Angel Reyes Varela" ,2 ,1 ,7 ,5 ,1 , , ,5 ,7 ,8 , , ,HARD ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-03 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Luca Margaroli/Luis David Martinez" ,2 ,1 ,6 ,6 ,1 , , ,4 ,7 ,6 , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-04 00:00:00 ,"Thomaz Bellucci/Guillermo Duran" ,"Alvaro Lopez San Martin/Carlos Taberner" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-04 00:00:00 ,"Gerard Granollers/Pedro Martinez Portero" ,"Pedro Sousa/Mark Vervoort" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,5 , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-04 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Tommy Robredo/Mario Vilella Martinez" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-04 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Enrique Lopez Perez/David Marrero" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,8 , , ,CLAY ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-04 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Emilio Gomez/Luis Patino" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-04 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Tennys Sandgren/Jack Withrow" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-04 00:00:00 ,"Thiemo de Bakker/Robin Haase" ,"Peter Heller/Karim Mohamed Maamoun" ,2 ,0 ,6 ,7 , , , ,2 ,5 , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-04 00:00:00 ,"Sergio Martos Gornes/Oriol Roca Batalla" ,"Dustin Brown/Rameez Junaid" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-04 00:00:00 ,"Jonathan Eysseric/Antonio Sancic" ,"Marcus Daniell/Matwe Middelkoop" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-04 00:00:00 ,"Rudolf Molleker/Alexei Popyrin" ,"Elliot Benchetrit/Chun Hsin Tseng" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-04 00:00:00 ,"Enzo Couacaud/Tristan Lamasine" ,"Denys Molchanov/Igor Zelenay" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-05 00:00:00 ,"Thomaz Bellucci/Guillermo Duran" ,"Kevin Krawietz/Andreas Mies" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-05 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Hans Hach Verdugo/Ante Pavic" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,5 , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-05 00:00:00 ,"Evan King/Nathan Pasha" ,"Nicolas Mejia/Emilio Nava" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,7 , , ,HARD ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-05 00:00:00 ,"Thiemo de Bakker/Robin Haase" ,"Jonathan Eysseric/Antonio Sancic" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-05 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Ariel Behar/Matteo Donati" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-05 00:00:00 ,"Leander Paes/Benoit Paire" ,"Rudolf Molleker/Alexei Popyrin" ,1 ,0 ,4 , , , , ,0 , , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-05 00:00:00 ,"Enzo Couacaud/Tristan Lamasine" ,"Sergio Martos Gornes/Oriol Roca Batalla" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-06 00:00:00 ,"Thomaz Bellucci/Guillermo Duran" ,"Gerard Granollers/Pedro Martinez Portero" ,2 ,1 ,2 ,7 ,1 , , ,6 ,5 ,5 , , ,CLAY ,challeger ,ATP
+"Alicante Challenger 2019" ,2019-04-06 00:00:00 ,"Gerard Granollers/Pedro Martinez Portero" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,CLAY ,challeger ,ATP
+"Davis Cup, Group II, 1R, ESA-PER 2-3 2019" ,2019-04-06 00:00:00 ,"Sergio Galdos/Juan Pablo Varillas" ,"Marcelo Arevalo/Rafael Arevalo" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,HARD ,DAVIS ,ITF
+"Davis Cup, Group II, 1R, MAR-LTU 2-3 2019" ,2019-04-06 00:00:00 ,"Anas Fattar/Lamine Ouahab" ,"Laurynas Grigelis/Julius Tverijonas" ,2 ,1 ,2 ,6 ,6 , , ,6 ,3 ,2 , , ,CLAY ,DAVIS ,ITF
+"Davis Cup, Group II, 1R, ROU-ZIM 4-1 2019" ,2019-04-06 00:00:00 ,"Florin Mergea/Horia Tecau" ,"Benjamin Lock/Courtney John Lock" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,I. HARD ,DAVIS ,ITF
+"Davis Cup, Group II, 1R, THA-PHI 3-1 2019" ,2019-04-06 00:00:00 ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,"Francis Casey Alcantara/Jurence Zosimo Mendoza" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,HARD ,DAVIS ,ITF
+"Monterrey Challenger 2019" ,2019-04-06 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Matt Reid/John Patrick Smith" ,2 ,1 ,6 ,4 ,1 , , ,3 ,6 ,5 , , ,HARD ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-06 00:00:00 ,"Evan King/Nathan Pasha" ,"Robert Galloway/Nathaniel Lammons" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-06 00:00:00 ,"Thiemo de Bakker/Robin Haase" ,"Romain Arneodo/Hugo Nys" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-06 00:00:00 ,"Enzo Couacaud/Tristan Lamasine" ,"Leander Paes/Benoit Paire" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,5 , , ,CLAY ,challeger ,ATP
+"Monterrey Challenger 2019" ,2019-04-07 00:00:00 ,"Evan King/Nathan Pasha" ,"Santiago Gonzalez/Aisam Qureshi" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,HARD ,challeger ,ATP
+"Sophia Antipolis Challenger 2019" ,2019-04-07 00:00:00 ,"Thiemo de Bakker/Robin Haase" ,"Enzo Couacaud/Tristan Lamasine" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-08 00:00:00 ,"Oliver Marach/Philipp Oswald" ,"Laslo Djere/Nenad Zimonjic" ,2 ,1 ,7 ,3 ,1 , , ,5 ,6 ,2 , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-08 00:00:00 ,"Simone Bolelli/Malek Jaziri" ,"Tim Puetz/Michael Venus" ,1 ,0 ,3 ,4 , , , ,6 ,1 , , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-08 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Lleyton Hewitt/Jordan Thompson" ,2 ,1 ,6 ,4 ,1 , , ,2 ,6 ,8 , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-09 00:00:00 ,"Sander Gille/Joran Vliegen" ,"Anas Fattar/Lamine Ouahab" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,3 , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-09 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Taro Daniel/Juan Ignacio Londero" ,2 ,0 ,6 ,7 , , , ,1 ,6 , , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-09 00:00:00 ,"Leander Paes/Benoit Paire" ,"Marcelo Demoliner/Divij Sharan" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-09 00:00:00 ,"Matwe Middelkoop/Frederik Nielsen" ,"Jamie Murray/John Peers" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,6 , , ,CLAY ,atp ,ATP
+"Murcia Challenger 2019" ,2019-04-09 00:00:00 ,"Raul Brancaccio/Sergio Martos Gornes" ,"Benjamin Bonzi/Mark Vervoort" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-09 00:00:00 ,"Marcus Daniell/David Marrero" ,"Facundo Arguello/Pedro Cachin" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,8 , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-09 00:00:00 ,"Kimmer Coppejans/Lukas Rosol" ,"Carlos Boluda Purkiss/Sergio Gutierrez Ferrol" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-09 00:00:00 ,"Rameez Junaid/Andrei Vasilevski" ,"Gerard Granollers/Pedro Martinez Portero" ,2 ,1 ,5 ,6 ,1 , , ,7 ,2 ,4 , , ,CLAY ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-09 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Dennis Novak/Sergiy Stakhovsky" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,4 , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-09 00:00:00 ,"Maxime Janvier/Stephane Robert" ,"David Pel/Hans Podlipnik Castillo" ,2 ,1 ,6 ,6 ,1 , , ,1 ,7 ,6 , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-09 00:00:00 ,"Jason Jung/Jimmy Wang" ,"Yu Hsiou Hsu/Tung Lin Wu" ,2 ,1 ,5 ,7 ,1 , , ,7 ,6 ,8 , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-09 00:00:00 ,"Goncalo Oliveira/Yasutaka Uchiyama" ,"Ti Chen/Ray Ho" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,3 , , ,I. HARD ,challeger ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-09 00:00:00 ,"Taylor Harry Fritz/Reilly Opelka" ,"Luke Bambridge/Jonny O'Mara" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-09 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Pablo Cuevas/Hugo Dellien" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-09 00:00:00 ,"Ryan Harrison/Mackenzie McDonald" ,"Marcelo Arevalo/James Cerretani" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,2 , , ,CLAY ,atp ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Filippo Baldi/Andrea Pellegrino" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Karol Drzewiecki/Szymon Walkow" ,"Lorenzo Giustino/Nino Serdarusic" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,5 , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Oscar Otte/Andreas Siljestrom" ,"Andrea Collarini/Federico Coria" ,2 ,0 ,6 ,6 , , , ,2 ,0 , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Peter Heller/Scott Puodziunas" ,"Andrea Arnaboldi/Viktor Galovic" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Giorgio Portaluri/Giuseppe Tresca" ,"Lorenzo Musetti/Giulio Zeppieri" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,5 , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Tomislav Brkic/Tomislav Draganja" ,"Julian Ocleppo/Stefano Travaglia" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Karim Mohamed Maamoun/Skander Mansouri" ,"Nikola Milojevic/Mohamed Safwat" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-10 00:00:00 ,"Nikola Cacic/Jurij Rodionov" ,"Scott Clayton/Fernando Romboli" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-10 00:00:00 ,"Leander Paes/Benoit Paire" ,"Oliver Marach/Philipp Oswald" ,2 ,1 ,7 ,3 ,1 , , ,5 ,6 ,1 , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-10 00:00:00 ,"Simone Bolelli/Malek Jaziri" ,"Sander Gille/Joran Vliegen" ,1 ,0 ,6 ,2 , , , ,2 ,1 , , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-10 00:00:00 ,"Jurgen Melzer/Franko Skugor" ,"Amine Ahouda/Adam Moundir" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-10 00:00:00 ,"Rohan Bopanna/Dominic Inglot" ,"Roman Jebavy/Andres Molteni" ,2 ,1 ,0 ,6 ,1 , , ,6 ,3 ,8 , , ,CLAY ,atp ,ATP
+"Murcia Challenger 2019" ,2019-04-10 00:00:00 ,"Thomaz Bellucci/Guillermo Duran" ,"David Perez Sanz/Oriol Roca Batalla" ,2 ,1 ,6 ,4 ,1 , , ,4 ,6 ,6 , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-10 00:00:00 ,"Fabricio Neis/David Vega Hernandez" ,"Ruben Bemelmans/Arthur De Greef" ,2 ,1 ,6 ,5 ,1 , , ,2 ,7 ,7 , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-10 00:00:00 ,"Ariel Behar/Andrea Vavassori" ,"Nicolas Almagro/Juan Antonio Marin" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-10 00:00:00 ,"Ivan Gakhov/Enrique Lopez Perez" ,"Harri Heliovaara/Luis David Martinez" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-10 00:00:00 ,"Toshihide Matsui/Hiroki Moriya" ,"Max Purcell/Luke Saville" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,7 , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-10 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Ruben Gonzales/Sonchat Ratiwatana" ,2 ,1 ,6 ,6 ,1 , , ,7 ,1 ,9 , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-10 00:00:00 ,"Saketh Sai Myneni/Ramkumar Ramanathan" ,"Soon Woo Kwon/Tsung Hua Yang" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-10 00:00:00 ,"N.Sriram Balaji/Jonathan Erlich" ,"Luca Margaroli/Vishnu Vardhan" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,9 , , ,I. HARD ,challeger ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-10 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Robert Galloway/Nathaniel Lammons" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,4 , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-10 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Marcel Granollers/Matt Reid" ,2 ,0 ,6 ,7 , , , ,1 ,5 , , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-10 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Bradley Klahn/Sam Querrey" ,2 ,1 ,6 ,2 ,1 , , ,3 ,6 ,9 , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-10 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Nicholas Monroe/Miguel Angel Reyes Varela" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,8 , , ,CLAY ,atp ,ATP
+"Barletta Challenger 2019" ,2019-04-11 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Peter Heller/Scott Puodziunas" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-11 00:00:00 ,"Oscar Otte/Andreas Siljestrom" ,"Giorgio Portaluri/Giuseppe Tresca" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,3 , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-11 00:00:00 ,"Tomislav Brkic/Tomislav Draganja" ,"Karol Drzewiecki/Szymon Walkow" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-11 00:00:00 ,"Nikola Cacic/Jurij Rodionov" ,"Karim Mohamed Maamoun/Skander Mansouri" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-11 00:00:00 ,"Matwe Middelkoop/Frederik Nielsen" ,"Kevin Krawietz/Andreas Mies" ,2 ,1 ,1 ,6 ,1 , , ,6 ,4 ,8 , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-11 00:00:00 ,"Jurgen Melzer/Franko Skugor" ,"Rohan Bopanna/Dominic Inglot" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,7 , , ,CLAY ,atp ,ATP
+"Murcia Challenger 2019" ,2019-04-11 00:00:00 ,"Fabricio Neis/David Vega Hernandez" ,"Ivan Gakhov/Enrique Lopez Perez" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-11 00:00:00 ,"Marcus Daniell/David Marrero" ,"Thomaz Bellucci/Guillermo Duran" ,2 ,1 ,6 ,6 ,1 , , ,7 ,2 ,7 , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-11 00:00:00 ,"Ariel Behar/Andrea Vavassori" ,"Kimmer Coppejans/Lukas Rosol" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-11 00:00:00 ,"Rameez Junaid/Andrei Vasilevski" ,"Raul Brancaccio/Sergio Martos Gornes" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-11 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Maxime Janvier/Stephane Robert" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,8 , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-11 00:00:00 ,"Goncalo Oliveira/Yasutaka Uchiyama" ,"Toshihide Matsui/Hiroki Moriya" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-11 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-11 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Taylor Harry Fritz/Reilly Opelka" ,1 ,0 ,w , , , , , , , , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-11 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Jeremy Chardy/Fabrice Martin" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,1 , , ,CLAY ,atp ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-11 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Ryan Harrison/Mackenzie McDonald" ,2 ,0 ,6 ,7 , , , ,0 ,5 , , , ,CLAY ,atp ,ATP
+"Barletta Challenger 2019" ,2019-04-12 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Oscar Otte/Andreas Siljestrom" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Barletta Challenger 2019" ,2019-04-12 00:00:00 ,"Tomislav Brkic/Tomislav Draganja" ,"Nikola Cacic/Jurij Rodionov" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-12 00:00:00 ,"Matwe Middelkoop/Frederik Nielsen" ,"Simone Bolelli/Malek Jaziri" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,atp ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-12 00:00:00 ,"Jurgen Melzer/Franko Skugor" ,"Leander Paes/Benoit Paire" ,2 ,1 ,1 ,6 ,1 , , ,6 ,3 ,5 , , ,CLAY ,atp ,ATP
+"Murcia Challenger 2019" ,2019-04-12 00:00:00 ,"Marcus Daniell/David Marrero" ,"Ariel Behar/Andrea Vavassori" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,2 , , ,CLAY ,challeger ,ATP
+"Murcia Challenger 2019" ,2019-04-12 00:00:00 ,"Rameez Junaid/Andrei Vasilevski" ,"Fabricio Neis/David Vega Hernandez" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,4 , , ,CLAY ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-12 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Jason Jung/Jimmy Wang" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-12 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Goncalo Oliveira/Yasutaka Uchiyama" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,9 , , ,I. HARD ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-12 00:00:00 ,"N.Sriram Balaji/Jonathan Erlich" ,"Saketh Sai Myneni/Ramkumar Ramanathan" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,I. HARD ,challeger ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-12 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Austin Krajicek/Artem Sitak" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,CLAY ,atp ,ATP
+"Barletta Challenger 2019" ,2019-04-13 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Tomislav Brkic/Tomislav Draganja" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Grand Prix Hassan II - Marrakech 2019" ,2019-04-13 00:00:00 ,"Jurgen Melzer/Franko Skugor" ,"Matwe Middelkoop/Frederik Nielsen" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,atp ,ATP
+"Murcia Challenger 2019" ,2019-04-13 00:00:00 ,"Marcus Daniell/David Marrero" ,"Rameez Junaid/Andrei Vasilevski" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Taipei City Challenger 2019" ,2019-04-13 00:00:00 ,"N.Sriram Balaji/Jonathan Erlich" ,"Cheng Peng Hsieh/Christopher Rungkat" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,I. HARD ,challeger ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-13 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Bob Bryan/Mike Bryan" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-14 00:00:00 ,"Maximo Gonzalez/Horacio Zeballos" ,"Marco Cecchinato/Andreas Seppi" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-14 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Rohan Bopanna/Dominic Inglot" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,1 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-14 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Ben Mclachlan/Jan Lennard Struff" ,2 ,1 ,5 ,7 ,1 , , ,7 ,6 ,9 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-14 00:00:00 ,"Karen Khachanov/Feliciano Lopez" ,"Jean Julien Rojer/Horia Tecau" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,atp ,ATP
+"Taipei City Challenger 2019" ,2019-04-14 00:00:00 ,"N.Sriram Balaji/Jonathan Erlich" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,I. HARD ,challeger ,ATP
+"US Men's Clay Court Championship - Houston 2019" ,2019-04-14 00:00:00 ,"Santiago Gonzalez/Aisam Qureshi" ,"Ken Skupski/Neal Skupski" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,6 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-15 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Marko Djokovic/Novak Djokovic" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-15 00:00:00 ,"Alexander Zverev/Mischa Zverev" ,"Romain Arneodo/Hugo Nys" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,7 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-15 00:00:00 ,"Henri Kontinen/John Peers" ,"Grigor Dimitrov/Stan Wawrinka" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-15 00:00:00 ,"Ivan Dodig/Edouard Roger Vasselin" ,"Laslo Djere/Divij Sharan" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-15 00:00:00 ,"Robin Haase/Wesley Koolhof" ,"Pierre Hugues Herbert/Nicolas Mahut" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,CLAY ,atp ,ATP
+"Anning Challenger 2019" ,2019-04-16 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Xin Gao/Zhizhen Zhang" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-16 00:00:00 ,"Max Purcell/Luke Saville" ,"Zhe Li/Goncalo Oliveira" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-16 00:00:00 ,"David Pel/Hans Podlipnik Castillo" ,"Jason Jung/Sanchai Ratiwatana" ,2 ,1 ,5 ,6 ,1 , , ,7 ,1 ,4 , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-16 00:00:00 ,"Yan Bai/Fajing Sun" ,"Sonchat Ratiwatana/Christopher Rungkat" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,challeger ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-16 00:00:00 ,"Nikola Mektic/Franko Skugor" ,"Matwe Middelkoop/Stefanos Tsitsipas" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-16 00:00:00 ,"Jurgen Melzer/Dominic Thiem" ,"Philipp Kohlschreiber/Fernando Verdasco" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-16 00:00:00 ,"Radu Albot/Nikoloz Basilashvili" ,"Raven Klaasen/Joe Salisbury" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,7 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-16 00:00:00 ,"Marcelo Demoliner/Daniil Medvedev" ,"David Goffin/Lucas Pouille" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-16 00:00:00 ,"Marton Fucsovics/Guido Pella" ,"Matteo Berrettini/Fabio Fognini" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-16 00:00:00 ,"Diego Sebastian Schwartzman/Joao Sousa" ,"Kyle Edmund/Neal Skupski" ,2 ,1 ,5 ,6 ,1 , , ,7 ,4 ,5 , , ,CLAY ,atp ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-16 00:00:00 ,"Gonzalo Escobar/Luis David Martinez" ,"John Paul Fruttero/Marc Andrea Huesler" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-16 00:00:00 ,"Ariel Behar/Roberto Quiroz" ,"Dustin Brown/Adil Shamasdin" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-16 00:00:00 ,"Treat Conrad Huey/Fabrice Martin" ,"Andre Goransson/Hunter Reese" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,5 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-16 00:00:00 ,"Mitchell Krueger/Matt Reid" ,"Russell Berdusco/Micah Braswell" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-16 00:00:00 ,"Daniel Gimeno Traver/Pedro Martinez Portero" ,"Joao Domingues/Pedro Sousa" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-16 00:00:00 ,"Benjamin Bonzi/Quentin Halys" ,"Skander Ben Abdallah/Adam Nagoudi" ,2 ,0 ,6 ,6 , , , ,1 ,1 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-16 00:00:00 ,"Facundo Arguello/Guillermo Duran" ,"Sander Gille/Leander Paes" ,2 ,1 ,1 ,6 ,1 , , ,6 ,4 ,1 , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-17 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Ramkumar Ramanathan/Vishnu Vardhan" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-17 00:00:00 ,"Prajnesh Gunneswaran/Saketh Sai Myneni" ,"Enrique Lopez Perez/Luca Margaroli" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-17 00:00:00 ,"Kamil Majchrzak/Toshihide Matsui" ,"Cheng Peng Hsieh/Tsung Hua Yang" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-17 00:00:00 ,"N.Sriram Balaji/James Cerretani" ,"Yecong He/Di Wu" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-17 00:00:00 ,"Maximo Gonzalez/Horacio Zeballos" ,"Oliver Marach/Mate Pavic" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,6 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-17 00:00:00 ,"Nikola Mektic/Franko Skugor" ,"Karen Khachanov/Feliciano Lopez" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,4 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-17 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Marcel Granollers/Marc Lopez" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-17 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Ivan Dodig/Edouard Roger Vasselin" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,8 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-17 00:00:00 ,"Robin Haase/Wesley Koolhof" ,"Alexander Zverev/Mischa Zverev" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,8 , , ,CLAY ,atp ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-17 00:00:00 ,"Marcelo Arevalo/Miguel Angel Reyes Varela" ,"Baptiste Crepatte/Manuel Guinard" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-17 00:00:00 ,"Evan King/Nathan Pasha" ,"Lucas Miedler/Sebastian Ofner" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-17 00:00:00 ,"Renzo Olivo/Luis Patino" ,"Hans Hach Verdugo/Ante Pavic" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-17 00:00:00 ,"Nicolas Mejia/Emilio Nava" ,"Matias Franco Descotte/Joao Souza" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,5 , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-17 00:00:00 ,"Adrian Menendez Maceiras/Roberto Ortega Olmedo" ,"Sergio Galdos/Federico Zeballos" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-17 00:00:00 ,"John Patrick Smith/Sem Verbeek" ,"Ernesto Escobedo/Manuel Sanchez" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-17 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"Arthur Rinderknech/Denis Yevseyev" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,7 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-17 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Tennys Sandgren/James Ward" ,2 ,1 ,6 ,3 ,1 , , ,2 ,6 ,6 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-17 00:00:00 ,"Alex Lawson/Peter Polansky" ,"Sandro Ehrat/Alexander Zhurbin" ,2 ,0 ,7 ,6 , , , ,6 ,2 , , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-17 00:00:00 ,"Boris Arias/Sekou Bangoura" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,1 ,5 ,7 ,1 , , ,7 ,5 ,5 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-17 00:00:00 ,"Nathaniel Lammons/Aisam Qureshi" ,"Jc Aragone/Marcos Giron" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-17 00:00:00 ,"Martin Cuevas/Paolo Lorenzi" ,"Harri Heliovaara/Henri Laaksonen" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-17 00:00:00 ,"Jonathan Eysseric/Antonio Sancic" ,"Franco Agamenone/Facundo Bagnis" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-17 00:00:00 ,"Andrea Vavassori/David Vega Hernandez" ,"Sergio Martos Gornes/David Perez Sanz" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-17 00:00:00 ,"Tomislav Brkic/Tomislav Draganja" ,"Andreas Siljestrom/Szymon Walkow" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,7 , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-17 00:00:00 ,"Skander Mansouri/Nenad Zimonjic" ,"Anis Ghorbel/Vasko Mladenov" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-17 00:00:00 ,"Ruben Bemelmans/Tim Puetz" ,"Zdenek Kolar/Mark Vervoort" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-18 00:00:00 ,"Max Purcell/Luke Saville" ,"Prajnesh Gunneswaran/Saketh Sai Myneni" ,2 ,0 ,6 ,6 , , , ,1 ,1 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-18 00:00:00 ,"David Pel/Hans Podlipnik Castillo" ,"Mao Xin Gong/Ze Zhang" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-18 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Jurgen Melzer/Dominic Thiem" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-18 00:00:00 ,"Radu Albot/Nikoloz Basilashvili" ,"Marton Fucsovics/Guido Pella" ,2 ,1 ,6 ,6 ,1 , , ,1 ,7 ,6 , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-18 00:00:00 ,"Marcelo Demoliner/Daniil Medvedev" ,"Juan Sebastian Cabal/Robert Farah" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-18 00:00:00 ,"Diego Sebastian Schwartzman/Joao Sousa" ,"Henri Kontinen/John Peers" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,atp ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-18 00:00:00 ,"Marcelo Arevalo/Miguel Angel Reyes Varela" ,"Adrian Menendez Maceiras/Roberto Ortega Olmedo" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-18 00:00:00 ,"Renzo Olivo/Luis Patino" ,"Nicolas Mejia/Emilio Nava" ,2 ,1 ,3 ,7 ,1 , , ,6 ,5 ,6 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-18 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Alex Lawson/Peter Polansky" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-18 00:00:00 ,"Boris Arias/Sekou Bangoura" ,"Mitchell Krueger/Matt Reid" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-18 00:00:00 ,"Nathaniel Lammons/Aisam Qureshi" ,"Treat Conrad Huey/Fabrice Martin" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,8 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-18 00:00:00 ,"Martin Cuevas/Paolo Lorenzi" ,"Roberto Maytin/Fernando Romboli" ,2 ,1 ,6 ,7 ,1 , , ,7 ,5 ,7 , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-18 00:00:00 ,"Facundo Arguello/Guillermo Duran" ,"Benjamin Bonzi/Quentin Halys" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-18 00:00:00 ,"Andrea Vavassori/David Vega Hernandez" ,"Skander Mansouri/Nenad Zimonjic" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-18 00:00:00 ,"Tomislav Brkic/Tomislav Draganja" ,"Daniel Gimeno Traver/Pedro Martinez Portero" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-18 00:00:00 ,"Ruben Bemelmans/Tim Puetz" ,"Jonathan Eysseric/Antonio Sancic" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-19 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Kamil Majchrzak/Toshihide Matsui" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-19 00:00:00 ,"Yan Bai/Fajing Sun" ,"N.Sriram Balaji/James Cerretani" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,9 , , ,CLAY ,challeger ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-19 00:00:00 ,"Maximo Gonzalez/Horacio Zeballos" ,"Marcelo Demoliner/Daniil Medvedev" ,1 ,0 ,w , , , , , , , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-19 00:00:00 ,"Nikola Mektic/Franko Skugor" ,"Lukasz Kubot/Marcelo Melo" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-19 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Diego Sebastian Schwartzman/Joao Sousa" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-19 00:00:00 ,"Robin Haase/Wesley Koolhof" ,"Radu Albot/Nikoloz Basilashvili" ,2 ,0 ,6 ,7 , , , ,1 ,5 , , , ,CLAY ,atp ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-19 00:00:00 ,"Gonzalo Escobar/Luis David Martinez" ,"Evan King/Nathan Pasha" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-19 00:00:00 ,"Ariel Behar/Roberto Quiroz" ,"John Patrick Smith/Sem Verbeek" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-19 00:00:00 ,"Facundo Arguello/Guillermo Duran" ,"Tomislav Brkic/Tomislav Draganja" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-19 00:00:00 ,"Ruben Bemelmans/Tim Puetz" ,"Andrea Vavassori/David Vega Hernandez" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,5 , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-20 00:00:00 ,"Max Purcell/Luke Saville" ,"Yan Bai/Fajing Sun" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-20 00:00:00 ,"David Pel/Hans Podlipnik Castillo" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,CLAY ,challeger ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-20 00:00:00 ,"Nikola Mektic/Franko Skugor" ,"Maximo Gonzalez/Horacio Zeballos" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,atp ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-20 00:00:00 ,"Robin Haase/Wesley Koolhof" ,"Jamie Murray/Bruno Soares" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,atp ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-20 00:00:00 ,"Marcelo Arevalo/Miguel Angel Reyes Varela" ,"Gonzalo Escobar/Luis David Martinez" ,2 ,1 ,5 ,6 ,1 , , ,7 ,3 ,7 , , ,CLAY ,challeger ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-20 00:00:00 ,"Ariel Behar/Roberto Quiroz" ,"Renzo Olivo/Luis Patino" ,2 ,1 ,6 ,4 ,1 , , ,4 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-20 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Nathaniel Lammons/Aisam Qureshi" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-20 00:00:00 ,"Martin Cuevas/Paolo Lorenzi" ,"Boris Arias/Sekou Bangoura" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Tunis Challenger 2019" ,2019-04-20 00:00:00 ,"Ruben Bemelmans/Tim Puetz" ,"Facundo Arguello/Guillermo Duran" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , , ,CLAY ,challeger ,ATP
+"Anning Challenger 2019" ,2019-04-21 00:00:00 ,"Max Purcell/Luke Saville" ,"David Pel/Hans Podlipnik Castillo" ,2 ,1 ,4 ,7 ,1 , , ,6 ,5 ,5 , , ,CLAY ,challeger ,ATP
+"Monte-Carlo Rolex Masters - Monte-Carlo 2019" ,2019-04-21 00:00:00 ,"Nikola Mektic/Franko Skugor" ,"Robin Haase/Wesley Koolhof" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,9 , , ,CLAY ,atp ,ATP
+"San Luis Potosi Challenger 2019" ,2019-04-21 00:00:00 ,"Marcelo Arevalo/Miguel Angel Reyes Varela" ,"Ariel Behar/Roberto Quiroz" ,2 ,1 ,1 ,6 ,1 , , ,6 ,4 ,1 , , ,CLAY ,challeger ,ATP
+"Sarasota Challenger 2019" ,2019-04-21 00:00:00 ,"Martin Cuevas/Paolo Lorenzi" ,"Luke Bambridge/Jonny O'Mara" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,CLAY ,challeger ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-22 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Mate Valkusz/Nenad Zimonjic" ,2 ,0 ,6 ,7 , , , ,0 ,6 , , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-23 00:00:00 ,"Jean Julien Rojer/Horia Tecau" ,"David Marrero/Fernando Verdasco" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-23 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Ivan Dodig/Edouard Roger Vasselin" ,2 ,1 ,7 ,1 ,1 , , ,5 ,6 ,5 , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-23 00:00:00 ,"Pablo Carreno Busta/Feliciano Lopez" ,"Nikola Mektic/Franko Skugor" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"Francavilla Challenger 2019" ,2019-04-23 00:00:00 ,"Andrea Del Federico/Stefano Travaglia" ,"Quentin Halys/Gleb Sakharov" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-23 00:00:00 ,"Guillermo Duran/David Vega Hernandez" ,"Viktor Galovic/Andrea Pellegrino" ,2 ,1 ,6 ,4 ,1 , , ,0 ,6 ,9 , , ,CLAY ,challeger ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-23 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Radu Albot/Nikoloz Basilashvili" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,atp ,ATP
+"Leon Challenger 2019" ,2019-04-23 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Matias Franco Descotte/Skander Mansouri" ,2 ,1 ,6 ,6 ,1 , , ,4 ,7 ,4 , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-23 00:00:00 ,"Dustin Brown/Sem Verbeek" ,"Scott Clayton/Adil Shamasdin" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-23 00:00:00 ,"Teimuraz Gabashvili/Uladzimir Ignatik" ,"Xin Gao/Zhizhen Zhang" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-23 00:00:00 ,"Alex Bolt/Akira Santillan" ,"Yan Bai/Fajing Sun" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-23 00:00:00 ,"Andrej Martin/Toshihide Matsui" ,"Jie Cui/Yecong He" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-23 00:00:00 ,"Frank Dancevic/Peter Polansky" ,"Alex Knaff/Lucas Poullain" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-23 00:00:00 ,"Harri Heliovaara/Alex Lawson" ,"Nathaniel Lammons/Jack Withrow" ,2 ,1 ,7 ,3 ,1 , , ,6 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-24 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Roberto Carballes Baena/Jaume Antoni Munar Clar" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,5 , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-24 00:00:00 ,"Lukasz Kubot/Marcelo Melo" ,"Joao Sousa/Dominic Thiem" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,7 , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-24 00:00:00 ,"Henri Kontinen/John Peers" ,"Maximo Gonzalez/Horacio Zeballos" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-24 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Kei Nishikori/Diego Sebastian Schwartzman" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,5 , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-24 00:00:00 ,"Raven Klaasen/Joe Salisbury" ,"Marcel Granollers/Marc Lopez" ,2 ,1 ,6 ,3 ,1 , , ,2 ,6 ,1 , , ,CLAY ,atp ,ATP
+"Francavilla Challenger 2019" ,2019-04-24 00:00:00 ,"Javier Barranco Cosano/Raul Brancaccio" ,"Lorenzo Musetti/Giulio Zeppieri" ,1 ,0 ,4 ,1 , , , ,6 ,0 , , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-24 00:00:00 ,"Tomislav Brkic/Nikola Cacic" ,"Alessio De Bernardis/Giuseppe Tresca" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-24 00:00:00 ,"Enzo Couacaud/Rudolf Molleker" ,"Kimmer Coppejans/Sander Gille" ,2 ,1 ,4 ,7 ,1 , , ,6 ,6 ,9 , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-24 00:00:00 ,"Philipp Oswald/Filip Polasek" ,"Riccardo Bonadio/David Perez Sanz" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-24 00:00:00 ,"Jonathan Eysseric/Andrei Vasilevski" ,"Julian Ocleppo/Andrea Vavassori" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,5 , , ,CLAY ,challeger ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-24 00:00:00 ,"Andre Begemann/Ernests Gulbis" ,"Roman Jebavy/Andres Molteni" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-24 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Santiago Gonzalez/Matwe Middelkoop" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,8 , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-24 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Hubert Hurkacz/Fabrice Martin" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-24 00:00:00 ,"Marcelo Demoliner/Divij Sharan" ,"Robert Lindstedt/Aisam Qureshi" ,2 ,1 ,6 ,4 ,1 , , ,3 ,6 ,9 , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-24 00:00:00 ,"Rohan Bopanna/Dominic Inglot" ,"Thomas Fabbiano/John Millman" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-24 00:00:00 ,"Robin Haase/Frederik Nielsen" ,"Gabor Borsos/Peter Nagy" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,8 , , ,CLAY ,atp ,ATP
+"Leon Challenger 2019" ,2019-04-24 00:00:00 ,"Marcelo Arevalo/Miguel Angel Reyes Varela" ,"Ariel Behar/Roberto Quiroz" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-24 00:00:00 ,"Evan King/Nathan Pasha" ,"Christopher Eubanks/Darian King" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-24 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Sergio Galdos/Mohamed Safwat" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,7 , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-24 00:00:00 ,"Lucas Miedler/Sebastian Ofner" ,"Iker Munoz/Jose Andres Perez Perez" ,2 ,0 ,6 ,6 , , , ,0 ,0 , , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-24 00:00:00 ,"Adrian Menendez Maceiras/Federico Zeballos" ,"Gonzalo Escobar/Luis David Martinez" ,2 ,1 ,6 ,5 ,1 , , ,3 ,7 ,5 , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-24 00:00:00 ,"Rafael De Alba/Alan Raul Sau Franco" ,"Juan Alejandro Hernandez/Alan Magadan" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,8 , , ,HARD ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-24 00:00:00 ,"Maverick Banes/Jacob Grills" ,"Enrique Lopez Perez/Luca Margaroli" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-24 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Ramkumar Ramanathan/Vishnu Vardhan" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-24 00:00:00 ,"Max Purcell/Luke Saville" ,"Nicolas Barrientos/Ruben Gonzales" ,2 ,0 ,7 ,6 , , , ,5 ,1 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-24 00:00:00 ,"David Pel/Hans Podlipnik Castillo" ,"Nikola Milojevic/Goncalo Oliveira" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-24 00:00:00 ,"N.Sriram Balaji/James Cerretani" ,"Rigele Te/Di Wu" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-24 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"Dennis Novikov/Andreas Siljestrom" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,8 , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-24 00:00:00 ,"Thai Kwiatkowski/Noah Rubin" ,"Arthur Rinderknech/Denis Yevseyev" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-24 00:00:00 ,"Andre Goransson/Hunter Reese" ,"Ryan Shane/Evan Song" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-24 00:00:00 ,"Guilherme Clezar/Marc Polmans" ,"Jeevan Nedunchezhiyan/Purav Raja" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-24 00:00:00 ,"JC Aragone/Treat Conrad Huey" ,"Sandro Ehrat/Alexander Zhurbin" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-24 00:00:00 ,"Martin Cuevas/Emilio Gomez" ,"Nicholas Monroe/Ruan Roelofse" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,CLAY ,challeger ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-25 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Jean Julien Rojer/Horia Tecau" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-25 00:00:00 ,"Pablo Carreno Busta/Feliciano Lopez" ,"Lukasz Kubot/Marcelo Melo" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,CLAY ,atp ,ATP
+"Francavilla Challenger 2019" ,2019-04-25 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Enzo Couacaud/Rudolf Molleker" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-25 00:00:00 ,"Tomislav Brkic/Nikola Cacic" ,"Jonathan Eysseric/Andrei Vasilevski" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-25 00:00:00 ,"Philipp Oswald/Filip Polasek" ,"Andrea Del Federico/Stefano Travaglia" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Francavilla Challenger 2019" ,2019-04-25 00:00:00 ,"Guillermo Duran/David Vega Hernandez" ,"Javier Barranco Cosano/Raul Brancaccio" ,1 ,0 ,6 ,4 , , , ,3 ,1 , , , ,CLAY ,challeger ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-25 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Marcelo Demoliner/Divij Sharan" ,2 ,1 ,7 ,5 ,1 , , ,6 ,7 ,7 , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-25 00:00:00 ,"Andre Begemann/Ernests Gulbis" ,"Rohan Bopanna/Dominic Inglot" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-25 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Luke Bambridge/Jonny O'Mara" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,6 , , ,CLAY ,atp ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-25 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Robin Haase/Frederik Nielsen" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,atp ,ATP
+"Leon Challenger 2019" ,2019-04-25 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Rafael De Alba/Alan Raul Sau Franco" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-25 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Adrian Menendez Maceiras/Federico Zeballos" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-25 00:00:00 ,"Lucas Miedler/Sebastian Ofner" ,"Marcelo Arevalo/Miguel Angel Reyes Varela" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-25 00:00:00 ,"Dustin Brown/Sem Verbeek" ,"Evan King/Nathan Pasha" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-25 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Maverick Banes/Jacob Grills" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-25 00:00:00 ,"Alex Bolt/Akira Santillan" ,"N.Sriram Balaji/James Cerretani" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-25 00:00:00 ,"Max Purcell/Luke Saville" ,"Andrej Martin/Toshihide Matsui" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,1 , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-25 00:00:00 ,"David Pel/Hans Podlipnik Castillo" ,"Teimuraz Gabashvili/Uladzimir Ignatik" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-25 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"JC Aragone/Treat Conrad Huey" ,2 ,1 ,3 ,7 ,1 , , ,6 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-25 00:00:00 ,"Thai Kwiatkowski/Noah Rubin" ,"Martin Cuevas/Emilio Gomez" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-25 00:00:00 ,"Guilherme Clezar/Marc Polmans" ,"Frank Dancevic/Peter Polansky" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-25 00:00:00 ,"Harri Heliovaara/Alex Lawson" ,"Andre Goransson/Hunter Reese" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-26 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Henri Kontinen/John Peers" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-26 00:00:00 ,"Raven Klaasen/Joe Salisbury" ,"Oliver Marach/Mate Pavic" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,CLAY ,atp ,ATP
+"Francavilla Challenger 2019" ,2019-04-26 00:00:00 ,"Guillermo Duran/David Vega Hernandez" ,"Tomislav Brkic/Nikola Cacic" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,challeger ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-26 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Andre Begemann/Ernests Gulbis" ,2 ,1 ,6 ,6 ,1 , , ,2 ,7 ,6 , , ,CLAY ,atp ,ATP
+"Leon Challenger 2019" ,2019-04-26 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Hans Hach Verdugo/Ante Pavic" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,HARD ,challeger ,ATP
+"Leon Challenger 2019" ,2019-04-26 00:00:00 ,"Lucas Miedler/Sebastian Ofner" ,"Dustin Brown/Sem Verbeek" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,HARD ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-26 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"David Pel/Hans Podlipnik Castillo" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-26 00:00:00 ,"Alex Bolt/Akira Santillan" ,"Max Purcell/Luke Saville" ,2 ,1 ,6 ,4 ,1 , , ,4 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-26 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"Guilherme Clezar/Marc Polmans" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-27 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Pablo Carreno Busta/Feliciano Lopez" ,2 ,1 ,4 ,6 ,1 , , ,6 ,2 ,1 , , ,CLAY ,atp ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-27 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Raven Klaasen/Joe Salisbury" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,9 , , ,CLAY ,atp ,ATP
+"Francavilla Challenger 2019" ,2019-04-27 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Philipp Oswald/Filip Polasek" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , , ,CLAY ,challeger ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-27 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Kevin Krawietz/Andreas Mies" ,2 ,1 ,3 ,6 ,1 , , ,6 ,2 ,8 , , ,CLAY ,atp ,ATP
+"Leon Challenger 2019" ,2019-04-27 00:00:00 ,"Lucas Miedler/Sebastian Ofner" ,"Matt Reid/John Patrick Smith" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,6 , , ,HARD ,challeger ,ATP
+"Nanchang Challenger 2019" ,2019-04-27 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Alex Bolt/Akira Santillan" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,CLAY ,challeger ,ATP
+"Tallahassee Challenger 2019" ,2019-04-27 00:00:00 ,"Thai Kwiatkowski/Noah Rubin" ,"Harri Heliovaara/Alex Lawson" ,2 ,1 ,6 ,4 ,1 , , ,3 ,6 ,1 , , ,CLAY ,challeger ,ATP
+"Barcelona Open Banc Sabadell - Barcelona 2019" ,2019-04-28 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Jamie Murray/Bruno Soares" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,atp ,ATP
+"Francavilla Challenger 2019" ,2019-04-28 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Guillermo Duran/David Vega Hernandez" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Gazprom Hungarian Open - Budapest 2019" ,2019-04-28 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Marcus Daniell/Wesley Koolhof" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"Tallahassee Challenger 2019" ,2019-04-28 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"Thai Kwiatkowski/Noah Rubin" ,2 ,1 ,6 ,4 ,1 , , ,2 ,6 ,7 , , ,CLAY ,challeger ,ATP
+"BMW Open - Munich 2019" ,2019-04-29 00:00:00 ,"Christian Garin/Juan Ignacio Londero" ,"Roman Jebavy/Andres Molteni" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-04-29 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Yannick Maden/Maximilian Marterer" ,2 ,1 ,6 ,6 ,1 , , ,7 ,1 ,6 , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-04-29 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Dusan Lajovic/Nenad Zimonjic" ,2 ,1 ,5 ,6 ,1 , , ,7 ,0 ,3 , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-04-29 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Simone Bolelli/Robert Lindstedt" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,7 , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-04-29 00:00:00 ,"Leonardo Mayer/Joao Sousa" ,"Santiago Gonzalez/Aisam Qureshi" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-04-30 00:00:00 ,"Marcelo Demoliner/Divij Sharan" ,"Rohan Bopanna/Dominic Inglot" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,1 , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-04-30 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Marco Cecchinato/Andreas Seppi" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,atp ,ATP
+"Bordeaux Challenger 2019" ,2019-04-30 00:00:00 ,"Gregoire Barrere/Quentin Halys" ,"Kimmer Coppejans/Zdenek Kolar" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-04-30 00:00:00 ,"Elliot Benchetrit/Tristan Lamasine" ,"Daniel Gimeno Traver/David Marrero" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,CLAY ,challeger ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-04-30 00:00:00 ,"Guido Andreozzi/Hugo Dellien" ,"Ben McLachlan/Matwe Middelkoop" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-04-30 00:00:00 ,"Juan Alejandro Hernandez/Danilo Petrovic" ,"Matias Franco Descotte/Skander Mansouri" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,HARD ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-04-30 00:00:00 ,"Matt Reid/John Patrick Smith" ,"Marc Andrea Huesler/Sem Verbeek" ,2 ,1 ,6 ,6 ,1 , , ,1 ,7 ,9 , , ,HARD ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-04-30 00:00:00 ,"Alex Lawson/Ruan Roelofse" ,"Martin Cuevas/Juan Pablo Varillas" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-04-30 00:00:00 ,"Collin Altamirano/Thai Kwiatkowski" ,"Camilo Ugo Carabelli/Denis Yevseyev" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,CLAY ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-04-30 00:00:00 ,"Francis Casey Alcantara/Shintaro Imai" ,"David Pel/Hans Podlipnik Castillo" ,1 ,0 ,1 ,4 , , , ,6 ,1 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-04-30 00:00:00 ,"Yunseong Chung/Duckhee Lee" ,"Yu Seob Kim/Hyung Chan Lim" ,2 ,0 ,6 ,7 , , , ,2 ,5 , , , ,HARD ,challeger ,ATP
+"BMW Open - Munich 2019" ,2019-05-01 00:00:00 ,"Kevin Krawietz/Andreas Mies" ,"Matthias Bachinger/Peter Gojowczyk" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-05-01 00:00:00 ,"Philipp Oswald/Mate Pavic" ,"Cheng Peng Hsieh/Christopher Rungkat" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-05-01 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Guido Pella/Diego Sebastian Schwartzman" ,2 ,1 ,6 ,1 ,1 , , ,4 ,6 ,3 , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-05-01 00:00:00 ,"Frederik Nielsen/Tim Puetz" ,"Andre Begemann/Rudolf Molleker" ,2 ,1 ,3 ,6 ,1 , , ,6 ,1 ,6 , , ,CLAY ,atp ,ATP
+"Bordeaux Challenger 2019" ,2019-05-01 00:00:00 ,"James Cerretani/Nicholas Monroe" ,"Joffrey De Schepper/Kenny De Schepper" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-01 00:00:00 ,"Nicolas Mahut/Jurgen Melzer" ,"Gianluca Mager/Andrea Pellegrino" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,8 , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-01 00:00:00 ,"Elias Ymer/Mikael Ymer" ,"Raul Brancaccio/Karim Mohamed Maamoun" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,6 , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-01 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Sergio Martos Gornes/Oriol Roca Batalla" ,2 ,1 ,6 ,6 ,1 , , ,3 ,7 ,6 , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-01 00:00:00 ,"Sander Gille/David Vega Hernandez" ,"Gregoire Jacq/Albano Olivetti" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-01 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Jonathan Eysseric/Antonio Sancic" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,challeger ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-01 00:00:00 ,"Guillermo Duran/Maximo Gonzalez" ,"Rajeev Ram/Joe Salisbury" ,2 ,1 ,3 ,7 ,1 , , ,6 ,5 ,7 , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-01 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Leonardo Mayer/Joao Sousa" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-01 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Tiago Cacao/Frederico Gil" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,4 , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-01 00:00:00 ,"Pablo Cuevas/Jean Julien Rojer" ,"Joao Domingues/Pedro Martinez Portero" ,2 ,1 ,6 ,3 ,1 , , ,2 ,6 ,6 , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-01 00:00:00 ,"Gerard Granollers/Marc Lopez" ,"Mackenzie McDonald/Reilly Opelka" ,1 ,0 ,w , , , , , , , , , ,CLAY ,atp ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Marek Gengel/Jan Satral" ,"Daniel Kossek/Mateusz Kowalczyk" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Benjamin Bonzi/Mark Vervoort" ,"Karol Drzewiecki/Szymon Walkow" ,2 ,1 ,6 ,4 ,1 , , ,3 ,6 ,5 , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Dennis Novak/Adam Pavlasek" ,"Steven Diez/Jurgen Zopp" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Tomislav Brkic/Nikola Cacic" ,"Riccardo Bonadio/Emil Ruusuvuori" ,2 ,1 ,6 ,6 ,1 , , ,7 ,1 ,8 , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Vit Kopriva/David Poljak" ,"Tomasz Bednarek/Vaclav Safranek" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Peter Heller/Scott Puodziunas" ,"Julian Ocleppo/Andrea Vavassori" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Thiemo de Bakker/Tallon Griekspoor" ,"Rameez Junaid/Andrei Vasilevski" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,9 , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-01 00:00:00 ,"Luca Margaroli/Filip Polasek" ,"Ivan Gakhov/Alexander Pavlioutchenkov" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-05-01 00:00:00 ,"Evan King/Nathan Pasha" ,"Sebastian Ofner/Mohamed Safwat" ,2 ,1 ,2 ,7 ,1 , , ,6 ,5 ,1 , , ,HARD ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-05-01 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Ariel Behar/Roberto Quiroz" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,HARD ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-01 00:00:00 ,"Dennis Novikov/Andreas Siljestrom" ,"John Paul Fruttero/Sergio Galdos" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-01 00:00:00 ,"JC Aragone/Treat Conrad Huey" ,"Marcelo Tomas Barrios Vera/Ulises Blanch" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,CLAY ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-01 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"Ian Dempster/Anderson Reed" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-01 00:00:00 ,"Hunter Johnson/Yates Johnson" ,"Mats Moraing/Nino Serdarusic" ,1 ,0 ,w , , , , , , , , , ,CLAY ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-01 00:00:00 ,"Manuel Guinard/Arthur Rinderknech" ,"Robert Galloway/Nathaniel Lammons" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,1 , , ,CLAY ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-01 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Ruben Gonzales/Sanchai Ratiwatana" ,2 ,0 ,6 ,7 , , , ,1 ,5 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-01 00:00:00 ,"Ramkumar Ramanathan/Brayden Schnur" ,"N.Sriram Balaji/Jonathan Erlich" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-01 00:00:00 ,"Ruben Bemelmans/Sergiy Stakhovsky" ,"Hong Chung/Jea Moon Lee" ,2 ,0 ,6 ,6 , , , ,1 ,2 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-01 00:00:00 ,"Andre Goransson/Hunter Reese" ,"Zhe Li/Goncalo Oliveira" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-01 00:00:00 ,"Ji Sung Nam/Min Kyu Song" ,"Richard Berankis/Toshihide Matsui" ,2 ,0 ,6 ,6 , , , ,2 ,1 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-01 00:00:00 ,"Max Purcell/Luke Saville" ,"Evgeny Donskoy/Vishnu Vardhan" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"BMW Open - Munich 2019" ,2019-05-02 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Christian Garin/Juan Ignacio Londero" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-05-02 00:00:00 ,"Marcelo Demoliner/Divij Sharan" ,"Kevin Krawietz/Andreas Mies" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,8 , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-05-02 00:00:00 ,"Philipp Oswald/Mate Pavic" ,"Ken Skupski/Neal Skupski" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,CLAY ,atp ,ATP
+"BMW Open - Munich 2019" ,2019-05-02 00:00:00 ,"Frederik Nielsen/Tim Puetz" ,"Austin Krajicek/Artem Sitak" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,CLAY ,atp ,ATP
+"Bordeaux Challenger 2019" ,2019-05-02 00:00:00 ,"Gregoire Barrere/Quentin Halys" ,"James Cerretani/Nicholas Monroe" ,2 ,0 ,7 ,6 , , , ,5 ,4 , , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-02 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Elias Ymer/Mikael Ymer" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-02 00:00:00 ,"Romain Arneodo/Hugo Nys" ,"Sander Gille/David Vega Hernandez" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,4 , , ,CLAY ,challeger ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-02 00:00:00 ,"Gerard Granollers/Marc Lopez" ,"Guido Andreozzi/Hugo Dellien" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-02 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Guillermo Duran/Maximo Gonzalez" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,7 , , ,CLAY ,atp ,ATP
+"Millennium Estoril Open - Estoril 2019" ,2019-05-02 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Pablo Cuevas/Jean Julien Rojer" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,7 , , ,CLAY ,atp ,ATP
+"Ostrava Challenger 2019" ,2019-05-02 00:00:00 ,"Thiemo de Bakker/Tallon Griekspoor" ,"Benjamin Bonzi/Mark Vervoort" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-02 00:00:00 ,"Luca Margaroli/Filip Polasek" ,"Dennis Novak/Adam Pavlasek" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-02 00:00:00 ,"Peter Heller/Scott Puodziunas" ,"Vit Kopriva/David Poljak" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-02 00:00:00 ,"Marek Gengel/Jan Satral" ,"Tomislav Brkic/Nikola Cacic" ,2 ,0 ,7 ,6 , , , ,6 ,0 , , , ,CLAY ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-05-02 00:00:00 ,"Marcelo Arevalo/Miguel Angel Reyes Varela" ,"Scott Clayton/Adil Shamasdin" ,2 ,0 ,6 ,6 , , , ,2 ,3 , , , ,HARD ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-05-02 00:00:00 ,"Andres Artunedo Martinavarr/Baptiste Crepatte" ,"Carlos Gomez Herrera/Gerardo Lopez Villasenor" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-05-02 00:00:00 ,"Jeevan Nedunchezhiyan/Purav Raja" ,"Darian King/Peter Polansky" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,3 , , ,HARD ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-05-02 00:00:00 ,"Gonzalo Escobar/Luis David Martinez" ,"Ernesto Escobedo/Luis Patino" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-02 00:00:00 ,"Alex Lawson/Ruan Roelofse" ,"JC Aragone/Treat Conrad Huey" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,7 , , ,CLAY ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-02 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"Hunter Johnson/Yates Johnson" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,CLAY ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-02 00:00:00 ,"Emilio Gomez/Jack Withrow" ,"Johannes Haerteis/Benjamin Hassan" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,CLAY ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-02 00:00:00 ,"Sander Arends/Tristan Samuel Weissborn" ,"Andre Goransson/Hunter Reese" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,1 , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-02 00:00:00 ,"Max Purcell/Luke Saville" ,"Yunseong Chung/Duckhee Lee" ,2 ,1 ,4 ,7 ,1 , , ,6 ,5 ,6 , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-02 00:00:00 ,"Ramkumar Ramanathan/Brayden Schnur" ,"Ji Sung Nam/Min Kyu Song" ,2 ,1 ,6 ,5 ,1 , , ,3 ,7 ,6 , , ,HARD ,challeger ,ATP
+"BMW Open - Munich 2019" ,2019-05-03 00:00:00 ,"Marcelo Demoliner/Divij Sharan" ,"Philipp Oswald/Mate Pavic" ,2 ,1 ,6 ,3 ,1 , , ,3 ,6 ,4 , , ,CLAY ,atp ,ATP
+"Bordeaux Challenger 2019" ,2019-05-03 00:00:00 ,"Gregoire Barrere/Quentin Halys" ,"Mao Xin Gong/Ze Zhang" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,CLAY ,challeger ,ATP
+"Bordeaux Challenger 2019" ,2019-05-03 00:00:00 ,"Elliot Benchetrit/Tristan Lamasine" ,"Nicolas Mahut/Jurgen Melzer" ,1 ,0 ,7 ,3 ,1 , , ,6 , ,2 , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-03 00:00:00 ,"Thiemo de Bakker/Tallon Griekspoor" ,"Marek Gengel/Jan Satral" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,CLAY ,challeger ,ATP
+"Ostrava Challenger 2019" ,2019-05-03 00:00:00 ,"Luca Margaroli/Filip Polasek" ,"Peter Heller/Scott Puodziunas" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,CLAY ,challeger ,ATP
+"Puerto Vallarta Challenger 2019" ,2019-05-03 00:00:00 ,"Gonzalo Escobar/Luis David Martinez" ,"Hans Hach Verdugo/Ante Pavic" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Savannah Challenger 2019" ,2019-05-03 00:00:00 ,"Roberto Maytin/Fernando Romboli" ,"Alex Lawson/Ruan Roelofse" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,CLAY ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-03 00:00:00 ,"Ruben Bemelmans/Sergiy Stakhovsky" ,"Francis Casey Alcantara/Shintaro Imai" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-03 00:00:00 ,"Ruben Bemelmans/Sergiy Stakhovsky" ,"Ramkumar Ramanathan/Brayden Schnur" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,HARD ,challeger ,ATP
+"Seoul Challenger 2019" ,2019-05-03 00:00:00 ,"Max Purcell/Luke Saville" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,challeger ,ATP

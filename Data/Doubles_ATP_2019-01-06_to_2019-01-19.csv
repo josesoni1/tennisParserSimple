@@ -1,0 +1,139 @@
+tournament,date,aName,bName,aSets,bSets,aS1,aS2,aS3,aS4,aS5,bS1,bS2,bS3,bS4,bS5,surface,level,federation
+"Brisbane International - Brisbane 2019" ,2019-01-06 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Rajeev Ram/Joe Salisbury" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,atp ,ATP
+"Playford Challenger 2019" ,2019-01-06 00:00:00 ,"Max Purcell/Luke Saville" ,"Ariel Behar/Enrique Lopez Perez" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,HARD ,challeger ,ATP
+"Sydney International - Sydney 2019" ,2019-01-06 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Nikola Mektic/Alexander Peya" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-07 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Jean Julien Rojer/Horia Tecau" ,2 ,1 ,3 ,7 ,1 , , ,6 ,6 ,9 , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-07 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Ajeet Rai/George Stoupe" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,atp ,ATP
+"Canberra Challenger 2019" ,2019-01-07 00:00:00 ,"John Paul Fruttero/Marc Andrea Huesler" ,"Adam Taylor/Jason Taylor" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-07 00:00:00 ,"Andrew Harris/Zhe Li" ,"Harry Bourchier/Dayne Kelly" ,2 ,1 ,2 ,6 ,1 , , ,6 ,1 ,8 , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-07 00:00:00 ,"Toshihide Matsui/Kaito Uesugi" ,"Corentin Denolly/Alexandre Muller" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,8 , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-07 00:00:00 ,"Alafia Ayeni/Stefan Vujic" ,"Quoc Khanh Le/Nam Hoang Ly" ,2 ,1 ,3 ,7 ,1 , , ,6 ,5 ,1 , , ,HARD ,challeger ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-08 00:00:00 ,"Henri Kontinen/Frederik Nielsen" ,"Robin Haase/Matwe Middelkoop" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,8 , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-08 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Matteo Berrettini/Fabio Fognini" ,2 ,1 ,6 ,6 ,1 , , ,7 ,3 ,4 , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-08 00:00:00 ,"Guido Pella/Joao Sousa" ,"Cameron Norrie/Jose Statham" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-08 00:00:00 ,"Raven Klaasen/Michael Venus" ,"Dominic Inglot/Franko Skugor" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-08 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Lukasz Kubot/Horacio Zeballos" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,7 , , ,HARD ,atp ,ATP
+"Canberra Challenger 2019" ,2019-01-08 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Brydan Klein/Bradley Mousley" ,2 ,1 ,3 ,6 ,1 , , ,6 ,3 ,7 , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-08 00:00:00 ,"Andreas Mies/Hans Podlipnik Castillo" ,"Marco Bortolotti/Scott Puodziunas" ,2 ,0 ,6 ,6 , , , ,3 ,3 , , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-08 00:00:00 ,"Ariel Behar/Geoffrey Blancaneaux" ,"Sadio Doumbia/Alexander Zhurbin" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-08 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Nikola Cacic/Fernando Romboli" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-08 00:00:00 ,"Kevin King/Alex Lawson" ,"Ruben Gonzales/Nathan Pasha" ,2 ,1 ,5 ,7 ,1 , , ,7 ,6 ,9 , , ,I. HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-08 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Riccardo Bonadio/Jordi Samper Montana" ,2 ,1 ,4 ,6 ,1 , , ,6 ,4 ,8 , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-08 00:00:00 ,"Leander Paes/Miguel Angel Reyes Varela" ,"N.Sriram Balaji/Arjun Kadhe" ,2 ,0 ,6 ,7 , , , ,3 ,5 , , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-08 00:00:00 ,"Timur Khabibulin/Tsung Hua Yang" ,"Teimuraz Gabashvili/Denis Yevseyev" ,2 ,1 ,6 ,6 ,1 , , ,2 ,7 ,8 , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-08 00:00:00 ,"Alessandro Bega/Matteo Viola" ,"Daniel Nguyen/Linh Giang Trinh" ,2 ,1 ,6 ,6 ,1 , , ,1 ,7 ,6 , , ,HARD ,challeger ,ATP
+"Sydney International - Sydney 2019" ,2019-01-08 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Roman Jebavy/Andres Molteni" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-08 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Santiago Gonzalez/Aisam Qureshi" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-08 00:00:00 ,"Ivan Dodig/Edouard Roger Vasselin" ,"Rohan Bopanna/Divij Sharan" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-08 00:00:00 ,"Matthew Ebden/Robert Lindstedt" ,"Luke Bambridge/Jonny O'Mara" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-08 00:00:00 ,"Martin Klizan/Nicholas Monroe" ,"Malek Jaziri/Marc Lopez" ,1 ,0 ,w , , , , , , , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-08 00:00:00 ,"Alex Bolt/Matt Reid" ,"Dusan Lajovic/Andreas Seppi" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-09 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Henri Kontinen/Frederik Nielsen" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-09 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Philipp Oswald/Tim Puetz" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,atp ,ATP
+"Canberra Challenger 2019" ,2019-01-09 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Andrew Harris/Zhe Li" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-09 00:00:00 ,"Andre Goransson/Sem Verbeek" ,"Thomas Fancutt/Jacob Grills" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-09 00:00:00 ,"Marcelo Demoliner/Hugo Nys" ,"Sander Gille/Joran Vliegen" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-09 00:00:00 ,"Tomislav Brkic/Renzo Olivo" ,"David Marrero/Fabrice Martin" ,2 ,1 ,5 ,6 ,1 , , ,7 ,2 ,6 , , ,HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-09 00:00:00 ,"Goncalo Oliveira/Andrea Vavassori" ,"John Mcnally/Kyle Seelig" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-09 00:00:00 ,"Evan King/Hunter Reese" ,"Alex Kobelt/James Kent Trotter" ,2 ,1 ,2 ,6 ,1 , , ,6 ,4 ,7 , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-09 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Benjamin Bonzi/Jonathan Eysseric" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-09 00:00:00 ,"Romain Arneodo/Andrei Vasilevski" ,"Gonzalo Escobar/Roberto Maytin" ,2 ,1 ,7 ,6 ,1 , , ,6 ,7 ,5 , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-09 00:00:00 ,"Luis David Martinez/Andreas Siljestrom" ,"Martin Joyce/Hunter Tubert" ,2 ,1 ,2 ,7 ,1 , , ,6 ,5 ,7 , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-09 00:00:00 ,"Maxime Cressy/Bernardo Saraiva" ,"Tom Jomby/Fabien Reboul" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,I. HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-09 00:00:00 ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,"Sebastian Fanselow/Evan Song" ,1 ,0 ,w , , , , , , , , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-09 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Alafia Ayeni/Stefan Vujic" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-09 00:00:00 ,"Antoine Escoffier/Yusuke Takahashi" ,"Gerard Granollers/Thai Kwiatkowski" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-09 00:00:00 ,"Timur Khabibulin/Tsung Hua Yang" ,"Toshihide Matsui/Kaito Uesugi" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,HARD ,challeger ,ATP
+"Sydney International - Sydney 2019" ,2019-01-09 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Matthew Ebden/Robert Lindstedt" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-09 00:00:00 ,"Ken Skupski/Neal Skupski" ,"Alex Bolt/Matt Reid" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-09 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Ivan Dodig/Edouard Roger Vasselin" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-09 00:00:00 ,"Lleyton Hewitt/Jordan Thompson" ,"Rajeev Ram/Joe Salisbury" ,2 ,0 ,6 ,6 , , , ,1 ,3 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-10 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Austin Krajicek/Artem Sitak" ,2 ,1 ,7 ,2 ,1 , , ,6 ,6 ,2 , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-10 00:00:00 ,"Raven Klaasen/Michael Venus" ,"Guido Pella/Joao Sousa" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-10 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Marcus Daniell/Wesley Koolhof" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,atp ,ATP
+"Canberra Challenger 2019" ,2019-01-10 00:00:00 ,"Andre Goransson/Sem Verbeek" ,"Tomislav Brkic/Renzo Olivo" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-10 00:00:00 ,"Marcelo Demoliner/Hugo Nys" ,"John Paul Fruttero/Marc Andrea Huesler" ,2 ,1 ,6 ,6 ,1 , , ,7 ,4 ,9 , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-10 00:00:00 ,"Ariel Behar/Geoffrey Blancaneaux" ,"Andreas Mies/Hans Podlipnik Castillo" ,2 ,1 ,4 ,6 ,1 , , ,6 ,2 ,1 , , ,HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-10 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Evan King/Hunter Reese" ,2 ,0 ,6 ,7 , , , ,4 ,5 , , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-10 00:00:00 ,"Hans Hach Verdugo/Ante Pavic" ,"Kevin King/Alex Lawson" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-10 00:00:00 ,"Luis David Martinez/Andreas Siljestrom" ,"Goncalo Oliveira/Andrea Vavassori" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-10 00:00:00 ,"Maxime Cressy/Bernardo Saraiva" ,"Romain Arneodo/Andrei Vasilevski" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,I. HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-10 00:00:00 ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,"Alessandro Bega/Matteo Viola" ,2 ,0 ,7 ,6 , , , ,6 ,1 , , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-10 00:00:00 ,"Leander Paes/Miguel Angel Reyes Varela" ,"Antoine Escoffier/Yusuke Takahashi" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , , ,HARD ,challeger ,ATP
+"Sydney International - Sydney 2019" ,2019-01-10 00:00:00 ,"Lleyton Hewitt/Jordan Thompson" ,"Martin Klizan/Nicholas Monroe" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-11 00:00:00 ,"Raven Klaasen/Michael Venus" ,"Bob Bryan/Mike Bryan" ,2 ,0 ,6 ,6 , , , ,4 ,1 , , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-11 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Oliver Marach/Mate Pavic" ,2 ,1 ,6 ,6 ,1 , , ,4 ,7 ,9 , , ,HARD ,atp ,ATP
+"Canberra Challenger 2019" ,2019-01-11 00:00:00 ,"Marcelo Demoliner/Hugo Nys" ,"Denys Molchanov/Igor Zelenay" ,2 ,1 ,7 ,3 ,1 , , ,5 ,6 ,8 , , ,HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-11 00:00:00 ,"Robert Galloway/Nathaniel Lammons" ,"Luis David Martinez/Andreas Siljestrom" ,2 ,1 ,6 ,6 ,1 , , ,7 ,2 ,4 , , ,I. HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-11 00:00:00 ,"Maxime Cressy/Bernardo Saraiva" ,"Hans Hach Verdugo/Ante Pavic" ,2 ,1 ,4 ,6 ,1 , , ,6 ,2 ,9 , , ,I. HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-11 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Sanchai Ratiwatana/Sonchat Ratiwatana" ,2 ,1 ,4 ,6 ,1 , , ,6 ,3 ,5 , , ,HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-11 00:00:00 ,"Leander Paes/Miguel Angel Reyes Varela" ,"Timur Khabibulin/Tsung Hua Yang" ,2 ,1 ,6 ,6 ,1 , , ,7 ,3 ,4 , , ,HARD ,challeger ,ATP
+"Sydney International - Sydney 2019" ,2019-01-11 00:00:00 ,"Juan Sebastian Cabal/Robert Farah" ,"Lleyton Hewitt/Jordan Thompson" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , , ,HARD ,atp ,ATP
+"Sydney International - Sydney 2019" ,2019-01-11 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Ken Skupski/Neal Skupski" ,2 ,1 ,7 ,5 ,1 , , ,6 ,7 ,7 , , ,HARD ,atp ,ATP
+"ASB Classic - Auckland 2019" ,2019-01-12 00:00:00 ,"Ben Mclachlan/Jan Lennard Struff" ,"Raven Klaasen/Michael Venus" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,atp ,ATP
+"Canberra Challenger 2019" ,2019-01-12 00:00:00 ,"Andre Goransson/Sem Verbeek" ,"Ariel Behar/Geoffrey Blancaneaux" ,2 ,0 ,6 ,7 , , , ,1 ,5 , , , ,HARD ,challeger ,ATP
+"Canberra Challenger 2019" ,2019-01-12 00:00:00 ,"Marcelo Demoliner/Hugo Nys" ,"Andre Goransson/Sem Verbeek" ,2 ,1 ,3 ,6 ,1 , , ,6 ,4 ,3 , , ,HARD ,challeger ,ATP
+"Columbus Challenger 2019" ,2019-01-12 00:00:00 ,"Maxime Cressy/Bernardo Saraiva" ,"Robert Galloway/Nathaniel Lammons" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,I. HARD ,challeger ,ATP
+"Da Nang Challenger 2019" ,2019-01-12 00:00:00 ,"Cheng Peng Hsieh/Christopher Rungkat" ,"Leander Paes/Miguel Angel Reyes Varela" ,2 ,1 ,6 ,2 ,1 , , ,3 ,6 ,9 , , ,HARD ,challeger ,ATP
+"Sydney International - Sydney 2019" ,2019-01-12 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Juan Sebastian Cabal/Robert Farah" ,2 ,0 ,6 ,6 , , , ,4 ,3 , , , ,HARD ,atp ,ATP
+"Koblenz Challenger 2019" ,2019-01-15 00:00:00 ,"Peter Heller/Peter Torebko" ,"Arthur De Greef/Tallon Griekspoor" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,6 , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-15 00:00:00 ,"Scott Clayton/Adil Shamasdin" ,"Javier Barranco Cosano/Raul Brancaccio" ,2 ,1 ,6 ,7 ,1 , , ,7 ,6 ,1 , , ,I. HARD ,challeger ,ATP
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Henri Kontinen/John Peers" ,"Santiago Gonzalez/Aisam Qureshi" ,1 ,0 ,6 ,4 , , , ,3 ,1 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Maximo Gonzalez/Nicolas Jarry" ,"Max Purcell/Luke Saville" ,2 ,1 ,3 ,6 ,6 , , ,6 ,4 ,3 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Kevin Krawietz/Nikola Mektic" ,"Nicholas Monroe/Jeevan Nedunchezhiyan" ,2 ,1 ,4 ,7 ,7 , , ,6 ,6 ,5 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Adrian Mannarino/Andreas Mies" ,"Peter Gojowczyk/Albert Ramos Vinolas" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Marcelo Arevalo/James Cerretani" ,"Jean Julien Rojer/Horia Tecau" ,2 ,1 ,7 ,6 ,6 , , ,5 ,7 ,3 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Raven Klaasen/Michael Venus" ,"Bradley Klahn/Mikhail Kukushkin" ,2 ,1 ,4 ,6 ,6 , , ,6 ,4 ,3 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Pablo Carreno Busta/Guillermo Garcia Lopez" ,"Rohan Bopanna/Divij Sharan" ,2 ,1 ,6 ,4 ,7 , , ,1 ,6 ,5 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Leonardo Mayer/Joao Sousa" ,"Feliciano Lopez/Marc Lopez" ,2 ,1 ,6 ,6 ,6 , , ,4 ,7 ,3 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Austin Krajicek/Artem Sitak" ,"Leander Paes/Miguel Angel Reyes Varela" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Pierre Hugues Herbert/Nicolas Mahut" ,"David Marrero/Mischa Zverev" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Lukasz Kubot/Horacio Zeballos" ,"Aljaz Bedene/Maximilian Marterer" ,2 ,1 ,7 ,5 ,6 , , ,5 ,7 ,3 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Luke Bambridge/Jonny O'Mara" ,"Marius Copil/Marton Fucsovics" ,2 ,0 ,6 ,6 , , , ,3 ,1 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Alex Bolt/Marc Polmans" ,2 ,0 ,7 ,7 , , , ,6 ,6 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Marcelo Demoliner/Frederik Nielsen" ,"Gerard Granollers/Marcel Granollers" ,2 ,1 ,4 ,6 ,6 , , ,6 ,4 ,2 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Mao Xin Gong/Ze Zhang" ,"Martin Klizan/Marcin Matkowski" ,2 ,1 ,7 ,5 ,6 , , ,5 ,7 ,4 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Roberto Carballes Baena/Andrey Rublev" ,"Hugo Nys/Benoit Paire" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Denys Molchanov/Igor Zelenay" ,"Matteo Berrettini/Marco Cecchinato" ,2 ,1 ,4 ,6 ,6 , , ,6 ,3 ,3 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Ivan Dodig/Edouard Roger Vasselin" ,"Nick Kyrgios/Matt Reid" ,2 ,0 ,6 ,7 , , , ,2 ,6 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-16 00:00:00 ,"Ryan Harrison/Sam Querrey" ,"Robin Haase/Matwe Middelkoop" ,2 ,1 ,7 ,4 ,6 , , ,5 ,6 ,3 , , ,HARD ,grandSlam ,GS
+"Koblenz Challenger 2019" ,2019-01-16 00:00:00 ,"Jurgen Melzer/Filip Polasek" ,"Sander Arends/Tristan Samuel Weissborn" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-16 00:00:00 ,"Evgeny Karlovskiy/Timur Khabibulin" ,"Goncalo Oliveira/David Pel" ,2 ,1 ,2 ,6 ,1 , , ,6 ,3 ,7 , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-16 00:00:00 ,"Thiemo de Bakker/Mark Vervoort" ,"Benjamin Hassan/Julian Lenz" ,2 ,0 ,7 ,7 , , , ,5 ,6 , , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-16 00:00:00 ,"Marek Gengel/Johannes Haerteis" ,"Alexander Pavlioutchenkov/Szymon Walkow" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,I. HARD ,challeger ,ATP
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Ken Skupski/Neal Skupski" ,"James Duckworth/Jordan Thompson" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Rajeev Ram/Joe Salisbury" ,"Guido Pella/Hans Podlipnik Castillo" ,2 ,0 ,6 ,6 , , , ,0 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Roman Jebavy/Andres Molteni" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Oliver Marach/Mate Pavic" ,"Simone Bolelli/Andreas Seppi" ,2 ,1 ,7 ,6 ,6 , , ,5 ,7 ,0 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Jack Sock/Jack Withrow" ,"Juan Sebastian Cabal/Robert Farah" ,2 ,1 ,6 ,6 ,6 , , ,7 ,3 ,4 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Taylor Harry Fritz/Cameron Norrie" ,"Mirza Basic/Damir Dzumhur" ,2 ,0 ,7 ,7 , , , ,6 ,5 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Radu Albot/Malek Jaziri" ,"Ben Mclachlan/Jan Lennard Struff" ,2 ,1 ,6 ,3 ,7 , , ,2 ,6 ,6 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Pablo Cuevas/Fernando Verdasco" ,"Philipp Oswald/Tim Puetz" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Steve Johnson/Denis Kudla" ,"Matthew Ebden/Robert Lindstedt" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-17 00:00:00 ,"Marcus Daniell/Wesley Koolhof" ,"Lleyton Hewitt/John Patrick Smith" ,2 ,1 ,3 ,6 ,6 , , ,6 ,1 ,4 , , ,HARD ,grandSlam ,GS
+"Koblenz Challenger 2019" ,2019-01-17 00:00:00 ,"Fabricio Neis/Purav Raja" ,"Luca Margaroli/David Vega Hernandez" ,2 ,1 ,7 ,4 ,1 , , ,6 ,6 ,5 , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-17 00:00:00 ,"Jurgen Melzer/Filip Polasek" ,"Scott Clayton/Adil Shamasdin" ,2 ,0 ,6 ,6 , , , ,2 ,2 , , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-17 00:00:00 ,"Evgeny Karlovskiy/Timur Khabibulin" ,"Peter Heller/Peter Torebko" ,2 ,0 ,6 ,6 , , , ,1 ,4 , , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-17 00:00:00 ,"Zdenek Kolar/Adam Pavlasek" ,"Andre Begemann/Rameez Junaid" ,2 ,0 ,6 ,6 , , , ,2 ,4 , , , ,I. HARD ,challeger ,ATP
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Henri Kontinen/John Peers" ,"Ken Skupski/Neal Skupski" ,2 ,0 ,6 ,6 , , , ,3 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Kevin Krawietz/Nikola Mektic" ,"Ivan Dodig/Edouard Roger Vasselin" ,2 ,0 ,6 ,7 , , , ,3 ,6 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Leonardo Mayer/Joao Sousa" ,"Roberto Carballes Baena/Andrey Rublev" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Bob Bryan/Mike Bryan" ,"Adrian Mannarino/Andreas Mies" ,2 ,1 ,7 ,4 ,6 , , ,5 ,6 ,2 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Pablo Carreno Busta/Guillermo Garcia Lopez" ,"Mao Xin Gong/Ze Zhang" ,2 ,1 ,6 ,4 ,6 , , ,3 ,6 ,4 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Pierre Hugues Herbert/Nicolas Mahut" ,"Denys Molchanov/Igor Zelenay" ,2 ,1 ,7 ,6 ,6 , , ,5 ,7 ,4 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Maximo Gonzalez/Nicolas Jarry" ,"Oliver Marach/Mate Pavic" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Jeremy Chardy/Fabrice Martin" ,"Mackenzie McDonald/Tennys Sandgren" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Blake Ellis/Alexei Popyrin" ,"Guillermo Duran/Diego Sebastian Schwartzman" ,2 ,0 ,7 ,6 , , , ,6 ,4 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Dominic Inglot/Franko Skugor" ,"Taro Daniel/John Millman" ,2 ,0 ,7 ,6 , , , ,5 ,3 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-18 00:00:00 ,"Ryan Harrison/Sam Querrey" ,"Austin Krajicek/Artem Sitak" ,2 ,0 ,6 ,7 , , , ,4 ,6 , , , ,HARD ,grandSlam ,GS
+"Koblenz Challenger 2019" ,2019-01-18 00:00:00 ,"Zdenek Kolar/Adam Pavlasek" ,"Marek Gengel/Johannes Haerteis" ,2 ,1 ,6 ,3 ,1 , , ,4 ,6 ,7 , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-18 00:00:00 ,"Fabricio Neis/Purav Raja" ,"Thiemo de Bakker/Mark Vervoort" ,2 ,0 ,6 ,6 , , , ,4 ,2 , , , ,I. HARD ,challeger ,ATP
+"Australian Open - Melbourne 2019" ,2019-01-19 00:00:00 ,"Jamie Murray/Bruno Soares" ,"Luke Bambridge/Jonny O'Mara" ,2 ,1 ,3 ,6 ,7 , , ,6 ,2 ,5 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-19 00:00:00 ,"Radu Albot/Malek Jaziri" ,"Steve Johnson/Denis Kudla" ,2 ,1 ,1 ,6 ,6 , , ,6 ,2 ,4 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-19 00:00:00 ,"Raven Klaasen/Michael Venus" ,"Marcus Daniell/Wesley Koolhof" ,2 ,0 ,7 ,6 , , , ,6 ,3 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-19 00:00:00 ,"Jack Sock/Jack Withrow" ,"Taylor Harry Fritz/Cameron Norrie" ,2 ,1 ,6 ,6 ,7 , , ,7 ,3 ,6 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-19 00:00:00 ,"Marcelo Demoliner/Frederik Nielsen" ,"Dominic Inglot/Franko Skugor" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-19 00:00:00 ,"Lukasz Kubot/Horacio Zeballos" ,"Jeremy Chardy/Fabrice Martin" ,2 ,1 ,7 ,4 ,6 , , ,5 ,6 ,3 , , ,HARD ,grandSlam ,GS
+"Australian Open - Melbourne 2019" ,2019-01-19 00:00:00 ,"Rajeev Ram/Joe Salisbury" ,"Pablo Cuevas/Fernando Verdasco" ,2 ,0 ,6 ,6 , , , ,3 ,2 , , , ,HARD ,grandSlam ,GS
+"Koblenz Challenger 2019" ,2019-01-19 00:00:00 ,"Zdenek Kolar/Adam Pavlasek" ,"Evgeny Karlovskiy/Timur Khabibulin" ,2 ,0 ,7 ,6 , , , ,5 ,2 , , , ,I. HARD ,challeger ,ATP
+"Koblenz Challenger 2019" ,2019-01-19 00:00:00 ,"Jurgen Melzer/Filip Polasek" ,"Fabricio Neis/Purav Raja" ,2 ,0 ,6 ,6 , , , ,4 ,4 , , , ,I. HARD ,challeger ,ATP

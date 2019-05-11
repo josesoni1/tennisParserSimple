@@ -1,0 +1,404 @@
+tournament,date,date_real,aName,bName,aSets,bSets,aS1,aS2,aS3,aS4,aS5,bS1,bS2,bS3,bS4,bS5,surface,level,federation
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Seon Yong Han ,Francesco Passaro ,2,1,3,6,7, , ,6,3,5, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Peter Makk ,Mann Shah ,2,1,4,6,6, , ,6,0,2, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Otto Virtanen ,Stefan Storch ,2,1,6,6,7, , ,1,7,6, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Filip Cristian Jianu ,Matteo Arnaldi ,2,0,6,6, , , ,3,4, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Giulio Zeppieri ,Tyler Zink ,2,0,6,6, , , ,4,2, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Connor Thomson ,Chen Dong ,2,0,6,6, , , ,3,4, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Harold Mayot ,Admir Kalender ,2,1,6,4,6, , ,3,6,4, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Valentin Royer ,Eric Vanshelboim ,2,0,6,6, , , ,2,1, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Cannon Kingsley ,Tom Evans ,2,0,6,6, , , ,1,4, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Wojciech Marek ,Joubert Klopper ,2,0,6,6, , , ,1,4, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Dalibor Svrcina ,Natan Rodrigues ,2,0,6,7, , , ,0,6, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Gustaf Strom ,Ryoma Matsushita ,2,0,6,6, , , ,3,1, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Jonas Forejtek ,Dane Sweeny ,2,0,6,6, , , ,3,0, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Lodewijk Weststrate ,Cooper White ,2,0,6,6, , , ,2,2, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Eliot Spizzirri ,James Story ,2,0,6,6, , , ,2,2, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Toby Alex Kodat ,Ryuhei Azuma ,2,1,6,1,6, , ,4,6,1, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Novak Djokovic ,Denis Shapovalov ,3,1,6,6,4,6, ,3,4,6,0, ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Kei Nishikori ,Joao Sousa ,3,0,7,6,6, , ,6,1,2, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Milos Raonic ,Pierre Hugues Herbert ,3,0,6,6,7, , ,4,4,6, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Pablo Carreno Busta ,Fabio Fognini ,3,1,6,6,2,6, ,2,4,6,4, ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Lucas Pouille ,Alexei Popyrin ,3,2,7,6,6,4,6,6,3,7,6,3,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Daniil Medvedev ,David Goffin ,3,0,6,7,6, , ,2,6,3, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Alexander Zverev ,Alex Bolt ,3,0,6,6,6, , ,3,3,2, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Borna Coric ,Filip Krajinovic ,3,1,2,6,6,6, ,6,3,4,3, ,HARD ,grandSlam ,GS
+Koblenz Challenger 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Roberto Ortega Olmedo ,Pavel Kotov ,2,1,7,3,6, , ,5,6,3, , ,I. HARD ,challeger ,ATP
+Koblenz Challenger 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Gianluca Mager ,Tallon Griekspoor ,2,1,6,2,6, , ,3,6,4, , ,I. HARD ,challeger ,ATP
+M15 Anning 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Agustin Velotti ,Naoki Takeda ,2,1,3,6,6, , ,6,1,0, , ,CLAY ,futures ,ITF
+M15 Anning 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Ray Ho ,Yan Bai ,2,0,6,6, , , ,0,0, , , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Riccardo Bellotti ,Alexander Shevchenko ,2,0,6,6, , , ,2,2, , , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Davide Galoppini ,Dejan Katic ,2,0,7,6, , , ,6,4, , , ,CLAY ,futures ,ITF
+M15 Manacor 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Ivan Gakhov ,Markus Eriksson ,2,0,6,6, , , ,3,3, , , ,CLAY ,futures ,ITF
+M15 Manacor 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Francisco Cerundolo ,Jeroen Vanneste ,2,1,6,1,6, , ,4,6,3, , ,CLAY ,futures ,ITF
+M15 Monastir 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Skander Mansouri ,Adelchi Virgili ,2,0,6,6, , , ,4,4, , , ,HARD ,futures ,ITF
+M15 Monastir 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Riccardo Balzerani ,Maxime Pauwels ,2,0,6,6, , , ,1,3, , , ,HARD ,futures ,ITF
+M15 Naples 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Sekou Bangoura ,Pietro Rondoni ,2,0,7,6, , , ,6,1, , , ,CLAY ,futures ,ITF
+M15 Naples 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Pedro Sakamoto ,Nicolas Mejia ,2,1,4,6,6, , ,6,4,2, , ,CLAY ,futures ,ITF
+M15+H Bressuire 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Leny Mitjana ,Niels Lootsma ,2,0,6,6, , , ,1,4, , , ,I. HARD ,futures ,ITF
+M15+H Bressuire 2019 ,19/01/2019 00:00,2019-01-19 00:00:00,Artem Dubrivnyy ,Matteo Martineau ,2,0,7,6, , , ,5,4, , , ,I. HARD ,futures ,ITF
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Mateus Alves (2001) ,Hikaru Takeda ,2,0,6,6, , , ,2,3, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Nicolas Alvarez Varona ,Louis Herman ,2,0,6,6, , , ,4,2, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Ken Cavrak ,Bora Sengul ,2,0,6,6, , , ,1,3, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Liam Draxl ,Nicholas David Ionel ,2,0,6,6, , , ,3,4, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Phuong Van Nguyen ,Ki Lung Ng ,2,1,6,4,6, , ,4,6,3, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Emilio Nava ,Keisuke Saitoh ,2,0,6,6, , , ,4,2, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Rinky Hijikata ,Lilian Marmousez ,2,0,6,6, , , ,3,4, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Bu Yunchaokete ,Tristan Schoolkate ,2,1,4,6,6, , ,6,1,4, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Jiri Lehecka ,Christian Lerby ,2,0,6,6, , , ,3,4, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Lorenzo Musetti ,Tai Sach ,2,0,6,6, , , ,4,0, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Harry Wendelken ,Gauthier Onclin ,2,1,7,6,7, , ,5,7,6, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Jacob Fearnley ,Tristan Boyer ,2,1,3,7,6, , ,6,6,3, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Holger Vitus Nodskov Rune ,Dominic Stephan Stricker ,2,0,6,7, , , ,3,5, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Zane Khan ,Shunsuke Mitsui ,2,1,7,6,6, , ,6,7,2, , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Alexandr Binda ,Khololwam Montsi ,2,0,6,7, , , ,3,5, , , ,HARD ,grandSlam ,GS
+Australian Open (juniors) 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Luciano Darderi ,Thantub Suksumrarn ,2,1,5,7,6, , ,7,6,2, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Rafael Nadal ,Tomas Berdych ,3,0,6,6,7, , ,0,1,6, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Roberto Bautista Agut ,Marin Cilic ,3,2,6,6,6,4,6,7,3,2,6,4,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Frances Tiafoe ,Grigor Dimitrov ,3,1,7,7,6,7, ,5,6,7,5, ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Stefanos Tsitsipas ,Roger Federer ,3,1,6,7,7,7, ,7,6,5,6, ,HARD ,grandSlam ,GS
+Koblenz Challenger 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Gianluca Mager ,Roberto Ortega Olmedo ,2,1,2,7,6, , ,6,6,2, , ,I. HARD ,challeger ,ATP
+M15 Anning 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Agustin Velotti ,Ray Ho ,2,0,6,6, , , ,4,3, , , ,CLAY ,futures ,ITF
+M15 Manacor 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Francisco Cerundolo ,Ivan Gakhov ,2,0,6,6, , , ,3,3, , , ,CLAY ,futures ,ITF
+M15 Monastir 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Skander Mansouri ,Riccardo Balzerani ,2,0,7,6, , , ,5,3, , , ,HARD ,futures ,ITF
+M15 Naples 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Sekou Bangoura ,Pedro Sakamoto ,2,0,7,6, , , ,6,0, , , ,CLAY ,futures ,ITF
+M15+H Bressuire 2019 ,20/01/2019 00:00,2019-01-20 00:00:00,Leny Mitjana ,Artem Dubrivnyy ,2,0,7,6, , , ,6,4, , , ,I. HARD ,futures ,ITF
+Australian Open - Melbourne 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Milos Raonic ,Alexander Zverev ,3,0,6,6,7, , ,1,1,6, , ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Lucas Pouille ,Borna Coric ,3,1,6,6,7,7, ,7,4,5,6, ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Kei Nishikori ,Pablo Carreno Busta ,3,2,6,4,7,6,7,7,6,6,4,6,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Novak Djokovic ,Daniil Medvedev ,3,1,6,6,6,6, ,4,7,2,3, ,HARD ,grandSlam ,GS
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Donald Young ,Patrick Kypson ,2,0,6,6, , , ,3,2, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Evan Song ,Alafia Ayeni ,2,1,6,6,6, , ,7,3,4, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Jc Aragone ,Ulises Blanch ,2,1,7,2,6, , ,6,6,4, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Maxime Cressy ,Stefan Kozlov ,2,0,7,6, , , ,5,1, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Danilo Petrovic ,Daniel Elahi Galan ,2,1,4,6,6, , ,6,4,2, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Benjamin Bonzi ,Roy Smith ,2,0,6,7, , , ,2,5, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Thomaz Bellucci ,Gastao Elias ,2,0,7,6, , , ,5,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Santiago Giraldo ,Roberto Marcora ,2,0,6,7, , , ,3,6, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Mitchell Krueger ,Evan King ,2,0,7,7, , , ,6,6, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Filip Peliwo ,Roberto Cid ,2,1,2,6,7, , ,6,3,6, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Enzo Couacaud ,Mario Vilella Martinez ,2,0,6,6, , , ,4,3, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Marcos Giron ,Goncalo Oliveira ,2,1,6,6,6, , ,7,3,3, , ,HARD ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Matias Zukas ,Franco Roncadelli ,2,0,6,6, , , ,2,2, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Gonzalo Villanueva ,Thiago Seyboth Wild ,2,1,1,6,6, , ,6,4,3, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Alejandro Tabilo ,Rafael Matos ,2,0,7,6, , , ,5,2, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Tomas Lipovsek Puches ,Jordi Arconada ,2,1,6,4,7, , ,2,6,5, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Renzo Olivo ,Hernan Casanova ,2,0,6,7, , , ,4,6, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Carlos Boluda Purkiss ,Andrea Basso ,2,1,4,6,7, , ,6,3,6, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Joao Souza ,Preston Brown ,2,0,6,6, , , ,2,4, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Alejandro Gonzalez ,Juan Ignacio Galarza ,2,0,7,6, , , ,5,3, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Alexandre Muller ,Joao Menezes ,2,0,6,6, , , ,2,1, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Joao Pedro Sorgi ,Fabrizio Ornago ,2,0,6,6, , , ,4,4, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Gonzalo Lama ,Oscar Jose Gutierrez ,2,0,7,6, , , ,6,2, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Juan Pablo Ficovich ,Francisco Llanes ,2,0,6,6, , , ,4,3, , , ,CLAY ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Fabien Reboul ,Quentin Gueydan ,2,1,6,4,6, , ,4,6,4, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Gregoire Jacq ,Yannick Mertens ,2,0,7,6, , , ,5,2, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Daniel Masur ,Nikola Milojevic ,2,1,7,5,6, , ,5,7,1, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Viktor Galovic ,Maxime Janvier ,2,1,6,6,6, , ,4,7,3, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Oscar Otte ,Mats Moraing ,2,0,7,6, , , ,6,0, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Alexander Bublik ,Hugo Gaston ,2,1,7,3,6, , ,5,6,3, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Aslan Karatsev ,Roman Safiullin ,1,0,6,4, , , ,0,0, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Norbert Gombos ,Carlos Taberner ,2,1,6,4,6, , ,0,6,1, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Gregoire Barrere ,Antoine Cornut Chauvinc ,2,0,6,7, , , ,3,6, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Evan Furness ,Filippo Baldi ,2,0,6,6, , , ,4,4, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Andrea Arnaboldi ,Egor Gerasimov ,2,1,6,3,6, , ,3,6,1, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Manuel Guinard ,Dimitar Kuzmanov ,2,1,3,6,6, , ,6,3,4, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,Jurij Rodionov ,Thiemo de Bakker ,2,0,7,7, , , ,6,6, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,21/01/2019 00:00,2019-01-21 00:00:00,James Ward ,Calvin Hemery ,2,1,7,6,6, , ,5,7,4, , ,I. HARD ,challeger ,ATP
+Australian Open - Melbourne 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Stefanos Tsitsipas ,Roberto Bautista Agut ,3,1,7,4,6,7, ,5,6,4,6, ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Rafael Nadal ,Frances Tiafoe ,3,0,6,6,6, , ,3,4,2, , ,HARD ,grandSlam ,GS
+M15 Palmanova 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Jeroen Vanneste ,Tomas Jirousek ,2,0,6,6, , , ,0,1, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Pol Toledo Bague ,Adrian Bodmer ,2,0,6,6, , , ,1,1, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Jeremy Jahn ,Omar Salman ,2,0,6,6, , , ,2,4, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Maxime Mora ,Sergio Martos Gornes ,2,0,6,7, , , ,2,5, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Giovanni Fonio ,Jaume Pla Malfeito ,2,0,7,6, , , ,5,3, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Johan Nikles ,Andrey Chepelev ,2,0,6,7, , , ,1,6, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Miguel Semmler ,Florent Diep ,2,0,6,6, , , ,3,4, , , ,CLAY ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Vaclav Safranek ,Daniel Batista ,2,0,6,6, , , ,3,2, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Mats Rosenkranz ,Oleg Khotkov ,2,1,6,6,6, , ,1,7,2, , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Oleksii Krutykh ,Yu Hsiou Hsu ,2,0,6,6, , , ,2,4, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Vladyslav Orlov ,Anatoliy Petrenko ,2,1,6,2,6, , ,2,6,3, , ,HARD ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Christopher Heyman ,Louis Lechevretel ,1,0,3, , , , ,1, , , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Raphael Baltensperger ,Mark Whitehouse ,2,0,6,6, , , ,4,4, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Kyrian Jacquet ,Hugo Bron ,2,0,6,7, , , ,1,5, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Lucas Catarina ,Anton Matusevich ,2,1,6,6,6, , ,7,1,1, , ,CARPET ,futures ,ITF
+M25 Kazan 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Matvey Minin ,Shalva Dzhanashia ,2,0,6,6, , , ,3,2, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Maxim Ratniuk ,Ben Patael ,2,0,6,6, , , ,1,3, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Savriyan Danilov ,Ivan Liutarevich ,2,0,6,6, , , ,3,4, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Markos Kalovelonis ,Sergey Bolotov ,2,1,6,3,6, , ,2,6,1, , ,I. HARD ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Tobias Simon ,Tim Heger ,2,0,6,6, , , ,3,4, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Jules Okala ,Lucas Miedler ,2,1,6,7,7, , ,7,5,6, , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Takanyi Garanganga ,Robin Kern ,2,1,4,6,6, , ,6,4,4, , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Lorenzo Frigerio ,Christian Hirschmueller ,1,0,6,3,6,3, ,7, ,2,0, ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Marc Andrea Huesler ,Christoph Negritu ,2,0,6,6, , , ,2,4, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Botic Van De Zandschulp ,Liam Broady ,2,0,6,6, , , ,1,2, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Benjamin Hassan ,Elmar Ejupovic ,2,1,4,6,6, , ,6,3,2, , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Dominik Boehler ,Marvin Netuschil ,2,0,6,6, , , ,4,3, , , ,CARPET ,futures ,ITF
+M25 Palm Coast 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Harrison Adams ,Strong Kirchheimer ,2,1,2,7,6, , ,6,5,4, , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Jared Hiltzik ,Sebastian Korda ,2,0,6,7, , , ,1,5, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Paul Oosterbaan ,Alejandro Gomez ,2,0,6,6, , , ,4,1, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Joao Lucas Reis Da Silva ,Luis Patino ,2,1,6,5,6, , ,4,7,4, , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Alessandro Petrone ,Christian Lindell ,2,0,6,6, , , ,1,4, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Or Ram Harel ,Dragos Constantin Ignat ,2,1,4,7,7, , ,6,5,6, , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Dmitry Popko ,Adrian Andreev ,2,0,6,7, , , ,2,6, , , ,CLAY ,futures ,ITF
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Dennis Novikov ,Ante Pavic ,2,0,6,7, , , ,1,5, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Dustin Brown ,Marcelo Arevalo ,2,1,4,6,6, , ,6,4,4, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Victor Estrella ,Thai Kwiatkowski ,2,0,6,6, , , ,3,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Jc Aragone ,Bjorn Fratangelo ,2,0,7,6, , , ,5,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Maxime Cressy ,Alexander Sarkissian ,2,0,6,6, , , ,3,0, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Jason Jung ,Santiago Giraldo ,2,0,7,7, , , ,6,6, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Filip Peliwo ,Paolo Lorenzi ,2,1,6,3,6, , ,4,6,4, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Kaichi Uchida ,Evan Song ,2,0,7,6, , , ,6,2, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Donald Young ,Noah Rubin ,2,0,6,6, , , ,4,3, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Christian Harrison ,Jan Choinski ,2,1,6,6,6, , ,2,7,4, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Thomaz Bellucci ,Dominik Koepfer ,2,0,6,6, , , ,4,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Miomir Kecmanovic ,Danilo Petrovic ,2,0,6,6, , , ,4,3, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Dennis Novikov ,Christopher Eubanks ,2,1,4,6,7, , ,6,1,6, , ,HARD ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Emilio Gomez ,Viktor Durasovic ,2,0,6,6, , , ,3,2, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Marcelo Tomas Barrios Vera ,Facundo Diaz Acosta ,2,0,6,7, , , ,2,5, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Hugo Dellien ,Renzo Olivo ,2,1,6,3,7, , ,3,6,5, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Alejandro Tabilo ,Sander Gille ,2,0,6,6, , , ,2,4, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Camilo Ugo Carabelli ,Matias Zukas ,2,1,7,2,6, , ,6,6,0, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Juan Pablo Varillas ,Markus Eriksson ,2,0,6,7, , , ,2,6, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Juan Ignacio Londero ,Carlos Boluda Purkiss ,2,0,6,7, , , ,0,6, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Matias Franco Descotte ,Pedro Sakamoto ,2,0,6,6, , , ,4,1, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Gonzalo Lama ,Pedro Cachin ,2,0,7,6, , , ,6,1, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Juan Pablo Ficovich ,Federico Coria ,2,0,7,7, , , ,5,5, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Thiago Moura Monteiro ,Joao Souza ,2,0,7,6, , , ,6,2, , , ,CLAY ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Evgeny Karlovskiy ,Rudolf Molleker ,2,0,6,6, , , ,4,2, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Zdenek Kolar ,Javier Barranco Cosano ,2,0,6,6, , , ,3,1, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Raul Brancaccio ,Gregoire Jacq ,1,0,7,1, , , ,5,0, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Corentin Moutet ,Oscar Otte ,2,0,6,6, , , ,4,4, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Fabien Reboul ,Daniel Gimeno Traver ,2,0,7,6, , , ,5,3, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Sergiy Stakhovsky ,Evan Furness ,2,1,4,6,7, , ,6,3,6, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Quentin Halys ,Daniel Masur ,2,0,6,6, , , ,3,3, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Salvatore Caruso ,Viktor Galovic ,2,1,4,6,6, , ,6,3,3, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Marcos Baghdatis ,Norbert Gombos ,2,1,4,6,6, , ,6,0,1, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Yannick Maden ,Alexander Bublik ,2,0,7,6, , , ,6,1, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Richard Berankis ,Manuel Guinard ,2,0,6,6, , , ,2,4, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,22/01/2019 00:00,2019-01-22 00:00:00,Aslan Karatsev ,Felix Auger Aliassime ,2,0,6,6, , , ,4,4, , , ,I. HARD ,challeger ,ATP
+Australian Open - Melbourne 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Lucas Pouille ,Milos Raonic ,3,1,7,6,6,6, ,6,3,7,4, ,HARD ,grandSlam ,GS
+Australian Open - Melbourne 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Novak Djokovic ,Kei Nishikori ,1,0,6,4, , , ,1,1, , , ,HARD ,grandSlam ,GS
+M15 Palmanova 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Carlos Lopez Montagud ,Jonas Trinker ,2,1,3,7,6, , ,6,5,3, , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Quentin Folliot ,Alberto Romero De Avila Senise ,2,0,6,6, , , ,4,3, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Pedro Vives Marcos ,Matvey Khomentovskiy ,2,0,6,6, , , ,1,0, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Francisco Cerundolo ,Nikolas Sanchez Izquierdo ,2,0,6,7, , , ,3,5, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Sandro Ehrat ,Jakob Sude ,2,0,6,6, , , ,4,3, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Carlos Alcaraz Garfia ,Alvaro Lopez San Martin ,2,1,5,6,6, , ,7,3,1, , ,CLAY ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Karim Mohamed Maamoun ,Petr Hajek ,2,0,6,6, , , ,2,2, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Toby Martin ,Shintaro Imai ,2,1,2,6,6, , ,6,1,2, , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Pablo Vivero Gonzalez ,Daniel Michalski ,2,1,6,7,6, , ,7,6,0, , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Kacper Zuk ,Tomas Liska ,2,0,6,6, , , ,3,3, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Benjamin Lock ,Aleksei Khomich ,2,0,7,6, , , ,6,2, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Enrico Dalla Valle ,Filip Bergevi ,2,0,6,7, , , ,4,5, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Chun Hsin Tseng ,Anze Arh ,2,0,6,6, , , ,0,2, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,David Poljak ,Jose Fco. Vidal Azorin ,2,0,6,6, , , ,3,4, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Adrian Andrzejczuk ,Olexiy Kolisnyk ,2,0,6,6, , , ,1,2, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Lukas Klein ,Michiel De Krom ,2,1,7,4,6, , ,5,6,1, , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Peter Kobelt ,Igor Sao Thiago ,2,0,7,6, , , ,5,2, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Arthur Rinderknech ,Denys Gevel ,2,0,6,6, , , ,1,3, , , ,HARD ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Damien Bayard ,Martin Breysach ,2,0,6,7, , , ,4,5, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Petr Nouza ,Luca Giacomini ,2,0,6,6, , , ,2,2, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Luke Johnson ,Ugo Blanchet ,2,1,6,2,7, , ,1,6,6, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Albano Olivetti ,Quentin Robert (1994) ,2,0,6,6, , , ,3,2, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Leny Mitjana ,Tim Van Der Horst ,2,0,6,6, , , ,2,2, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Tomas Machac ,Alexis Gautier ,2,0,7,6, , , ,6,3, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Hugo Grenier ,Eduardo Struvay ,1,0,7,0,2, , ,6, ,0, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Maxime Tchoutakian ,Jean Thirouin ,2,0,6,6, , , ,1,3, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Dan Added ,Mick Veldheer ,2,0,6,6, , , ,4,3, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Alexis Canter ,Sean Hodkin ,2,0,6,6, , , ,4,3, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Jakub Paul ,Yanais Laurent ,2,1,7,0,7, , ,6,6,6, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Michal Konecny ,Artem Dubrivnyy ,2,0,6,6, , , ,3,4, , , ,CARPET ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Richard Muzaev ,Ivan Gakhov ,2,1,6,3,6, , ,3,6,2, , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Teimuraz Gabashvili ,Alexander Pavlioutchenkov ,2,0,6,6, , , ,3,2, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Denis Matsukevitch ,Artur Shakhnubaryan ,2,0,6,6, , , ,3,4, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Sergey Fomin ,Alibek Kachmazov ,2,1,6,2,6, , ,3,6,4, , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Konstantin Kravchuk ,Timur Kiuamov ,2,0,6,6, , , ,3,4, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Martin Borisiouk ,Mikhail Fufygin ,2,0,6,6, , , ,4,4, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Khumoun Sultanov ,Boris Butulija ,2,0,7,6, , , ,6,2, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Sanjar Fayziev ,Alexander Igoshin ,2,0,6,6, , , ,0,3, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Alexander Vasilenko ,Alexandros Skorilas ,2,0,6,6, , , ,4,1, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Vadym Ursu ,Philipp Klimov ,2,0,6,6, , , ,3,3, , , ,I. HARD ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Kai Wehnelt ,Arjun Kadhe ,2,0,7,7, , , ,6,6, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Tim Van Rijthoven ,Robin Lang ,2,0,6,6, , , ,1,2, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Danylo Kalenichenko ,Antoine Escoffier ,2,1,6,3,7, , ,3,6,6, , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Peter Torebko ,Szymon Walkow ,2,0,6,7, , , ,4,6, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Lucas Gerch ,Lenny Hampel ,2,0,6,6, , , ,1,3, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Alexander Erler ,Michal Przysiezny ,1,0,7,2, , , ,6, , , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Peter Heller ,Andrew Watson ,2,0,6,6, , , ,3,2, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Ryan Peniston ,Osman Torski ,2,0,6,6, , , ,0,1, , , ,CARPET ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Jose Olivares ,Justin Butsch ,2,0,6,6, , , ,2,1, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Pietro Rondoni ,Boris Arias ,2,0,7,6, , , ,5,3, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Nicolas Alvarez ,Evan Zhu ,2,0,6,6, , , ,3,1, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Baker Newman ,Martin Redlicki ,2,0,7,6, , , ,5,1, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Adrian Obert ,Nick Chappell ,2,1,6,4,6, , ,4,6,4, , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Pavel Krainik ,Ritik Sundaram ,2,1,6,6,6, , ,1,7,2, , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Sekou Bangoura ,Facundo Mena ,1,0,4, , , , ,1, , , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Matic Spec ,Jumpei Yamasaki ,2,0,6,7, , , ,3,6, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Nicolas Mejia ,Aron Hiltzik ,2,0,6,6, , , ,2,2, , , ,CLAY ,futures ,ITF
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Enzo Couacaud ,Ernesto Escobedo ,2,0,6,6, , , ,4,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Roberto Quiroz ,Christian Harrison ,2,0,7,6, , , ,6,2, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Mackenzie Mcdonald ,Mitchell Krueger ,2,0,6,6, , , ,3,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Darian King ,Benjamin Bonzi ,2,0,6,6, , , ,4,2, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Taylor Harry Fritz ,Marcos Giron ,2,1,2,7,7, , ,6,6,6, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Brayden Schnur ,Maxime Cressy ,2,0,6,7, , , ,2,5, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Kaichi Uchida ,Peter Polansky ,2,1,0,6,7, , ,6,3,6, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Dustin Brown ,Alafia Ayeni ,2,1,6,6,6, , ,7,3,3, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Collin Altamirano ,Victor Estrella ,2,0,7,6, , , ,5,2, , , ,HARD ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Tomas Lipovsek Puches ,Martin Cuevas ,2,1,3,7,6, , ,6,6,4, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Facundo Bagnis ,Alexandre Muller ,2,1,6,6,6, , ,1,7,4, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Kimmer Coppejans ,Camilo Ugo Carabelli ,2,0,6,6, , , ,1,4, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Nino Serdarusic ,Gonzalo Villanueva ,2,1,7,4,6, , ,6,6,4, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Marcelo Tomas Barrios Vera ,Alessandro Giannessi ,2,0,6,6, , , ,4,4, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Rogerio Dutra Da Silva ,Alejandro Gonzalez ,2,0,7,6, , , ,6,2, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Andrej Martin ,Joao Pedro Sorgi ,2,0,7,6, , , ,6,1, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Andrea Collarini ,Matias Franco Descotte ,2,0,7,7, , , ,5,5, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Facundo Arguello ,Alejandro Tabilo ,2,0,6,7, , , ,2,6, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Gianluigi Quinzi ,Juan Pablo Varillas ,2,1,6,7,6, , ,7,6,4, , ,CLAY ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Raul Brancaccio ,Dennis Novak ,2,1,6,1,7, , ,2,6,6, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Andrea Arnaboldi ,Constant Lestienne ,2,1,4,7,6, , ,6,6,3, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Antoine Hoang ,Zdenek Kolar ,2,0,6,6, , , ,3,4, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Lukas Rosol ,Gregoire Barrere ,2,1,3,7,6, , ,6,6,3, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Yannick Mertens ,Evgeny Karlovskiy ,2,0,6,7, , , ,3,6, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Elias Ymer ,Fabien Reboul ,2,0,6,6, , , ,1,1, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Jurij Rodionov ,Adrian Mannarino ,2,1,6,4,6, , ,4,6,3, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,23/01/2019 00:00,2019-01-23 00:00:00,Benoit Paire ,James Ward ,2,0,6,7, , , ,2,6, , , ,I. HARD ,challeger ,ATP
+Australian Open - Melbourne 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Rafael Nadal ,Stefanos Tsitsipas ,3,0,6,6,6, , ,2,4,0, , ,HARD ,grandSlam ,GS
+M15 Antalya 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Dejan Katic ,Alexander Shevchenko ,2,1,4,6,6, , ,6,4,1, , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Sagadat Ayap ,Sarp Agabigun ,2,1,6,7,7, , ,7,5,6, , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Pol Martin Tiffon ,Vullnet Tashi ,2,0,6,6, , , ,2,4, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Walter Trusendi ,Dennis Uspensky ,2,0,6,6, , , ,2,3, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Pol Toledo Bague ,Pedro Vives Marcos ,2,1,4,6,6, , ,6,3,2, , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Maxime Mora ,Giovanni Fonio ,2,0,6,7, , , ,1,6, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Miguel Semmler ,Quentin Folliot ,1,0,6,2, , , ,1,0, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Carlos Alcaraz Garfia ,Jeroen Vanneste ,2,0,6,6, , , ,3,1, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Francisco Cerundolo ,Dante Gennaro ,2,0,6,6, , , ,4,0, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Sandro Ehrat ,Johan Nikles ,2,1,4,6,6, , ,6,4,4, , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Carlos Lopez Montagud ,Jeremy Jahn ,2,0,7,6, , , ,6,1, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Pol Martin Tiffon ,Walter Trusendi ,2,1,3,7,6, , ,6,5,1, , ,CLAY ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Lukas Klein ,Adrian Andrzejczuk ,2,0,6,6, , , ,1,3, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Kacper Zuk ,Vaclav Safranek ,1,0,w , , , , , , , , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,David Poljak ,Benjamin Lock ,2,0,6,6, , , ,0,3, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Chun Hsin Tseng ,Mats Rosenkranz ,2,0,7,6, , , ,6,3, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Enrico Dalla Valle ,Vladyslav Orlov ,2,0,6,6, , , ,3,3, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Arthur Rinderknech ,Oleksii Krutykh ,2,0,6,7, , , ,4,6, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Karim Mohamed Maamoun ,Peter Kobelt ,2,0,6,6, , , ,2,3, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Pablo Vivero Gonzalez ,Toby Martin ,2,0,6,6, , , ,4,4, , , ,HARD ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Christopher Heyman ,Leny Mitjana ,2,1,6,3,6, , ,3,6,1, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Lucas Catarina ,Luke Johnson ,2,1,7,4,6, , ,5,6,3, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Albano Olivetti ,Kyrian Jacquet ,2,1,4,6,6, , ,6,2,3, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Raphael Baltensperger ,Petr Nouza ,2,0,7,6, , , ,6,4, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Maxime Tchoutakian ,Jakub Paul ,2,1,3,6,6, , ,6,2,1, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Dan Added ,Michal Konecny ,2,1,2,7,6, , ,6,5,4, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Hugo Grenier ,Alexis Canter ,2,0,6,6, , , ,3,1, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Tomas Machac ,Damien Bayard ,2,0,6,6, , , ,2,3, , , ,CARPET ,futures ,ITF
+M25 Kazan 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Alexander Vasilenko ,Khumoun Sultanov ,2,0,6,6, , , ,4,0, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Teimuraz Gabashvili ,Savriyan Danilov ,2,1,6,4,6, , ,2,6,3, , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Sergey Betov ,Markos Kalovelonis ,2,0,6,6, , , ,2,3, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Sanjar Fayziev ,Sergey Fomin ,2,0,6,7, , , ,2,6, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Konstantin Kravchuk ,Vadym Ursu ,2,0,6,6, , , ,1,3, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Maxim Ratniuk ,Matvey Minin ,2,1,6,2,7, , ,3,6,6, , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Richard Muzaev ,Martin Borisiouk ,2,0,7,6, , , ,6,2, , , ,I. HARD ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Benjamin Hassan ,Dominik Boehler ,2,1,2,6,6, , ,6,3,4, , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Alexander Erler ,Marc Andrea Huesler ,2,1,5,6,6, , ,7,4,4, , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Peter Torebko ,Danylo Kalenichenko ,2,0,6,6, , , ,2,3, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Botic Van De Zandschulp ,Lorenzo Frigerio ,2,0,6,6, , , ,2,3, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Tobias Simon ,Ryan Peniston ,2,0,7,6, , , ,6,4, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Peter Heller ,Kai Wehnelt ,2,0,6,6, , , ,4,1, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Tim Van Rijthoven ,Lucas Gerch ,2,0,7,6, , , ,6,4, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Takanyi Garanganga ,Jules Okala ,2,1,4,6,7, , ,6,3,6, , ,CARPET ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Alessandro Petrone ,Pavel Krainik ,2,1,7,6,6, , ,5,7,3, , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Paul Oosterbaan ,Matic Spec ,2,0,6,6, , , ,2,4, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Nicolas Alvarez ,Dmitry Popko ,2,0,6,6, , , ,1,4, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Sekou Bangoura ,Jose Olivares ,2,0,6,6, , , ,2,3, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Pietro Rondoni ,Nicolas Mejia ,2,1,3,6,7, , ,6,0,6, , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Or Ram Harel ,Jared Hiltzik ,2,0,6,6, , , ,3,3, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Harrison Adams ,Adrian Obert ,2,0,6,6, , , ,2,1, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Joao Lucas Reis Da Silva ,Baker Newman ,2,0,6,6, , , ,4,2, , , ,CLAY ,futures ,ITF
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Darian King ,Kaichi Uchida ,2,1,6,4,6, , ,3,6,4, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Miomir Kecmanovic ,Thomaz Bellucci ,2,1,6,1,6, , ,2,6,2, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Jason Jung ,Dennis Novikov ,2,1,4,6,7, , ,6,4,5, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Brayden Schnur ,Mackenzie Mcdonald ,2,0,6,6, , , ,2,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Taylor Harry Fritz ,Roberto Quiroz ,2,0,6,6, , , ,3,3, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Donald Young ,Jc Aragone ,2,0,6,6, , , ,3,4, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Collin Altamirano ,Dustin Brown ,2,0,7,6, , , ,6,2, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Enzo Couacaud ,Filip Peliwo ,2,1,3,6,6, , ,6,4,3, , ,HARD ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Emilio Gomez ,Guido Andreozzi ,2,0,7,7, , , ,6,5, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Facundo Bagnis ,Nino Serdarusic ,2,0,6,6, , , ,0,2, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Thiago Moura Monteiro ,Gonzalo Lama ,2,0,6,6, , , ,3,4, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Hugo Dellien ,Juan Pablo Ficovich ,2,0,6,6, , , ,3,3, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Facundo Arguello ,Rogerio Dutra Da Silva ,2,0,6,6, , , ,3,4, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Gianluigi Quinzi ,Andrej Martin ,2,1,6,6,6, , ,4,7,3, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Kimmer Coppejans ,Marcelo Tomas Barrios Vera ,2,0,6,7, , , ,3,5, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Emilio Gomez ,Andrea Collarini ,2,1,6,6,6, , ,7,4,4, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Juan Ignacio Londero ,Tomas Lipovsek Puches ,2,0,6,6, , , ,3,1, , , ,CLAY ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Quentin Halys ,Raul Brancaccio ,2,1,6,6,6, , ,7,4,4, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Richard Berankis ,Salvatore Caruso ,2,0,6,6, , , ,3,2, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Corentin Moutet ,Aslan Karatsev ,2,0,6,6, , , ,2,3, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Marcos Baghdatis ,Sergiy Stakhovsky ,2,0,6,7, , , ,4,6, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Elias Ymer ,Yannick Mertens ,2,0,6,6, , , ,3,4, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Antoine Hoang ,Jurij Rodionov ,2,1,7,2,6, , ,6,6,4, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Yannick Maden ,Andrea Arnaboldi ,2,0,6,7, , , ,4,6, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,24/01/2019 00:00,2019-01-24 00:00:00,Benoit Paire ,Lukas Rosol ,2,0,7,6, , , ,6,2, , , ,I. HARD ,challeger ,ATP
+Australian Open - Melbourne 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Novak Djokovic ,Lucas Pouille ,3,0,6,6,6, , ,0,2,2, , ,HARD ,grandSlam ,GS
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Alexander Ovcharov ,Dostanbek Tashbulatov ,2,1,3,6,1, , ,6,1,8, , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Luis Gomar Monio ,Duje Kekez ,2,1,4,6,1, , ,6,2,3, , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Maciej Rajski ,Timofey Skatov ,2,1,6,6,1, , ,3,7,7, , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Matej Sabanov ,Mert Alkaya ,2,0,6,6, , , ,0,3, , , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Samuel Brosset ,Stefano Baldoni ,1,0,5, , , , ,0, , , , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Wilson Leite ,Nikita Mashtakov ,2,1,1,6,1, , ,6,4,6, , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Pavel Nejedly ,Saida'Lo Saidkarimov ,2,0,7,6, , , ,5,4, , , ,CLAY ,futures ,ITF
+M15 Antalya 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Andres Fernandez Canovas ,Vladimir Korolev ,2,0,6,6, , , ,2,1, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Francisco Cerundolo ,Pol Toledo Bague ,2,1,3,6,6, , ,6,2,2, , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Carlos Alcaraz Garfia ,Maxime Mora ,2,0,6,6, , , ,2,4, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Pol Martin Tiffon ,Carlos Lopez Montagud ,2,0,7,6, , , ,6,4, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Sandro Ehrat ,Miguel Semmler ,2,0,7,6, , , ,6,0, , , ,CLAY ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Karim Mohamed Maamoun ,David Poljak ,2,1,6,3,6, , ,1,6,3, , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Pablo Vivero Gonzalez ,Kacper Zuk ,2,0,7,6, , , ,5,4, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Lukas Klein ,Arthur Rinderknech ,2,0,7,6, , , ,6,2, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Chun Hsin Tseng ,Enrico Dalla Valle ,2,0,6,7, , , ,4,6, , , ,HARD ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Maxime Tchoutakian ,Lucas Catarina ,2,0,7,6, , , ,5,2, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Raphael Baltensperger ,Albano Olivetti ,2,1,7,3,7, , ,6,6,6, , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Christopher Heyman ,Dan Added ,2,0,6,6, , , ,3,4, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Hugo Grenier ,Tomas Machac ,2,0,6,6, , , ,3,4, , , ,CARPET ,futures ,ITF
+M25 Kazan 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Sanjar Fayziev ,Alexander Vasilenko ,2,1,3,6,6, , ,6,4,2, , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Teimuraz Gabashvili ,Maxim Ratniuk ,2,0,6,6, , , ,4,3, , , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Konstantin Kravchuk ,Richard Muzaev ,2,0,6,6, , , ,2,2, , , ,I. HARD ,futures ,ITF
+M25 Nussloch 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Alexander Erler ,Tobias Simon ,2,0,6,7, , , ,4,6, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Botic Van De Zandschulp ,Benjamin Hassan ,2,0,6,6, , , ,3,4, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Tim Van Rijthoven ,Takanyi Garanganga ,2,0,6,7, , , ,4,6, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Peter Heller ,Peter Torebko ,2,0,7,6, , , ,6,4, , , ,CARPET ,futures ,ITF
+M25 Palm Coast 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Or Ram Harel ,Paul Oosterbaan ,2,0,6,6, , , ,2,1, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Nicolas Alvarez ,Pietro Rondoni ,2,0,6,6, , , ,1,3, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Sekou Bangoura ,Harrison Adams ,1,0,6,3, , , ,1,0, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Alessandro Petrone ,Joao Lucas Reis Da Silva ,2,0,6,7, , , ,1,5, , , ,CLAY ,futures ,ITF
+Newport Beach Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Enzo Couacaud ,Darian King ,2,1,6,3,7, , ,3,6,6, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Brayden Schnur ,Jason Jung ,2,0,6,6, , , ,2,1, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Taylor Harry Fritz ,Miomir Kecmanovic ,2,1,2,6,6, , ,6,4,3, , ,HARD ,challeger ,ATP
+Punta Del Este Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Emilio Gomez ,Kimmer Coppejans ,2,1,6,2,6, , ,4,6,3, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Thiago Moura Monteiro ,Gianluigi Quinzi ,2,0,7,7, , , ,5,5, , , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Facundo Bagnis ,Hugo Dellien ,2,1,7,4,6, , ,5,6,1, , ,CLAY ,challeger ,ATP
+Rennes Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Corentin Moutet ,Quentin Halys ,2,0,6,7, , , ,4,5, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Antoine Hoang ,Marcos Baghdatis ,2,1,2,7,6, , ,6,6,4, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Richard Berankis ,Elias Ymer ,2,0,6,6, , , ,4,4, , , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,25/01/2019 00:00,2019-01-25 00:00:00,Yannick Maden ,Benoit Paire ,1,0,6,2, , , ,4,1, , , ,I. HARD ,challeger ,ATP
+M15 Antalya 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Simon Freund ,Matyas Fuele ,2,1,6,4,1, , ,2,6,6, , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Sandro Ehrat ,Pol Martin Tiffon ,2,0,7,6, , , ,5,0, , , ,CLAY ,futures ,ITF
+M15 Palmanova 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Francisco Cerundolo ,Carlos Alcaraz Garfia ,2,0,6,6, , , ,2,4, , , ,CLAY ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Karim Mohamed Maamoun ,Lukas Klein ,2,0,7,7, , , ,5,5, , , ,HARD ,futures ,ITF
+M15 Sharm El Sheikh 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Pablo Vivero Gonzalez ,Chun Hsin Tseng ,2,0,6,6, , , ,2,3, , , ,HARD ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Maxime Tchoutakian ,Raphael Baltensperger ,2,0,7,6, , , ,6,3, , , ,CARPET ,futures ,ITF
+M15 Veigy-Foncenex 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Christopher Heyman ,Hugo Grenier ,2,0,2,d , , , ,0, , , , ,CARPET ,futures ,ITF
+M25 Kazan 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Sanjar Fayziev ,Evgeny Tyurnev ,2,1,6,6,7, , ,3,7,6, , ,I. HARD ,futures ,ITF
+M25 Kazan 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Teimuraz Gabashvili ,Konstantin Kravchuk ,2,1,7,4,6, , ,5,6,1, , ,I. HARD ,futures ,ITF
+M25 Nussloch 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Botic Van De Zandschulp ,Alexander Erler ,2,0,6,6, , , ,3,3, , , ,CARPET ,futures ,ITF
+M25 Nussloch 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Peter Heller ,Tim Van Rijthoven ,2,1,6,3,7, , ,4,6,6, , ,CARPET ,futures ,ITF
+M25 Palm Coast 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Nicolas Alvarez ,Alessandro Petrone ,2,0,6,6, , , ,1,4, , , ,CLAY ,futures ,ITF
+M25 Palm Coast 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Sekou Bangoura ,Or Ram Harel ,2,1,6,6,7, , ,7,1,5, , ,CLAY ,futures ,ITF
+Newport Beach Challenger 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Donald Young ,Collin Altamirano ,2,0,6,6, , , ,2,1, , , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Brayden Schnur ,Donald Young ,2,1,6,3,7, , ,2,6,6, , ,HARD ,challeger ,ATP
+Newport Beach Challenger 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Taylor Harry Fritz ,Enzo Couacaud ,2,0,6,6, , , ,1,4, , , ,HARD ,challeger ,ATP
+Punta Del Este Challenger 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Facundo Arguello ,Juan Ignacio Londero ,2,1,7,3,6, , ,6,6,1, , ,CLAY ,challeger ,ATP
+Punta Del Este Challenger 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Thiago Moura Monteiro ,Emilio Gomez ,2,0,7,6, , , ,6,3, , , ,CLAY ,challeger ,ATP
+Rennes Challenger 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Antoine Hoang ,Corentin Moutet ,2,1,4,7,6, , ,6,6,4, , ,I. HARD ,challeger ,ATP
+Rennes Challenger 2019 ,26/01/2019 00:00,2019-01-26 00:00:00,Richard Berankis ,Yannick Maden ,2,0,6,6, , , ,4,4, , , ,I. HARD ,challeger ,ATP
